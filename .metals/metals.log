@@ -1,0 +1,33 @@
+2023.11.04 13:21:22 INFO  Started: Metals version 1.1.0 in folders 'P:\GP' for client Visual Studio Code 1.84.0.
+2023.11.04 13:21:23 WARN  Build server is not auto-connectable.
+2023.11.04 13:21:23 WARN  no build tool detected in workspace 'P:\GP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Nov 04, 2023 1:21:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: ???
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: ???
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at scala.concurrent.ExecutionContext$parasitic$.execute(ExecutionContext.scala:222)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$DefaultPromise.linkRootOf(Promise.scala:347)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:471)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.util.NoSuchElementException: ???
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$executeCommand$40(WorkspaceLspService.scala:862)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProvider$FindFirstDebugSession.$anonfun$getFirstOrElse$1(DebugProvider.scala:1016)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	... 3 more
+
+2023.11.04 13:33:31 INFO  Shutting down server
+2023.11.04 13:33:31 INFO  shutting down Metals
+2023.11.04 13:33:31 INFO  Exiting server
