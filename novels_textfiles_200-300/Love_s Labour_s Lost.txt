@@ -1,0 +1,7597 @@
+Get even more from the Folger
+
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+
+ Buy a copy
+
+Folger Shakespeare Library
+
+https://shakespeare.folger.edu/
+
+Front
+Matter
+
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+
+ACT 1
+Scene 1
+Scene 2
+
+ACT 2
+Scene 1
+
+ACT 3
+Scene 1
+
+ACT 4
+
+Scene 1
+Scene 2
+Scene 3
+
+ACT 5
+Scene 1
+Scene 2
+
+Contents
+
+Michael Witmore
+
+Director, Folger Shakespeare Library
+
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+
+From the Director of the Folger Shakespeare
+
+Library
+
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+
+Textual Introduction
+
+By Barbara Mowat and Paul Werstine
+
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+In Love’s Labor’s Lost, the comedy centers on four young men who
+fall in love against their wills. The men, one of them the king of
+Navarre, pledge to study for three years, avoiding all contact with
+women. When the Princess of France arrives on a state visit, the king
+insists she and her ladies camp outside the court. Even so, each
+young man falls in love with one of the ladies.
+
+Meanwhile, Don Armado, a Spanish soldier, falls for a servant girl,
+Jacquenetta. Costard, an illiterate local, mixes up two letters he is to
+deliver, one from Armado to Jacquenetta and the other from
+Berowne, one of the king’s companions, to Rosaline, one of the
+French ladies.
+
+The men confess they are in love, and devise a pageant for the
+ladies, who set a trap for them by exchanging identifying markers.
+When word comes that the princess’s father is dead, the ladies reject
+the men’s proposals as rash and impose a year’s delay before any
+further wooing.
+
+Synopsis
+
+KING of Navarre, also known as Ferdinand
+
+The PRINCESS of France
+
+BOYET, a lord attending the Princess
+
+ARMADO, the BRAGGART, also known as Don Adriano de Armado
+
+BOY, Armado’s PAGE, also known as MOTE
+
+JAQUENETTA, the WENCH
+
+COSTARD, the CLOWN or SWAIN
+
+DULL, the CONSTABLE
+
+HOLOFERNES, the PEDANT, or schoolmaster
+
+NATHANIEL, the CURATE
+
+FORESTER
+
+MONSIEUR MARCADE, a messenger from France
+
+Lords, Blackamoors, Musicians
+
+Characters in the Play
+
+lords attending the King
+
+BEROWNE
+
+LONGAVILLE
+
+DUMAINE
+
+ladies attending the Princess
+
+ROSALINE
+
+MARIA
+
+KATHERINE
+
+KING
+
+He holds up a scroll.
+
+Enter Ferdinand, King of Navarre, Berowne,
+
+Longaville, and Dumaine.
+
+ Your oaths are passed, and now subscribe your
+
+ names,
+
+ That his own hand may strike his honor down
+
+ACT 1
+
+FTLN 0005
+5
+
+FTLN 0010
+10
+
+FTLN 0015
+15
+
+FTLN 0020
+20
+
+9
+Love’s Labor’s Lost
+ACT 1. SC. 1
+
+LONGAVILLE
+
+He signs his name.
+
+DUMAINE
+
+He signs his name.
+
+BEROWNE
+
+KING
+
+ That violates the smallest branch herein.
+ If you are armed to do as sworn to do,
+ Subscribe to your deep oaths, and keep it too.
+
+FTLN 0030
+30
+
+FTLN 0035
+35
+
+FTLN 0040
+40
+
+FTLN 0045
+45
+
+FTLN 0050
+50
+
+LONGAVILLE
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+ sense.
+
+FTLN 0055
+55
+
+FTLN 0060
+60
+
+FTLN 0065
+65
+
+FTLN 0070
+70
+
+FTLN 0075
+75
+
+KING
+
+DUMAINE
+
+LONGAVILLE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+KING
+
+ Doth falsely blind the eyesight of his look.
+  Light seeking light doth light of light beguile.
+ So, ere you find where light in darkness lies,
+ Your light grows dark by losing of your eyes.
+ Study me how to please the eye indeed
+  By fixing it upon a fairer eye,
+ Who dazzling so, that eye shall be his heed
+  And give him light that it was blinded by.
+ Study is like the heaven’s glorious sun,
+  That will not be deep-searched with saucy looks.
+ Small have continual plodders ever won,
+  Save base authority from others’ books.
+ These earthly godfathers of heaven’s lights,
+  That give a name to every fixèd star,
+ Have no more profit of their shining nights
+  Than those that walk and wot not what they are.
+ Too much to know is to know naught but fame,
+ And every godfather can give a name.
+
+  
+ Fit in his place and time.
+
+  
+ Something then in rhyme.
+
+FTLN 0080
+80
+
+FTLN 0085
+85
+
+FTLN 0090
+90
+
+FTLN 0095
+95
+
+FTLN 0100
+100
+
+FTLN 0105
+105
+
+KING
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+LONGAVILLE
+
+BEROWNE
+
+LONGAVILLE
+
+BEROWNE
+
+LONGAVILLE
+
+BEROWNE
+
+ reads
+  Item, That no woman shall come within
+
+ a mile of my court. Hath this been proclaimed?
+
+  Four days ago.
+
+  Let’s see the penalty.  Reads:  On pain of
+
+ losing her tongue. Who devised this penalty?
+
+  Marry, that did I.
+
+  Sweet lord, and why?
+
+FTLN 0125
+125
+
+FTLN 0130
+130
+
+FTLN 0134
+
+FTLN 0135
+135
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+He signs his name.
+
+ This article, my liege, yourself must break,
+  For well you know here comes in embassy
+ The French king’s daughter with yourself to speak—
+  A maid of grace and complete majesty—
+ About surrender up of Aquitaine
+  To her decrepit, sick, and bedrid father.
+ Therefore this article is made in vain,
+  Or vainly comes th’ admirèd princess hither.
+
+  space;
+
+ For every man with his affects is born,
+  Not by might mastered, but by special grace.
+ If I break faith, this word shall speak for me:
+ I am forsworn on mere necessity.
+ So to the laws at large I write my name,
+  And he that breaks them in the least degree
+ Stands in attainder of eternal shame.
+  Suggestions are to other as to me,
+ But I believe, although I seem so loath,
+ I am the last that will last keep his oath.
+
+ But is there no quick recreation granted?
+
+FTLN 0140
+140
+
+FTLN 0155
+155
+
+FTLN 0160
+160
+
+FTLN 0165
+165
+
+BEROWNE
+
+LONGAVILLE
+
+DULL
+
+BEROWNE
+
+DULL
+
+BEROWNE
+
+DULL
+
+He gives the letter to the King.
+
+COSTARD
+
+KING
+
+Enter Dull,  a Constable, with a letter, and  Costard.
+
+  Which is the Duke’s own person?
+
+  This, fellow. What wouldst?
+
+  I myself reprehend his own person, for I am his
+
+ Grace’s farborough. But I would see his own
+ person in flesh and blood.
+
+  This is he.
+
+, to King
+  Signior Arm-, Arm-, commends you.
+
+ There’s villainy abroad. This letter will tell you
+ more. 
+
+  Sir, the contempts thereof are as touching
+
+ me.
+
+  A letter from the magnificent Armado.
+
+FTLN 0185
+185
+
+FTLN 0190
+190
+
+FTLN 0195
+195
+
+LONGAVILLE
+
+LONGAVILLE
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+KING
+
+BEROWNE
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+  How low soever the matter, I hope in God
+
+ for high words.
+
+  A high hope for a low heaven. God grant
+
+ us patience!
+
+  To hear, or forbear hearing?
+
+  To hear meekly, sir, and to laugh moderately,
+
+ or to forbear both.
+
+  Well, sir, be it as the style shall give us cause
+
+ to climb in the merriness.
+
+  The matter is to me, sir, as concerning
+
+ Jaquenetta. The manner of it is, I was taken with
+ the manner.
+
+  In what manner?
+  In manner and form following, sir, all those
+
+ three. I was seen with her in the manor house,
+ sitting with her upon the form, and taken following
+ her into the park, which, put together, is “in manner
+ and form following.” Now, sir, for the manner.
+ It is the manner of a man to speak to a woman. For
+ the form—in some form.
+
+  For the “following,” sir?
+  As it shall follow in my correction, and God
+
+ defend the right.
+
+  Will you hear this letter with attention?
+
+  As we would hear an oracle.
+  Such is the sinplicity of man to hearken after
+
+ the flesh.
+ reads
+  Great deputy, the welkin’s vicegerent and
+
+ sole dominator of Navarre, my soul’s earth’s god, and
+ body’s fost’ring patron—
+
+  Not a word of Costard yet.
+
+ reads
+  So it is—
+
+  It may be so, but if he say it is so, he is, in
+
+ telling true, but so.
+
+  Peace.
+
+  Be to me, and every man that dares not fight.
+
+FTLN 0215
+215
+
+FTLN 0220
+220
+
+FTLN 0225
+225
+
+FTLN 0230
+230
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+  No words.
+
+  Of other men’s secrets, I beseech you.
+
+ reads
+  So it is, besieged  with sable-colored melancholy,
+
+ I did commend the black oppressing humor
+ to the most wholesome physic of thy health-giving air;
+ and, as I am a gentleman, betook myself to walk. The
+ time when? About the sixth hour, when beasts most
+ graze, birds best peck, and men sit down to that
+ nourishment which is called supper. So much for the
+ time when. Now for the ground which—which, I
+ mean, I walked upon. It is yclept thy park. Then for the
+ place where—where, I mean, I did encounter that
+ obscene and most prepost’rous event that draweth
+ from my snow-white pen the ebon-colored ink, which
+ here thou viewest, beholdest, surveyest, or seest. But to
+ the place where. It standeth north-north-east and by
+ east from the west corner of thy curious-knotted
+ garden. There did I see that low-spirited swain, that
+ base minnow of thy mirth,—
+
+  Me?
+
+ reads
+  that unlettered, small-knowing soul,—
+
+  Me?
+
+ reads
+  that shallow vassal,—
+
+  Still me?
+
+ reads
+  which, as I remember, hight Costard,—
+
+  O, me!
+
+ reads
+  sorted and consorted, contrary to thy
+
+ established proclaimed edict and continent canon,
+ which with—O with—but with this I passion to say
+ wherewith—
+
+  With a wench.
+
+ reads
+  with a child of our grandmother Eve, a
+
+ female; or, for thy more sweet understanding, a
+ woman: him, I, as my ever-esteemed duty pricks
+ me on, have sent to thee, to receive the meed of
+ punishment by thy sweet Grace’s officer, Anthony
+
+FTLN 0240
+240
+
+FTLN 0245
+245
+
+FTLN 0250
+250
+
+FTLN 0255
+255
+
+FTLN 0260
+260
+
+FTLN 0261
+
+FTLN 0262
+
+FTLN 0263
+
+FTLN 0264
+
+FTLN 0265
+265
+
+FTLN 0266
+
+FTLN 0267
+
+FTLN 0268
+
+DULL
+
+KING
+
+ Don Adriano de Armado.
+
+BEROWNE
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+ Dull, a man of good repute, carriage, bearing, and
+ estimation.
+
+  Me, an ’t shall please you. I am Anthony Dull.
+
+ reads
+  For Jaquenetta—so is the weaker vessel
+
+ called which I apprehended with the aforesaid
+ swain—I keep her as a vessel of thy law’s fury, and
+ shall, at the least of thy sweet notice, bring her to trial.
+ Thine, in all compliments of devoted and heartburning
+ heat of duty,
+
+  This is not so well as I looked for, but the
+
+ best that ever I heard.
+
+  Ay, the best, for the worst.  To Costard.  But,
+
+ sirrah, what say you to this?
+
+  Sir, I confess the wench.
+
+  Did you hear the proclamation?
+
+  I do confess much of the hearing it, but little
+
+ of the marking of it.
+
+  It was proclaimed a year’s imprisonment to be
+
+ taken with a wench.
+
+  I was taken with none, sir. I was taken with a
+
+ damsel.
+
+  Well, it was proclaimed “damsel.”
+
+  This was no damsel neither, sir. She was a
+
+ virgin.
+
+  It is so varied too, for it was proclaimed
+
+ “virgin.”
+
+  If it were, I deny her virginity. I was taken
+
+ with a maid.
+
+  This “maid” will not serve your turn, sir.
+
+  This maid will serve my turn, sir.
+
+  Sir, I will pronounce your sentence: you shall
+
+ fast a week with bran and water.
+
+  I had rather pray a month with mutton and
+
+ porridge.
+
+FTLN 0275
+275
+
+FTLN 0280
+280
+
+FTLN 0285
+285
+
+FTLN 0290
+290
+
+FTLN 0295
+295
+
+FTLN 0300
+300
+
+King, Longaville, and Dumaine exit.
+
+BEROWNE
+
+COSTARD
+
+They exit.
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+  And Don Armado shall be your keeper.
+
+ My Lord Berowne, see him delivered o’er,
+ And go we, lords, to put in practice that
+  Which each to other hath so strongly sworn.
+
+  I suffer for the truth, sir; for true it is I was
+
+ taken with Jaquenetta, and Jaquenetta is a true
+ girl. And therefore welcome the sour cup of prosperity.
+ Affliction may one day smile again, and till
+ then, sit thee down, sorrow.
+
+Enter Armado and Mote, his page.
+
+  Boy, what sign is it when a man of great spirit
+
+ grows melancholy?
+  A great sign, sir, that he will look sad.
+
+  Why, sadness is one and the selfsame thing,
+
+ dear imp.
+  No, no. O Lord, sir, no!
+
+  How canst thou part sadness and melancholy,
+
+ my tender juvenal?
+  By a familiar demonstration of the working, my
+ tough signior.
+
+  Why “tough signior”? Why “tough signior”?
+
+  Why “tender juvenal”? Why “tender juvenal”?
+
+  I spoke it “tender juvenal” as a congruent
+
+ epitheton appertaining to thy young days, which
+ we may nominate “tender.”
+
+FTLN 0310
+310
+
+FTLN 0315
+315
+
+Scene 2
+
+FTLN 0320
+5
+
+FTLN 0325
+10
+
+FTLN 0330
+15
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+  And I “tough signior” as an appurtenant title to
+ your old time, which we may name “tough.”
+
+  Pretty and apt.
+
+  How mean you, sir? I pretty and my saying apt, or
+ I apt and my saying pretty?
+
+  Thou pretty because little.
+
+  Little pretty, because little. Wherefore apt?
+
+  And therefore apt, because quick.
+
+  Speak you this in my praise, master?
+
+  In thy condign praise.
+
+  I will praise an eel with the same praise.
+
+  What, that an eel is ingenious?
+
+  That an eel is quick.
+
+  I do say thou art quick in answers. Thou
+
+ heat’st my blood.
+  I am answered, sir.
+
+  I love not to be crossed.
+
+, aside
+  He speaks the mere contrary; crosses love
+
+ not him.
+
+  I have promised to study three years with the
+
+ Duke.
+  You may do it in an hour, sir.
+
+  Impossible.
+
+  How many is one thrice told?
+
+  I am ill at reckoning. It fitteth the spirit of a
+
+ tapster.
+  You are a gentleman and a gamester, sir.
+
+  I confess both. They are both the varnish of a
+
+ complete man.
+  Then I am sure you know how much the gross
+ sum of deuce-ace amounts to.
+
+  It doth amount to one more than two.
+
+  Which the base vulgar do call “three.”
+
+  True.
+
+  Why, sir, is this such a piece of study? Now here is
+ “three” studied ere you’ll thrice wink. And how
+
+FTLN 0345
+30
+
+FTLN 0350
+35
+
+FTLN 0355
+40
+
+FTLN 0360
+45
+
+FTLN 0365
+50
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+ easy it is to put “years” to the word “three” and
+ study “three years” in two words, the dancing horse
+ will tell you.
+
+  A most fine figure.
+
+, aside
+  To prove you a cipher.
+
+  I will hereupon confess I am in love; and as it
+
+ is base for a soldier to love, so am I in love with a
+ base wench. If drawing my sword against the
+ humor of affection would deliver me from the
+ reprobate thought of it, I would take desire prisoner
+ and ransom him to any French courtier for a
+ new-devised curtsy. I think scorn to sigh; methinks
+ I should outswear Cupid. Comfort me, boy. What
+ great men have been in love?
+  Hercules, master.
+
+  Most sweet Hercules! More authority, dear
+
+ boy, name more; and, sweet my child, let them be
+ men of good repute and carriage.
+  Samson, master; he was a man of good carriage,
+ great carriage, for he carried the town gates on his
+ back like a porter, and he was in love.
+
+  O, well-knit Samson, strong-jointed Samson;
+
+ I do excel thee in my rapier as much as thou didst
+ me in carrying gates. I am in love too. Who was
+ Samson’s love, my dear Mote?
+  A woman, master.
+
+  Of what complexion?
+
+  Of all the four, or the three, or the two, or one of
+ the four.
+
+  Tell me precisely of what complexion.
+
+  Of the sea-water green, sir.
+
+  Is that one of the four complexions?
+
+  As I have read, sir, and the best of them too.
+
+  Green indeed is the color of lovers. But to
+
+ have a love of that color, methinks Samson had
+ small reason for it. He surely affected her for her
+ wit.
+
+FTLN 0370
+55
+
+FTLN 0375
+60
+
+FTLN 0385
+70
+
+FTLN 0390
+75
+
+FTLN 0395
+80
+
+FTLN 0400
+85
+
+FTLN 0403
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+  It was so, sir, for she had a green wit.
+
+  My love is most immaculate white and red.
+
+  Most maculate thoughts, master, are masked
+ under such colors.
+
+  Define, define, well-educated infant.
+
+  My father’s wit and my mother’s tongue, assist
+ me.
+
+  Sweet invocation of a child, most pretty and
+
+ pathetical.
+ 
+
+ If she be made of white and red,
+  Her faults will ne’er be known,
+ For blushing  cheeks by faults are bred,
+  And fears by pale white shown.
+ Then if she fear, or be to blame,
+  By this you shall not know,
+ For still her cheeks possess the same
+  Which native she doth owe.
+
+ A dangerous rhyme, master, against the reason of
+ white and red.
+
+  Is there not a ballad, boy, of “The King and
+
+ the Beggar”?
+  The world was very guilty of such a ballad some
+ three ages since, but I think now ’tis not to be found;
+ or if it were, it would neither serve for the writing
+ nor the tune.
+
+  I will have that subject newly writ o’er, that I
+
+ may example my digression by some mighty precedent.
+ Boy, I do love that country girl that I took in
+ the park with the rational hind Costard. She deserves
+ well.
+, aside
+  To be whipped—and yet a better love than
+
+ my master.
+
+  Sing, boy. My spirit grows heavy in love.
+
+, aside
+  And that’s great marvel, loving a light
+
+ wench.
+
+FTLN 0405
+90
+
+FTLN 0410
+95
+
+FTLN 0420
+105
+
+FTLN 0425
+110
+
+FTLN 0430
+115
+
+FTLN 0438
+
+ARMADO
+
+BOY
+
+DULL
+
+ARMADO
+
+JAQUENETTA
+
+ARMADO
+
+JAQUENETTA
+
+ARMADO
+
+JAQUENETTA
+
+ARMADO
+
+JAQUENETTA
+
+ARMADO
+
+JAQUENETTA
+
+ARMADO
+
+JAQUENETTA
+
+DULL
+
+Dull and Jaquenetta  exit.
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+BOY
+
+  I say sing.
+
+  Forbear till this company be past.
+
+Enter Clown ( Costard, ) Constable ( Dull, ) and Wench
+
+( Jaquenetta. )
+
+, to Armado
+  Sir, the Duke’s pleasure is that you
+
+ keep Costard safe, and you must suffer him to take
+ no delight, nor no penance, but he must fast three
+ days a week. For this damsel, I must keep her at the
+ park. She is allowed for the dey-woman. Fare you
+ well.
+
+, aside
+  I do betray myself with blushing.—
+
+ Maid.
+
+  Man.
+
+  I will visit thee at the lodge.
+
+  That’s hereby.
+
+  I know where it is situate.
+
+  Lord, how wise you are.
+
+  I will tell thee wonders.
+
+  With that face?
+
+  I love thee.
+
+  So I heard you say.
+
+  And so, farewell.
+
+  Fair weather after you.
+
+  Come, Jaquenetta, away.
+
+, to Costard
+  Villain, thou shalt fast for thy
+
+ offenses ere thou be pardoned.
+
+  Well, sir, I hope when I do it I shall do it on
+
+ a full stomach.
+
+  Thou shalt be heavily punished.
+  I am more bound to you than your fellows,
+
+ for they are but lightly rewarded.
+
+, to Boy
+  Take away this villain. Shut him up.
+
+  Come, you transgressing slave, away.
+
+FTLN 0441
+
+FTLN 0445
+130
+
+FTLN 0448
+
+FTLN 0450
+135
+
+FTLN 0453
+
+FTLN 0455
+140
+
+FTLN 0458
+
+FTLN 0460
+145
+
+FTLN 0461
+
+FTLN 0462
+
+FTLN 0463
+
+FTLN 0464
+
+FTLN 0465
+150
+
+FTLN 0466
+
+FTLN 0467
+
+FTLN 0468
+
+FTLN 0469
+
+COSTARD
+
+BOY
+
+COSTARD
+
+BOY
+
+COSTARD
+
+Costard and Boy  exit.
+
+ARMADO
+
+He exits.
+
+, to Armado
+  Let me not be pent up, sir. I will
+
+ fast being loose.
+  No, sir, that were fast and loose. Thou shalt to
+ prison.
+
+  Well, if ever I do see the merry days of
+
+ desolation that I have seen, some shall see.
+  What shall some see?
+
+  Nay, nothing, Master Mote, but what they
+
+ look upon. It is not for prisoners to be too silent in
+ their words, and therefore I will say nothing. I thank
+ God I have as little patience as another man, and
+ therefore I can be quiet.
+
+  I do affect the very ground (which is base)
+
+ where her shoe (which is baser) guided by her foot
+ (which is basest) doth tread. I shall be forsworn
+ (which is a great argument of falsehood) if I love.
+ And how can that be true love which is falsely
+ attempted? Love is a familiar; love is a devil. There is
+ no evil angel but love, yet was Samson so tempted,
+ and he had an excellent strength; yet was Solomon
+ so seduced, and he had a very good wit. Cupid’s
+ butt-shaft is too hard for Hercules’ club, and therefore
+ too much odds for a Spaniard’s rapier. The first
+ and second cause will not serve my turn; the
+ passado he respects not, the duello he regards not.
+ His disgrace is to be called “boy,” but his glory is to
+ subdue men. Adieu, valor; rust, rapier; be still,
+ drum, for your manager is in love. Yea, he loveth.
+ Assist me, some extemporal god of rhyme, for I am
+ sure I shall turn sonnet. Devise wit, write pen, for I
+ am for whole volumes in folio.
+
+FTLN 0475
+160
+
+FTLN 0480
+165
+
+FTLN 0485
+170
+
+FTLN 0490
+175
+
+FTLN 0495
+180
+
+FTLN 0500
+185
+
+BOYET
+
+PRINCESS
+
+Enter the Princess of France, with three attending
+Ladies ( Rosaline, Maria, and Katherine), Boyet
+
+and other  Lords.
+
+ACT 2
+
+FTLN 0505
+5
+
+FTLN 0510
+10
+
+FTLN 0515
+15
+
+FTLN 0520
+20
+
+BOYET
+
+PRINCESS
+
+Boyet exits.
+
+A  LORD
+
+PRINCESS
+
+MARIA
+
+ You are not ignorant all-telling fame
+ Doth noise abroad Navarre hath made a vow,
+ Till painful study shall outwear three years,
+ No woman may approach his silent court.
+ Therefore to ’s seemeth it a needful course,
+ Before we enter his forbidden gates,
+ To know his pleasure, and in that behalf,
+ Bold of your worthiness, we single you
+ As our best-moving fair solicitor.
+ Tell him the daughter of the King of France
+ On serious business craving quick dispatch,
+ Importunes  personal conference with his Grace.
+ Haste, signify so much, while we attend,
+ Like humble-visaged  suitors, his high will.
+
+ Who are the votaries, my loving lords,
+ That are vow-fellows with this virtuous duke?
+
+  
+ Know you the man?
+
+FTLN 0535
+35
+
+FTLN 0540
+40
+
+FTLN 0542
+
+FTLN 0543
+
+FTLN 0544
+
+FTLN 0545
+45
+
+FTLN 0546
+
+FTLN 0547
+
+FTLN 0548
+
+FTLN 0549
+
+FTLN 0550
+50
+
+FTLN 0551
+
+FTLN 0552
+
+MARIA
+
+PRINCESS
+
+KATHERINE
+
+ROSALINE
+
+PRINCESS
+
+A  LORD
+
+FTLN 0554
+
+FTLN 0555
+55
+
+FTLN 0556
+
+FTLN 0557
+
+FTLN 0558
+
+FTLN 0559
+
+FTLN 0560
+60
+
+FTLN 0561
+
+FTLN 0562
+
+FTLN 0564
+
+FTLN 0565
+65
+
+FTLN 0566
+
+FTLN 0567
+
+FTLN 0568
+
+FTLN 0569
+
+FTLN 0570
+70
+
+FTLN 0571
+
+FTLN 0572
+
+FTLN 0573
+
+FTLN 0574
+
+FTLN 0575
+75
+
+FTLN 0576
+
+FTLN 0577
+
+FTLN 0578
+
+FTLN 0579
+
+FTLN 0580
+80
+
+FTLN 0581
+
+PRINCESS
+
+BOYET
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+Enter Boyet.
+
+  
+ Now, what admittance, lord?
+
+Enter King of  Navarre, Longaville, Dumaine, and
+
+Berowne.
+
+ Here comes Navarre.
+
+  Fair Princess, welcome to the court of Navarre.
+
+  “Fair” I give you back again, and “welcome”
+
+ I have not yet. The roof of this court is too
+ high to be yours, and welcome to the wide fields too
+ base to be mine.
+
+FTLN 0585
+85
+
+FTLN 0590
+90
+
+FTLN 0595
+95
+
+FTLN 0600
+100
+
+She gives him a paper.
+
+KING
+
+PRINCESS
+
+They walk aside while the King reads the paper.
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+, to Rosaline
+ 
+
+ Did not I dance with you in Brabant once?
+
+  
+ How needless was it then
+
+ To ask the question.
+
+  
+ You must not be so quick.
+
+  
+ The hour that fools should ask.
+
+  Now fair befall your mask.
+
+FTLN 0619
+
+FTLN 0620
+120
+
+FTLN 0622
+
+FTLN 0623
+
+FTLN 0624
+
+FTLN 0625
+125
+
+FTLN 0626
+
+FTLN 0627
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+KING
+
+PRINCESS
+
+  Fair fall the face it covers.
+
+  And send you many lovers.
+
+  Amen, so you be none.
+
+  Nay, then, will I be gone.
+
+, coming forward with the Princess
+ 
+
+ Madam, your father here doth intimate
+ The payment of a hundred thousand crowns,
+ Being but the one half of an entire sum
+ Disbursèd by my father in his wars.
+ But say that he or we, as neither have,
+ Received that sum, yet there remains unpaid
+ A hundred thousand more, in surety of the which
+ One part of Aquitaine is bound to us,
+ Although not valued to the money’s worth.
+ If then the King your father will restore
+ But that one half which is unsatisfied,
+ We will give up our right in Aquitaine,
+ And hold fair friendship with his Majesty.
+ But that, it seems, he little purposeth;
+ For here he doth demand to have repaid
+ A hundred thousand crowns, and not demands,
+ On payment of a hundred thousand crowns,
+ To have his title live in Aquitaine—
+ Which we much rather had depart withal,
+ And have the money by our father lent,
+ Than Aquitaine, so gelded as it is.
+ Dear Princess, were not his requests so far
+ From reason’s yielding, your fair self should make
+ A yielding ’gainst some reason in my breast,
+ And go well satisfied to France again.
+
+FTLN 0629
+
+FTLN 0630
+130
+
+FTLN 0631
+
+FTLN 0632
+
+FTLN 0633
+
+FTLN 0634
+
+FTLN 0635
+135
+
+FTLN 0636
+
+FTLN 0637
+
+FTLN 0638
+
+FTLN 0639
+
+FTLN 0640
+140
+
+FTLN 0641
+
+FTLN 0642
+
+FTLN 0643
+
+FTLN 0644
+
+FTLN 0645
+145
+
+FTLN 0650
+150
+
+FTLN 0651
+
+FTLN 0653
+
+FTLN 0654
+
+FTLN 0655
+155
+
+FTLN 0656
+
+FTLN 0657
+
+FTLN 0658
+
+FTLN 0660
+160
+
+PRINCESS
+
+BOYET
+
+KING
+
+PRINCESS
+
+KING
+
+He exits with Dumaine,
+
+Longaville, and Attendants.
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+  
+ We arrest your word.—
+
+ Boyet, you can produce acquittances
+ For such a sum from special officers
+ Of Charles his father.
+
+  
+ Satisfy me so.
+
+, to Rosaline
+  Lady, I will commend you to
+
+ my own  heart.
+
+  Pray you, do my commendations. I would
+
+ be glad to see it.
+
+  I would you heard it groan.
+
+FTLN 0680
+180
+
+FTLN 0685
+185
+
+FTLN 0689
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+He exits.
+
+DUMAINE
+
+BOYET
+
+DUMAINE
+
+He exits.
+
+LONGAVILLE
+
+BOYET
+
+LONGAVILLE
+
+BOYET
+
+LONGAVILLE
+
+BOYET
+
+LONGAVILLE
+
+BOYET
+
+LONGAVILLE
+
+  Is the fool sick?
+  Sick at the heart.
+  Alack, let it blood.
+  Would that do it good?
+  My physic says “ay.”
+  Will you prick ’t with your eye?
+  No point, with my knife.
+  Now God save thy life.
+  And yours from long living.
+  I cannot stay thanksgiving. 
+
+Enter Dumaine.
+
+, to Boyet
+ 
+
+ Sir, I pray you, a word. What lady is that same?
+
+Enter Longaville.
+
+, to Boyet
+ 
+
+ I beseech you, a word. What is she in the white?
+
+ shame.
+
+  Pray you, sir, whose daughter?
+
+  Her mother’s, I have heard.
+
+  God’s blessing on your beard!
+
+  Good sir, be not offended. She is an heir of
+
+ Falconbridge.
+
+  Nay, my choler is ended. She is a most
+
+ sweet lady.
+
+FTLN 0700
+200
+
+FTLN 0705
+205
+
+FTLN 0710
+210
+
+FTLN 0712
+
+FTLN 0714
+
+Longaville exits.
+
+BEROWNE
+
+BOYET
+
+BEROWNE
+
+BOYET
+
+BEROWNE
+
+BOYET
+
+Berowne exits.
+
+MARIA
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+KATHERINE
+
+BOYET
+
+KATHERINE
+
+BOYET
+
+He tries to kiss her.
+
+KATHERINE
+
+BOYET
+
+KATHERINE
+
+PRINCESS
+
+  Not unlike, sir, that may be.
+
+Enter Berowne.
+
+, to Boyet
+  What’s her name in the cap?
+
+  Rosaline,  by good hap.
+
+  Is she wedded or no?
+
+  To her will, sir, or so.
+
+  You are welcome, sir. Adieu.
+
+  Farewell to me, sir, and welcome to you.
+
+  
+ And every jest but
+
+ a word.
+
+  
+ And wherefore not ships?
+
+ No sheep, sweet lamb, unless we feed on your lips.
+
+  
+ Not so, gentle beast,
+
+ My lips are no common, though several they be.
+
+  
+ To my fortunes and me.
+
+FTLN 0720
+220
+
+FTLN 0725
+225
+
+FTLN 0730
+230
+
+FTLN 0733
+
+FTLN 0734
+
+FTLN 0735
+235
+
+FTLN 0736
+
+FTLN 0737
+
+FTLN 0738
+
+FTLN 0739
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+MARIA
+
+  With what?
+
+  Your reason?
+
+ were glassed,
+
+ Did point you to buy them along as you passed.
+ His face’s own margent did quote such amazes
+ That all eyes saw his eyes enchanted with gazes.
+ I’ll give you Aquitaine, and all that is his,
+ An you give him for my sake but one loving kiss.
+
+, to her Ladies
+ 
+
+ Come, to our pavilion. Boyet is disposed.
+
+ disclosed.
+
+ I only have made a mouth of his eye
+ By adding a tongue which I know will not lie.
+
+FTLN 0755
+255
+
+FTLN 0760
+260
+
+FTLN 0765
+265
+
+KATHERINE
+
+ROSALINE
+
+BOYET
+
+MARIA
+
+BOYET
+
+MARIA
+
+BOYET
+
+They all exit.
+
+ but grim.
+
+  
+ No.
+
+  
+ What then, do
+
+ you see?
+
+  
+ You are too hard for me.
+
+FTLN 0769
+
+FTLN 0770
+270
+
+FTLN 0771
+
+FTLN 0772
+
+FTLN 0773
+
+FTLN 0774
+
+FTLN 0775
+275
+
+FTLN 0776
+
+FTLN 0777
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+Enter Braggart Armado  and his Boy.
+
+  Warble, child, make passionate my sense of
+
+ hearing.
+ sings
+  Concolinel.
+
+  Sweet air. Go, tenderness of years.  He hands
+
+ over a key.   Take this key, give enlargement to the
+ swain, bring him festinately hither. I must employ
+ him in a letter to my love.
+  Master, will you win your love with a French
+ brawl?
+
+  How meanest thou? Brawling in French?
+
+  No, my complete master, but to jig off a tune at the
+ tongue’s end, canary to it with your feet, humor it
+ with turning up your eyelids, sigh a note and sing a
+ note, sometimes through the throat as  if you
+ swallowed love with singing love, sometimes
+ through the  nose as if you snuffed up love by
+ smelling love; with your hat penthouse-like o’er the
+ shop of your eyes, with your arms crossed on your
+ thin-belly  doublet like a rabbit on a spit; or your
+ hands in your pocket like a man after the old
+ painting; and keep not too long in one tune, but a
+ snip and away. These are compliments, these are
+ humors; these betray nice wenches that would be
+ betrayed without these, and make them men of
+
+ACT 3
+
+FTLN 0782
+5
+
+FTLN 0783
+
+FTLN 0784
+
+FTLN 0785
+
+FTLN 0786
+
+FTLN 0787
+10
+
+FTLN 0788
+
+FTLN 0789
+
+FTLN 0792
+15
+
+FTLN 0793
+
+FTLN 0794
+
+FTLN 0795
+
+FTLN 0797
+20
+
+FTLN 0798
+
+FTLN 0799
+
+FTLN 0800
+
+FTLN 0801
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+ note—do you note me? —that most are affected
+ to these.
+
+  How hast thou purchased this experience?
+
+  By my penny  of observation.
+
+  But O— but O—.
+
+  “The hobby-horse is forgot.”
+
+  Call’st thou my love “hobby-horse”?
+
+  No, master. The hobby-horse is but a colt,  aside
+ and your love perhaps a hackney.—But have you
+ forgot your love?
+
+  Almost I had.
+
+  Negligent student, learn her by heart.
+
+  By heart and in heart, boy.
+
+  And out of heart, master. All those three I will
+ prove.
+
+  What wilt thou prove?
+
+  A man, if I live; and this “by, in, and without,”
+ upon the instant: “by” heart you love her, because
+ your heart cannot come by her; “in” heart you love
+ her, because your heart is in love with her; and
+ “out” of heart you love her, being out of heart that
+ you cannot enjoy her.
+
+  I am all these three.
+
+  And three times as much more,  aside  and yet
+ nothing at all.
+
+  Fetch hither the swain. He must carry me a
+
+ letter.
+  A message well sympathized—a horse to be ambassador
+ for an ass.
+
+  Ha? Ha? What sayest thou?
+
+  Marry, sir, you must send the ass upon the horse,
+ for he is very slow-gaited. But I go.
+
+  The way is but short. Away!
+
+  As swift as lead, sir.
+
+  Thy  meaning, pretty ingenious?
+
+ Is not lead a metal heavy, dull, and slow?
+
+FTLN 0802
+25
+
+FTLN 0807
+30
+
+FTLN 0808
+
+FTLN 0812
+35
+
+FTLN 0817
+40
+
+FTLN 0822
+45
+
+FTLN 0827
+50
+
+FTLN 0832
+55
+
+FTLN 0837
+60
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+He exits.
+
+ARMADO
+
+BOY
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+BOY
+
+ARMADO
+
+  
+ You are too swift, sir, to say so.
+
+ Is that lead slow which is fired from a gun?
+
+  Sweet smoke of rhetoric!
+
+ He reputes me a cannon, and the bullet, that’s
+
+ he.—
+
+ I shoot thee at the swain.
+
+  
+ Thump, then, and I flee.
+
+Enter Boy  and Clown Costard.
+
+  
+ A wonder, master!
+
+ Here’s a costard broken in a shin.
+
+  No egma, no riddle, no l’envoi, no salve in
+
+ the mail, sir. O, sir, plantain, a plain plantain! No
+ l’envoi, no l’envoi, no salve, sir, but a plantain.
+
+  By virtue, thou enforcest laughter; thy silly
+
+ thought, my spleen. The heaving of my lungs
+ provokes me to ridiculous smiling. O pardon me,
+ my stars! Doth the inconsiderate take salve for
+ l’envoi, and the word l’envoi for a salve?
+ 
+
+ Do the wise think them other? Is not l’envoi a salve?
+
+FTLN 0842
+65
+
+FTLN 0852
+75
+
+FTLN 0857
+80
+
+FTLN 0862
+85
+
+BOY
+
+ARMADO
+
+BOY
+
+ARMADO
+
+BOY
+
+COSTARD
+
+ARMADO
+
+BOY
+
+ Some obscure precedence that hath tofore been sain.
+ I will example it:
+
+ The fox, the ape, and the humble-bee
+ Were still at odds, being but three.
+
+ There’s the moral. Now the l’envoi.
+
+  I will add the l’envoi. Say the moral again.
+
+ 
+ The fox, the ape, and the humble-bee
+ Were still at odds, being but three.
+
+ Now will I begin your moral, and do you follow with
+ my l’envoi.
+
+ The fox, the ape, and the humble-bee
+ Were still at odds, being but three.
+ 
+
+ Until the goose came out of door,
+ Staying the odds by adding four.
+
+  A good l’envoi, ending in the goose. Would you
+ desire more?
+
+ flat.—
+
+ Sir, your pennyworth is good, an your goose be fat.
+ To sell a bargain well is as cunning as fast and
+
+ loose.
+
+ Let me see: a fat l’envoi—ay, that’s a fat goose.
+
+ begin?
+ 
+
+ By saying that a costard was broken in a shin.
+ Then called you for the l’envoi.
+
+FTLN 0867
+90
+
+FTLN 0872
+95
+
+FTLN 0882
+105
+
+FTLN 0887
+110
+
+COSTARD
+
+ARMADO
+
+BOY
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+He exits.
+
+BOY
+
+He exits.
+
+COSTARD
+
+  True, and I for a plantain. Thus came your
+
+ argument in. Then the boy’s fat l’envoi, the goose
+ that you bought; and he ended the market.
+
+  But tell me, how was there a costard broken
+
+ in a shin?
+  I will tell you sensibly.
+
+  Thou hast no feeling of it, Mote. I will speak
+
+ that l’envoi.
+ I, Costard, running out, that was safely within,
+ Fell over the threshold and broke my shin.
+
+  We will talk no more of this matter.
+  Till there be more matter in the shin.
+  Sirrah Costard, I will enfranchise thee.
+  O, marry me to one Frances! I smell some
+
+ l’envoi, some goose, in this.
+
+  By my sweet soul, I mean, setting thee at
+
+ liberty, enfreedoming thy person. Thou wert immured,
+ restrained, captivated, bound.
+
+  True, true; and now you will be my purgation,
+
+ and let me loose.
+
+  I give thee thy liberty, set thee from durance,
+
+ and, in lieu thereof, impose on thee nothing but
+ this: bear this significant to the country maid
+ Jaquenetta.  ( He gives him a paper. ) There is remuneration
+  ( giving him a coin, ) for the best ward of
+ mine honor is rewarding my dependents.—Mote,
+ follow. 
+  Like the sequel, I. Signior Costard, adieu.
+
+ Now will I look to his remuneration.  He looks at the
+ coin.   “Remuneration”! O, that’s the Latin word for
+ three farthings. Three farthings—remuneration.
+
+FTLN 0912
+135
+
+FTLN 0917
+140
+
+FTLN 0922
+145
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+He begins to exit.
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+ “What’s the price of this inkle?” “One penny.” “No,
+ I’ll give you a remuneration.” Why, it carries it!
+ Remuneration. Why, it is a fairer name than “French
+ crown.” I will never buy and sell out of this word.
+
+Enter Berowne.
+
+  My good knave Costard, exceedingly well
+
+ met.
+
+  Pray you, sir, how much carnation ribbon
+
+ may a man buy for a remuneration?
+
+  What is a remuneration?
+  Marry, sir, halfpenny farthing.
+  Why then, three farthing worth of silk.
+  I thank your Worship. God be wi’ you.
+
+  Stay, slave, I must employ thee.
+
+ As thou wilt win my favor, good my knave,
+ Do one thing for me that I shall entreat.
+
+  When would you have it done, sir?
+  This afternoon.
+  Well, I will do it, sir. Fare you well.
+  Thou knowest not what it is.
+  I shall know, sir, when I have done it.
+  Why, villain, thou must know first.
+  I will come to your Worship tomorrow
+
+ morning.
+
+  It must be done this afternoon. Hark, slave,
+
+ it is but this:
+
+ The Princess comes to hunt here in the park,
+ And in her train there is a gentle lady.
+ When tongues speak sweetly, then they name her
+
+ name,
+
+ And Rosaline they call her. Ask for her,
+ And to her white hand see thou do commend
+
+FTLN 0937
+160
+
+FTLN 0942
+165
+
+FTLN 0947
+170
+
+FTLN 0952
+175
+
+COSTARD
+
+He exits.
+
+BEROWNE
+
+ This sealed-up counsel. There’s thy guerdon.  He
+
+ gives him money.   Go.
+
+  Gardon.  He looks at the money.  O sweet
+
+ gardon! Better than remuneration, a ’levenpence
+ farthing better! Most sweet gardon. I will do it, sir,
+ in print. Gardon! Remuneration! 
+
+FTLN 0957
+180
+
+FTLN 0958
+
+FTLN 0959
+
+FTLN 0960
+
+FTLN 0962
+185
+
+FTLN 0967
+190
+
+FTLN 0972
+195
+
+FTLN 0977
+200
+
+FTLN 0982
+205
+
+FTLN 0987
+210
+
+He exits.
+
+ That Cupid will impose for my neglect
+ Of his almighty dreadful little might.
+ Well, I will love, write, sigh, pray, sue, groan.
+ Some men must love my lady, and some Joan.
+
+PRINCESS
+
+FORESTER
+
+PRINCESS
+
+FORESTER
+
+PRINCESS
+
+FORESTER
+
+PRINCESS
+
+Enter the Princess, a Forester, her Ladies, Boyet  and
+
+her other  Lords.
+
+ACT 4
+
+FTLN 0997
+5
+
+FTLN 1002
+10
+
+FTLN 1007
+15
+
+FORESTER
+
+PRINCESS
+
+She gives him money.
+
+FORESTER
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+  
+ Nay, never paint me now.
+
+ Where fair is not, praise cannot mend the brow.
+ Here, good my glass, take this for telling true.
+
+ Fair payment for foul words is more than due.
+
+ mercy goes to kill,
+
+ And shooting well is then accounted ill.
+ Thus will I save my credit in the shoot:
+ Not wounding, pity would not let me do ’t;
+ If wounding, then it was to show my skill,
+ That more for praise than purpose meant to kill.
+ And out of question so it is sometimes:
+ Glory grows guilty of detested crimes,
+ When for fame’s sake, for praise, an outward part,
+ We bend to that the working of the heart;
+ As I for praise alone now seek to spill
+ The poor deer’s blood, that my heart means no ill.
+
+Enter Clown Costard.
+
+FTLN 1012
+20
+
+FTLN 1022
+30
+
+FTLN 1027
+35
+
+FTLN 1032
+40
+
+COSTARD
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+  God dig-you-den all! Pray you, which is the
+
+ head lady?
+
+  Thou shalt know her, fellow, by the rest that
+
+ have no heads.
+
+  Which is the greatest lady, the highest?
+  The thickest and the tallest.
+ 
+
+ The thickest and the tallest: it is so, truth is
+
+ truth.
+
+ An your waist, mistress, were as slender as my wit,
+ One o’ these maids’ girdles for your waist should be
+
+ fit.
+
+ Are not you the chief woman? You are the thickest
+
+ here.
+
+  What’s your will, sir? What’s your will?
+  I have a letter from Monsieur Berowne to
+
+ one Lady Rosaline.
+
+, taking the letter
+   I am bound to serve.
+
+ This letter is mistook; it importeth none here.
+ It is writ to Jaquenetta.
+
+  
+ We will read it, I swear.
+
+ Break the neck of the wax, and everyone give ear.
+
+ reads.   By heaven, that thou art fair is most
+
+ infallible, true that thou art beauteous, truth itself
+ that thou art lovely. More fairer than fair, beautiful
+ than beauteous, truer than truth itself, have commiseration
+ on thy heroical vassal. The magnanimous and
+ most illustrate King Cophetua set eye upon the pernicious
+ and indubitate beggar Zenelophon; and he it
+ was that might rightly say “Veni, vidi, vici,” which to
+
+FTLN 1037
+45
+
+FTLN 1047
+55
+
+FTLN 1052
+60
+
+FTLN 1057
+65
+
+FTLN 1062
+70
+
+FTLN 1067
+75
+
+ Don Adriano de Armado.
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+ annothanize in the vulgar (O base and obscure vulgar!)
+ videlicet, “He came, see, and overcame”: He
+ came, one; see, two; overcame, three. Who came? The
+ King. Why did he come? To see. Why did he see? To
+ overcome. To whom came he? To the beggar. What
+ saw he? The beggar. Who overcame he? The beggar.
+ The conclusion is victory. On whose side? The
+ King’s.  The captive is enriched. On whose side? The
+ beggar’s. The catastrophe is a nuptial. On whose side?
+ The King’s—no, on both in one, or one in both. I am
+ the King, for so stands the comparison; thou the
+ beggar, for so witnesseth thy lowliness. Shall I command
+ thy love? I may. Shall I enforce thy love? I could.
+ Shall I entreat thy love? I will. What shalt thou
+ exchange for rags? Robes. For tittles? Titles. For thyself?
+ Me. Thus expecting thy reply, I profane my lips on thy
+ foot, my eyes on thy picture, and my heart on thy every
+ part.
+
+ Thine, in the dearest design of industry,
+
+ Thus dost thou hear the Nemean lion roar
+  ’Gainst thee, thou lamb, that standest as his prey.
+ Submissive fall his princely feet before,
+  And he from forage will incline to play.
+ But if thou strive, poor soul, what art thou then?
+ Food for his rage, repasture for his den.
+
+ better?
+
+FTLN 1077
+85
+
+FTLN 1082
+90
+
+FTLN 1087
+95
+
+FTLN 1092
+100
+
+FTLN 1097
+105
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+COSTARD
+
+PRINCESS
+
+The Princess, Katherine, Lords, and
+
+Forester exit. Boyet, Rosaline, Maria,
+
+and Costard remain.
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+ A phantasime, a Monarcho, and one that makes
+
+ sport
+
+ To the Prince and his bookmates.
+
+, to Costard
+  
+ Thou, fellow, a word.
+
+ Who gave thee this letter?
+
+  
+ I told you: my lord.
+
+  
+ From my lord to my
+
+ lady.
+
+  From which lord to which lady?
+ 
+
+ From my Lord Berowne, a good master of mine,
+ To a lady of France that he called Rosaline.
+
+ thine another day.
+
+  
+ Shall I
+
+ teach you to know?
+
+  
+ Why, she that bears the bow.
+
+ Finely put off.
+
+  
+ And who is your deer?
+
+FTLN 1107
+115
+
+FTLN 1110
+
+FTLN 1111
+
+FTLN 1114
+
+FTLN 1115
+
+FTLN 1116
+
+FTLN 1117
+125
+
+FTLN 1118
+
+FTLN 1122
+130
+
+FTLN 1125
+
+MARIA
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+Rosaline  exits.
+
+COSTARD
+
+MARIA
+
+BOYET
+
+MARIA
+
+COSTARD
+
+ the brow.
+
+  Shall I come upon thee with an old saying,
+
+ that was a man when King Pippen of France was a
+ little boy, as touching the hit it?
+
+  So I may answer thee with one as old, that was a
+
+ woman when Queen Guinover of Britain was a little
+ wench, as touching the hit it.
+
+ sings
+ 
+
+ Thou canst not hit it, hit it, hit it,
+ Thou canst not hit it, my good man.
+
+ sings
+ 
+
+ An I cannot, cannot, cannot,
+ An I cannot, another can.
+
+ it.
+
+ lady.
+
+ Let the mark have a prick in ’t to mete at, if it may
+
+ be.
+
+ clout.
+
+FTLN 1142
+150
+
+FTLN 1150
+
+COSTARD
+
+MARIA
+
+COSTARD
+
+BOYET
+
+Boyet and Maria exit.
+
+COSTARD
+
+Shout  within.
+
+He exits.
+
+NATHANIEL
+
+, to Maria
+ 
+
+ An if my hand be out, then belike your hand is in.
+
+, to Boyet
+ 
+
+ She’s too hard for you at pricks, sir. Challenge her
+
+ to bowl.
+
+ down.
+
+ O’ my troth, most sweet jests, most incony vulgar
+
+ wit,
+
+ When it comes so smoothly off, so obscenely, as it
+
+ were, so fit.
+
+ Armado o’ th’ one  side, O, a most dainty man!
+ To see him walk before a lady and to bear her fan.
+ To see him kiss his hand, and how most sweetly he
+
+ will swear.
+
+ And his page o’ t’ other side, that handful of wit!
+ Ah heavens, it is a  most pathetical nit.
+
+ Sola, sola!
+
+Enter Dull the Constable,  Holofernes the Pedant, and
+
+Nathaniel the Curate.
+
+  Very reverend sport, truly, and done in the
+
+ testimony of a good conscience.
+
+FTLN 1152
+160
+
+FTLN 1153
+
+FTLN 1157
+165
+
+FTLN 1159
+
+FTLN 1162
+170
+
+FTLN 1167
+175
+
+FTLN 1168
+
+FTLN 1170
+
+Scene 2
+
+FTLN 1171
+
+FTLN 1172
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+NATHANIEL
+
+  The deer was, as you know, sanguis, in
+
+ blood, ripe as the pomewater, who now hangeth
+ like a jewel in the ear of caelo, the sky, the welkin,
+ the heaven, and anon falleth like a crab on the face
+ of terra, the soil, the land, the earth.
+
+  Truly, Master Holofernes, the epithets are
+
+ sweetly varied, like a scholar at the least. But, sir, I
+ assure you, it was a buck of the first head.
+
+  Sir Nathaniel, haud credo.
+
+  ’Twas not a haud credo, ’twas a pricket.
+
+  Most barbarous intimation! Yet a kind of
+
+ insinuation, as it were, in via, in way, of explication;
+ facere, as it were, replication, or rather, ostentare, to
+ show, as it were, his inclination, after his undressed,
+ unpolished, uneducated, unpruned, untrained, or
+ rather unlettered, or ratherest, unconfirmed fashion,
+ to insert again my haud credo for a deer.
+
+  I said the deer was not a haud credo, ’twas a
+
+ pricket.
+
+  Twice-sod simplicity, bis coctus!
+
+ O thou monster ignorance, how deformed dost thou
+
+ look!
+
+ in a book.
+ He hath not eat paper, as it were; he hath not drunk
+ ink. His intellect is not replenished. He is only an
+ animal, only sensible in the duller parts.
+
+ And such barren plants are set before us that we
+
+ thankful should be—
+
+ Which we of  taste and feeling are—for those parts
+
+ that do fructify in us more than he.
+
+ For as it would ill become me to be vain, indiscreet,
+
+ or a fool,
+
+ So were there a patch set on learning, to see him in
+
+ a school.
+
+FTLN 1175
+5
+
+FTLN 1180
+10
+
+FTLN 1185
+15
+
+FTLN 1190
+20
+
+FTLN 1195
+25
+
+FTLN 1200
+30
+
+FTLN 1205
+35
+
+DULL
+
+HOLOFERNES
+
+DULL
+
+NATHANIEL
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+ But omne bene, say I, being of an old father’s mind:
+ Many can brook the weather that love not the wind.
+
+ five weeks old as yet?
+
+  Dictynna, goodman Dull, Dictynna,
+
+ goodman Dull.
+
+  What is “dictima”?
+
+ more.
+
+ And raught not to five weeks when he came to
+
+ fivescore.
+
+ Th’ allusion holds in the exchange.
+
+  ’Tis true indeed. The collusion holds in the
+
+ exchange.
+
+  God comfort thy capacity! I say, th’ allusion
+
+ holds in the exchange.
+
+  And I say the pollution holds in the exchange, for
+
+ the moon is never but a month old. And I say besides
+ that, ’twas a pricket that the Princess killed.
+
+  Sir Nathaniel, will you hear an extemporal
+
+ epitaph on the death of the deer? And, to humor
+ the ignorant, call I  the deer the Princess killed a
+ pricket.
+
+  Perge, good Master Holofernes, perge, so it
+
+ shall please you to abrogate scurrility.
+
+  I will something affect the letter, for it
+
+ argues facility.
+
+ The preyful princess pierced and pricked
+
+ a pretty pleasing pricket,
+
+  Some say a sore, but not a sore till now made
+
+  sore with shooting.
+
+FTLN 1210
+40
+
+FTLN 1215
+45
+
+FTLN 1220
+50
+
+FTLN 1225
+55
+
+FTLN 1230
+60
+
+FTLN 1235
+65
+
+FTLN 1240
+70
+
+NATHANIEL
+
+DULL
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+JAQUENETTA
+
+HOLOFERNES
+
+COSTARD
+
+ The dogs did yell. Put “l” to “sore,” then sorel
+
+ jumps from thicket,
+
+  Or pricket sore, or else sorel. The people fall
+
+  a-hooting.
+
+ If sore be sore, then “L” to “sore” makes fifty
+
+ sores o’ sorel.
+
+ Of one sore I an hundred make by adding but one
+
+ more “L.”
+
+  A rare talent.
+
+, aside
+  If a talent be a claw, look how he claws
+
+ him with a talent.
+
+  This is a gift that I have, simple, simple—
+
+ a foolish extravagant spirit, full of forms,
+ figures, shapes, objects, ideas, apprehensions, motions,
+ revolutions. These are begot in the ventricle
+ of memory, nourished in the womb of pia mater,
+ and delivered upon the mellowing of occasion. But
+ the gift is good in those in  whom it is acute, and I
+ am thankful for it.
+
+  Sir, I praise the Lord for you, and so may
+
+ my parishioners, for their sons are well tutored by
+ you, and their daughters profit very greatly under
+ you. You are a good member of the
+ commonwealth.
+
+  Mehercle, if their sons be ingenious,
+
+ they shall want no instruction; if their daughters be
+ capable, I will put it to them. But Vir sapis qui pauca
+ loquitur. A soul feminine saluteth us.
+
+Enter Jaquenetta and the Clown Costard.
+
+, to Nathaniel
+  God give you good morrow,
+
+ Master Person.
+
+  Master Person, quasi pierce one.  And
+
+ if one should be pierced, which is the one?
+
+  Marry, Master Schoolmaster, he that is likeliest
+
+ to a hogshead.
+
+FTLN 1255
+85
+
+FTLN 1259
+
+FTLN 1260
+90
+
+FTLN 1261
+
+FTLN 1262
+
+FTLN 1263
+
+FTLN 1264
+
+FTLN 1265
+95
+
+FTLN 1266
+
+FTLN 1267
+
+FTLN 1268
+
+FTLN 1269
+
+FTLN 1270
+100
+
+FTLN 1271
+
+FTLN 1272
+
+FTLN 1273
+
+FTLN 1274
+
+HOLOFERNES
+
+JAQUENETTA
+
+She hands Nathaniel a paper, which he looks at.
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+NATHANIEL
+
+  Of piercing a hogshead! A good luster
+
+ of conceit in a turf of earth; fire enough for a flint,
+ pearl enough for a swine. ’Tis pretty, it is well.
+
+, to Nathaniel
+  Good Master Parson, be so
+
+ good as read me this letter. It was given me by
+ Costard, and sent me from Don Armado. I beseech
+ you, read it.
+
+ and so forth. Ah, good old Mantuan! I may speak of
+ thee as the traveler doth of Venice:
+
+ Venetia, Venetia,
+ Chi non ti vede, non ti pretia.
+
+ Old Mantuan, old Mantuan! Who understandeth
+ thee not, loves thee not.  ( He sings. ) Ut, re, sol, la,
+ mi, fa.  ( To Nathaniel. ) Under pardon, sir, what are
+ the contents? Or rather, as Horace says in his—
+  ( Looking at the letter. ) What, my soul, verses?
+
+  Ay, sir, and very learned.
+
+   Let me hear a staff, a stanza, a verse,
+
+ Lege, domine.
+
+, reads
+ 
+
+ If love make me forsworn, how shall I swear to love?
+  Ah, never faith could hold, if not to beauty vowed!
+ Though to myself forsworn, to thee I’ll faithful prove.
+  Those thoughts to me were oaks, to thee like osiers
+ 
+  bowed.
+
+ Study his bias leaves and makes his book thine eyes,
+  Where all those pleasures live that art would
+ 
+  comprehend.
+
+ If knowledge be the mark, to know thee shall suffice.
+  Well-learnèd is that tongue that well can thee
+ 
+  commend.
+
+FTLN 1276
+
+FTLN 1277
+
+FTLN 1278
+
+FTLN 1279
+
+FTLN 1280
+110
+
+FTLN 1281
+
+FTLN 1282
+
+FTLN 1283
+
+FTLN 1284
+
+FTLN 1285
+115
+
+FTLN 1286
+
+FTLN 1287
+
+FTLN 1288
+
+FTLN 1289
+
+FTLN 1290
+120
+
+FTLN 1291
+
+FTLN 1292
+
+FTLN 1293
+
+FTLN 1294
+
+FTLN 1295
+125
+
+FTLN 1296
+
+FTLN 1297
+
+FTLN 1298
+
+FTLN 1299
+
+FTLN 1300
+130
+
+FTLN 1301
+
+FTLN 1302
+
+FTLN 1303
+
+FTLN 1304
+
+FTLN 1305
+135
+
+FTLN 1306
+
+HOLOFERNES
+
+JAQUENETTA
+
+HOLOFERNES
+
+JAQUENETTA
+
+COSTARD
+
+Costard and Jaquenetta  exit.
+
+ All ignorant that soul that sees thee without wonder;
+  Which is to me some praise that I thy parts admire.
+ Thy eye Jove’s lightning bears, thy voice his dreadful
+ 
+ thunder,
+
+  Which, not to anger bent, is music and sweet fire.
+ Celestial as thou art, O, pardon love this wrong,
+ That sings heaven’s praise with such an earthly tongue.
+
+  You find not the apostrophus, and so
+
+ miss the accent. Let me supervise the canzonet.
+  He takes the paper.  Here are only numbers ratified,
+ but, for the elegancy, facility, and golden cadence of
+ poesy—caret. Ovidius Naso was the man. And why
+ indeed “Naso,” but for smelling out the odoriferous
+ flowers of fancy, the jerks of invention? Imitari is
+ nothing: so doth the hound his master, the ape his
+ keeper, the tired horse his rider.—But damosella
+ virgin, was this directed to you?
+
+  Ay, sir, from one Monsieur Berowne, one
+
+ of the strange queen’s lords.
+
+  I will overglance the superscript: “To
+
+ the snow-white hand of the most beauteous Lady
+ Rosaline.” I will look again on the intellect of the
+ letter for the nomination of the party writing  to
+ the person written unto: “Your Ladyship’s in all
+ desired employment, Berowne.” Sir Nathaniel,  this
+ Berowne is one of the votaries with the King, and
+ here he hath framed a letter to a sequent of the
+ stranger queen’s: which accidentally, or by the way
+ of progression, hath miscarried.  To Jaquenetta.
+ Trip and go, my sweet. Deliver this paper into the
+ royal hand of the King. It may concern much. Stay
+ not thy compliment. I forgive thy duty. Adieu.
+
+  Good Costard, go with me.—Sir, God
+
+ save your life.
+
+  Have with thee, my girl.
+
+FTLN 1320
+150
+
+FTLN 1325
+155
+
+FTLN 1330
+160
+
+FTLN 1331
+
+FTLN 1332
+
+FTLN 1333
+
+FTLN 1334
+
+FTLN 1335
+165
+
+FTLN 1336
+
+FTLN 1337
+
+FTLN 1338
+
+FTLN 1339
+
+FTLN 1340
+170
+
+FTLN 1341
+
+NATHANIEL
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+They exit.
+
+BEROWNE
+
+  Sir, you have done this in the fear of God
+
+ very religiously; and, as a certain Father saith—
+
+  Sir, tell not me of the Father. I do fear
+
+ colorable colors. But to return to the verses: did
+ they please you, Sir Nathaniel?
+
+  Marvelous well for the pen.
+
+  I do dine today at the father’s of a certain
+
+ pupil of mine, where if, before repast, it shall
+ please you to gratify the table with a grace, I will,
+ on my privilege I have with the parents of the
+ foresaid child or pupil, undertake your ben venuto;
+ where I will prove those verses to be very unlearned,
+ neither savoring of poetry, wit, nor invention.
+ I beseech your society.
+
+  And thank you too; for society, saith the
+
+ text, is the happiness of life.
+
+  And certes the text most infallibly concludes
+
+ it.  To Dull.  Sir, I do invite you too. You shall
+ not say me nay. Pauca verba. Away! The gentles are
+ at their game, and we will to our recreation.
+
+Enter Berowne with a paper in his hand, alone.
+
+  The King, he is hunting the deer; I am
+
+ coursing myself. They have pitched a toil; I am
+ toiling in a pitch—pitch that defiles. Defile! A foul
+ word. Well, “set thee down, sorrow”; for so they
+ say the fool said, and so say I, and I the fool. Well
+ proved, wit. By the Lord, this love is as mad as Ajax.
+ It kills sheep, it kills me, I a sheep. Well proved
+ again, o’ my side. I will not love. If I do, hang me. I’
+ faith, I will not. O, but her eye! By this light, but for
+ her eye I would not love her; yes, for her two eyes.
+
+FTLN 1343
+
+FTLN 1344
+
+FTLN 1345
+175
+
+FTLN 1347
+
+FTLN 1348
+
+FTLN 1350
+180
+
+FTLN 1355
+185
+
+FTLN 1360
+190
+
+Scene 3
+
+FTLN 1366
+5
+
+FTLN 1371
+10
+
+He stands aside.
+
+KING
+
+BEROWNE
+
+KING
+
+ Well, I do nothing in the world but lie, and lie in my
+ throat. By heaven, I do love, and it hath taught me to
+ rhyme, and to be melancholy. And here is part of my
+ rhyme, and here my melancholy. Well, she hath one
+ o’ my sonnets already. The clown bore it, the fool
+ sent it, and the lady hath it. Sweet clown, sweeter
+ fool, sweetest lady. By the world, I would not care a
+ pin, if the other three were in. Here comes one with
+ a paper. God give him grace to groan.
+
+The King entereth with a paper.
+
+  Ay me!
+
+, aside
+  Shot, by heaven! Proceed, sweet
+
+ Cupid. Thou hast thumped him with thy birdbolt
+ under the left pap. In faith, secrets!
+ reads
+ 
+
+ So sweet a kiss the golden sun gives not
+  To those fresh morning drops upon the rose
+ As thy eyebeams, when their fresh rays have smote
+  The night of dew that on my cheeks down flows.
+ Nor shines the silver moon one-half so bright
+  Through the transparent bosom of the deep
+ As doth thy face, through tears of mine, give light.
+  Thou shin’st in every tear that I do weep.
+ No drop but as a coach doth carry thee;
+  So ridest thou triumphing in my woe.
+ Do but behold the tears that swell in me,
+  And they thy glory through my grief will show.
+ But do not love thyself; then thou wilt  keep
+ My tears for glasses, and still make me weep.
+ O queen of queens, how far dost thou excel
+ No thought can think, nor tongue of mortal tell.
+
+ How shall she know my griefs? I’ll drop the paper.
+ Sweet leaves, shade folly. Who is he comes here?
+
+FTLN 1386
+25
+
+FTLN 1391
+30
+
+FTLN 1396
+35
+
+FTLN 1401
+40
+
+FTLN 1402
+
+BEROWNE
+
+LONGAVILLE
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+LONGAVILLE
+
+BEROWNE
+
+LONGAVILLE
+
+He tears the paper.
+
+BEROWNE
+
+LONGAVILLE
+
+Enter Longaville, with papers.  The King steps aside.
+
+ What, Longaville, and reading! Listen, ear.
+
+, aside
+ 
+
+ Now, in thy likeness, one more fool appear!
+
+  Ay me! I am forsworn.
+
+, aside
+ 
+
+ Why, he comes in like a perjure, wearing papers!
+
+, aside
+ 
+
+ In love, I hope! Sweet fellowship in shame.
+
+, aside
+ 
+
+ One drunkard loves another of the name.
+
+, aside
+ 
+
+ I could put thee in comfort: not by two that I know.
+ Thou makest the triumviry, the corner-cap of
+
+ society,
+
+ The shape of love’s Tyburn, that hangs up simplicity.
+
+, aside
+ 
+
+ O, rhymes are guards on wanton Cupid’s hose.
+ Disfigure not his shop!
+
+, taking another paper
+   This same shall go.
+
+(He reads the sonnet.)
+ Did not the heavenly rhetoric of thine eye,
+  ’Gainst whom the world cannot hold argument,
+ Persuade my heart to this false perjury?
+  Vows for thee broke deserve not punishment.
+ A woman I forswore, but I will prove,
+  Thou being a goddess, I forswore not thee.
+ My vow was earthly, thou a heavenly love.
+
+FTLN 1405
+
+FTLN 1406
+45
+
+FTLN 1407
+
+FTLN 1408
+
+FTLN 1409
+
+FTLN 1410
+
+FTLN 1411
+50
+
+FTLN 1412
+
+FTLN 1413
+
+FTLN 1414
+
+FTLN 1415
+
+FTLN 1416
+55
+
+FTLN 1417
+
+FTLN 1418
+
+FTLN 1419
+
+FTLN 1420
+
+FTLN 1421
+60
+
+FTLN 1422
+
+FTLN 1423
+
+FTLN 1424
+
+FTLN 1425
+
+FTLN 1426
+65
+
+BEROWNE
+
+LONGAVILLE
+
+He steps aside.
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+  Thy grace being gained cures all disgrace in me.
+ Vows are but breath, and breath a vapor is.
+  Then thou, fair sun, which on my Earth dost
+ 
+  shine,
+
+ Exhal’st this vapor-vow; in thee it is.
+  If broken, then, it is no fault of mine.
+ If by me broke, what fool is not so wise
+ To lose an oath to win a paradise?
+
+, aside
+ 
+
+ This is the liver vein, which makes flesh a deity,
+ A green goose a goddess. Pure, pure idolatry.
+ God amend us, God amend. We are much out o’ th’
+
+ way.
+
+Enter Dumaine, with a paper.
+
+, aside
+ 
+
+ All hid, all hid—an old infant play.
+ Like a demigod here sit I in the sky,
+ And wretched fools’ secrets heedfully o’ereye.
+ More sacks to the mill. O heavens, I have my wish.
+ Dumaine transformed! Four woodcocks in a dish.
+
+  O most divine Kate!
+, aside
+  O most profane coxcomb!
+
+, aside
+ 
+
+ By Earth, she is not, corporal. There you lie.
+
+, aside
+ 
+
+ An amber-colored raven was well noted.
+
+FTLN 1436
+75
+
+FTLN 1441
+80
+
+FTLN 1443
+
+FTLN 1444
+
+FTLN 1446
+85
+
+FTLN 1447
+
+FTLN 1448
+
+FTLN 1449
+
+FTLN 1450
+
+FTLN 1451
+90
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+LONGAVILLE
+
+KING
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+, aside
+  
+ Stoop, I say.
+
+ Her shoulder is with child.
+
+  
+ As fair as day.
+
+, aside
+ 
+
+ Ay, as some days, but then no sun must shine.
+
+, aside
+  
+ And I had mine!
+
+, aside
+  And mine too, good Lord!
+
+, aside
+ 
+
+ Amen, so I had mine. Is not that a good word?
+
+, aside
+ 
+
+ A fever in your blood? Why, then incision
+ Would let her out in saucers! Sweet misprision.
+
+, aside
+ 
+
+ Once more I’ll mark how love can vary wit.
+
+ reads his sonnet.  
+ On a day—alack the day!—
+ Love, whose month is ever May,
+ Spied a blossom passing fair,
+ Playing in the wanton air.
+ Through the velvet leaves the wind,
+ All unseen, can passage find;
+ That the lover, sick to death,
+ Wished  himself the heaven’s breath.
+ “Air,” quoth he, “thy cheeks may blow.
+ Air, would I might triumph so!”
+ But, alack, my hand is sworn
+ Ne’er to pluck thee from thy thorn.
+
+FTLN 1456
+95
+
+FTLN 1459
+
+FTLN 1460
+
+FTLN 1461
+100
+
+FTLN 1462
+
+FTLN 1463
+
+FTLN 1464
+
+FTLN 1465
+
+FTLN 1466
+105
+
+FTLN 1467
+
+FTLN 1468
+
+FTLN 1470
+
+FTLN 1471
+110
+
+FTLN 1472
+
+FTLN 1473
+
+FTLN 1474
+
+FTLN 1475
+
+FTLN 1476
+115
+
+FTLN 1477
+
+LONGAVILLE
+
+KING
+
+ Vow, alack, for youth unmeet,
+ Youth so apt to pluck a sweet.
+ Do not call it sin in me
+ That I am forsworn for thee—
+ Thou for whom Jove would swear
+ Juno but an Ethiope were,
+ And deny himself for Jove,
+ Turning mortal for thy love.
+
+ This will I send, and something else more plain
+ That shall express my true love’s fasting pain.
+ O, would the King, Berowne, and Longaville
+ Were lovers too! Ill to example ill
+ Would from my forehead wipe a perjured note,
+ For none offend where all alike do dote.
+
+, coming forward
+ 
+
+ Dumaine, thy love is far from charity,
+ That in love’s grief desir’st society.
+ You may look pale, but I should blush, I know,
+ To be o’er-heard and taken napping so.
+
+, coming forward
+ 
+
+  To Longaville.  Come, sir, you blush! As his, your
+
+ case is such.
+
+ You chide at him, offending twice as much.
+ You do not love Maria? Longaville
+ Did never sonnet for her sake compile,
+ Nor never lay his wreathèd arms athwart
+ His loving bosom to keep down his heart?
+ I have been closely shrouded in this bush
+ And marked you both, and for you both did blush.
+ I heard your guilty rhymes, observed your fashion,
+ Saw sighs reek from you, noted well your passion.
+ “Ay, me!” says one. “O Jove!” the other cries.
+ One, her hairs were gold, crystal the other’s eyes.
+  To Longaville.  You would for paradise break faith
+
+ and troth,
+
+FTLN 1496
+135
+
+FTLN 1501
+140
+
+FTLN 1506
+145
+
+FTLN 1509
+
+BEROWNE
+
+KING
+
+  To Dumaine.  And Jove, for your love, would
+
+ infringe an oath.
+
+ What will Berowne say when that he shall hear
+ Faith infringed, which such zeal did swear?
+ How will he scorn, how will he spend his wit!
+ How will he triumph, leap, and laugh at it!
+ For all the wealth that ever I did see,
+ I would not have him know so much by me.
+
+, coming forward
+ 
+
+ Now step I forth to whip hypocrisy.
+ Ah, good my liege, I pray thee pardon me.
+ Good heart, what grace hast thou thus to reprove
+ These worms for loving, that art most in love?
+ Your eyes do make no coaches;  in your tears
+ There is no certain princess that appears.
+ You’ll not be perjured, ’tis a hateful thing!
+ Tush, none but minstrels like of sonneting!
+ But are you not ashamed? Nay, are you not,
+ All three of you, to be thus much o’ershot?
+  To Longaville.  You found his mote, the King your
+
+ mote did see,
+
+ But I a beam do find in each of three.
+ O, what a scene of fool’ry have I seen,
+ Of sighs, of groans, of sorrow, and of teen!
+ O me, with what strict patience have I sat,
+ To see a king transformèd to a gnat!
+ To see great Hercules whipping a gig,
+ And profound Solomon to tune a jig,
+ And Nestor play at pushpin with the boys,
+ And critic Timon laugh at idle toys.
+ Where lies thy grief, O tell me, good Dumaine?
+ And gentle Longaville, where lies thy pain?
+ And where my liege’s? All about the breast!
+ A caudle, ho!
+
+  
+ Too bitter is thy jest.
+
+ Are we betrayed thus to thy overview?
+
+FTLN 1516
+155
+
+FTLN 1521
+160
+
+FTLN 1526
+165
+
+FTLN 1531
+170
+
+FTLN 1533
+
+FTLN 1536
+175
+
+FTLN 1541
+180
+
+FTLN 1545
+
+Berowne begins to exit.
+
+KING
+
+BEROWNE
+
+JAQUENETTA
+
+KING
+
+COSTARD
+
+KING
+
+COSTARD
+
+KING
+
+JAQUENETTA
+
+KING
+
+Berowne  reads the letter.
+
+Enter Jaquenetta, with a paper,  and Clown Costard.
+
+  
+ Soft, whither away so fast?
+
+ A true man, or a thief, that gallops so?
+
+  
+ What present hast thou there?
+
+  
+ What makes treason here?
+
+  
+ If it mar nothing neither,
+
+ The treason and you go in peace away together.
+
+To Jaquenetta.   
+ Where hadst thou it?
+
+FTLN 1551
+190
+
+FTLN 1556
+195
+
+FTLN 1561
+200
+
+FTLN 1566
+205
+
+FTLN 1570
+
+JAQUENETTA
+
+KING
+
+COSTARD
+
+Berowne tears the paper.
+
+KING
+
+BEROWNE
+
+LONGAVILLE
+
+DUMAINE
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+KING
+
+COSTARD
+
+Jaquenetta and Costard exit.
+
+BEROWNE
+
+  Of Costard.
+
+, to Costard
+  Where hadst thou it?
+
+  Of Dun Adramadio, Dun Adramadio.
+
+, to Berowne
+ 
+
+ How now, what is in you? Why dost thou tear it?
+
+ it.
+
+, picking up the papers
+ 
+
+ It is Berowne’s writing, and here is his name.
+
+, to Costard
+ 
+
+ Ah, you whoreson loggerhead, you were born to do
+
+ me shame.—
+
+ Guilty, my lord, guilty. I confess, I confess.
+
+  What?
+
+ the mess.
+
+ He, he, and you—and you, my liege—and I
+ Are pickpurses in love, and we deserve to die.
+ O, dismiss this audience, and I shall tell you more.
+
+  
+ True, true, we are four.
+
+  Pointing to Jaquenetta and Costard.  Will these
+
+ turtles be gone?
+
+  
+ Hence, sirs. Away.
+
+FTLN 1574
+
+FTLN 1576
+215
+
+FTLN 1578
+
+FTLN 1579
+
+FTLN 1580
+
+FTLN 1581
+220
+
+FTLN 1582
+
+FTLN 1586
+225
+
+FTLN 1587
+
+FTLN 1589
+
+FTLN 1590
+
+FTLN 1591
+230
+
+FTLN 1592
+
+FTLN 1593
+
+FTLN 1594
+
+FTLN 1595
+
+KING
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+ The sea will ebb and flow, heaven show his face;
+  Young blood doth not obey an old decree.
+ We cannot cross the cause why we were born;
+ Therefore of all hands must we be forsworn.
+
+ Rosaline
+
+ That, like a rude and savage man of Ind
+  At the first op’ning of the gorgeous East,
+ Bows not his vassal head and, strucken blind,
+  Kisses the base ground with obedient breast?
+ What peremptory eagle-sighted eye
+  Dares look upon the heaven of her brow
+ That is not blinded by her majesty?
+
+FTLN 1611
+250
+
+FTLN 1616
+255
+
+FTLN 1621
+260
+
+KING
+
+KING
+
+BEROWNE
+
+DUMAINE
+
+LONGAVILLE
+
+KING
+
+DUMAINE
+
+BEROWNE
+
+  And gives the crutch the cradle’s infancy.
+ O, ’tis the sun that maketh all things shine!
+
+FTLN 1641
+280
+
+FTLN 1646
+285
+
+FTLN 1651
+290
+
+BEROWNE
+
+KING
+
+DUMAINE
+
+LONGAVILLE
+
+BEROWNE
+
+DUMAINE
+
+KING
+
+BEROWNE
+
+KING
+
+DUMAINE
+
+LONGAVILLE
+
+DUMAINE
+
+BEROWNE
+
+, showing his shoe
+ 
+
+  Look, here’s thy love; my foot and her face see.
+
+  
+  O, ’tis more than need.
+
+ Have at you, then, affection’s men-at-arms!
+ O, we have made a vow to study, lords,
+ And in that vow we have forsworn our books.
+
+FTLN 1656
+295
+
+FTLN 1666
+305
+
+FTLN 1671
+310
+
+ For when would you, my liege, or you, or you,
+ In leaden contemplation have found out
+ Such fiery numbers as the prompting eyes
+ Of beauty’s tutors have enriched you with?
+ Other slow arts entirely keep the brain
+ And therefore, finding barren practicers,
+ Scarce show a harvest of their heavy toil.
+ But love, first learnèd in a lady’s eyes,
+ Lives not alone immurèd in the brain,
+ But with the motion of all elements
+ Courses as swift as thought in every power,
+ And gives to every power a double power,
+ Above their functions and their offices.
+ It adds a precious seeing to the eye.
+ A lover’s eyes will gaze an eagle blind.
+ A lover’s ear will hear the lowest sound,
+ When the suspicious head of theft is stopped.
+ Love’s feeling is more soft and sensible
+ Than are the tender horns of cockled snails.
+ Love’s tongue proves dainty Bacchus gross in taste.
+ For valor, is not love a Hercules,
+ Still climbing trees in the Hesperides?
+ Subtle as Sphinx, as sweet and musical
+ As bright Apollo’s lute strung with his hair.
+ And when love speaks, the voice of all the gods
+ Make heaven drowsy with the harmony.
+ Never durst poet touch a pen to write
+ Until his ink were tempered with love’s sighs.
+ O, then his lines would ravish savage ears
+ And plant in tyrants mild humility.
+ From women’s eyes this doctrine I derive.
+ They sparkle still the right Promethean fire.
+ They are the books, the arts, the academes
+ That show, contain, and nourish all the world.
+ Else none at all in ought proves excellent.
+
+FTLN 1681
+320
+
+FTLN 1691
+330
+
+FTLN 1696
+335
+
+FTLN 1701
+340
+
+FTLN 1706
+345
+
+KING
+
+BEROWNE
+
+LONGAVILLE
+
+KING
+
+BEROWNE
+
+KING
+
+ Then fools you were these women to forswear,
+ Or, keeping what is sworn, you will prove fools.
+ For wisdom’s sake, a word that all men love,
+ Or for love’s sake, a word that loves all men,
+ Or for men’s sake, the authors  of these women,
+ Or women’s sake, by whom we men are men,
+ Let  us once lose our oaths to find ourselves,
+ Or else we lose ourselves to keep our oaths.
+ It is religion to be thus forsworn,
+ For charity itself fulfills the law,
+ And who can sever love from charity?
+
+FTLN 1716
+355
+
+FTLN 1721
+360
+
+FTLN 1726
+365
+
+FTLN 1731
+370
+
+They exit.
+
+FTLN 1741
+380
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+NATHANIEL
+
+Draw out his table book.
+
+HOLOFERNES
+
+Enter Holofernes  the Pedant, Nathaniel  the Curate,
+
+and Dull the Constable.
+
+  Satis quid sufficit.
+
+  I praise God for you, sir. Your reasons at
+
+ dinner have been sharp and sententious, pleasant
+ without scurrility, witty without affection, audacious
+ without impudency, learned without opinion,
+ and strange without heresy. I did converse this
+ quondam day with a companion of the King’s, who
+ is intituled, nominated, or called Don Adriano de
+ Armado.
+
+  Novi hominem  tanquam te. His humor
+
+ is lofty, his discourse peremptory, his tongue filed,
+ his eye ambitious, his gait majestical, and his general
+ behavior vain, ridiculous, and thrasonical. He is
+ too picked, too spruce, too affected, too odd, as it
+ were, too peregrinate, as I may call it.
+
+  A most singular and choice epithet.
+
+  He draweth out the thread of his verbosity
+
+ finer than the staple of his argument. I abhor
+ such fanatical phantasimes, such insociable and
+ point-devise companions, such rackers of orthography,
+ as to speak “dout,” fine, when he should
+ say “doubt”; “det” when he should pronounce
+
+ACT  5
+
+FTLN 1746
+5
+
+FTLN 1751
+10
+
+FTLN 1752
+
+FTLN 1756
+15
+
+FTLN 1757
+
+FTLN 1761
+20
+
+NATHANIEL
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+BOY
+
+COSTARD
+
+BOY
+
+ARMADO
+
+BOY
+
+HOLOFERNES
+
+BOY
+
+HOLOFERNES
+
+BOY
+
+HOLOFERNES
+
+ “debt”—d, e, b, t, not d, e, t. He clepeth a calf
+ “cauf,” half “hauf,” neighbor vocatur “nebor”;
+ neigh abbreviated ne. This is abhominable—which
+ he would call “abominable.” It insinuateth me of
+ insanie.  Ne intelligis, domine? To make frantic,
+ lunatic.
+
+  Laus Deo, bone  intelligo.
+
+  Bone? Bone  for bene?  Priscian a little
+
+ scratched; ’twill serve.
+
+Enter Armado the  Braggart, Boy, and Costard.
+
+  Videsne quis venit?
+
+  Video, et gaudeo.
+
+  Chirrah.
+
+  Quare “chirrah,” not “sirrah”?
+
+  Men of peace, well encountered.
+
+  Most military sir, salutation.
+
+, aside to Costard
+  They have been at a great feast
+
+ of languages and stolen the scraps.
+
+, aside to Boy
+  O, they have lived long on the
+
+ almsbasket of words. I marvel thy master hath not
+ eaten thee for a word, for thou art not so long by the
+ head as honorificabilitudinitatibus. Thou art easier
+ swallowed than a flapdragon.
+, aside to Costard
+  Peace, the peal begins.
+
+, to Holofernes
+  Monsieur, are you not
+
+ lettered?
+  Yes, yes, he teaches boys the hornbook.—What is
+ a, b spelled backward, with the horn on his head?
+
+  Ba, pueritia, with a horn added.
+
+  Ba, most silly sheep, with a horn.—You hear his
+ learning.
+
+  Quis, quis, thou consonant?
+
+  The last of the five vowels, if you repeat them; or
+ the fifth, if I.
+
+  I will repeat them: a, e, i—
+
+FTLN 1766
+25
+
+FTLN 1771
+30
+
+FTLN 1773
+
+FTLN 1774
+
+FTLN 1776
+35
+
+FTLN 1779
+
+FTLN 1781
+40
+
+FTLN 1782
+
+FTLN 1783
+
+FTLN 1784
+
+FTLN 1785
+
+FTLN 1786
+45
+
+FTLN 1787
+
+FTLN 1788
+
+FTLN 1789
+
+FTLN 1790
+
+FTLN 1791
+50
+
+FTLN 1792
+
+FTLN 1793
+
+FTLN 1794
+
+FTLN 1795
+
+FTLN 1796
+55
+
+FTLN 1797
+
+BOY
+
+ARMADO
+
+BOY
+
+HOLOFERNES
+
+BOY
+
+HOLOFERNES
+
+BOY
+
+COSTARD
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+  The sheep. The other two concludes it: o, u.
+
+  Now by the salt wave  of the Mediterraneum,
+
+ a sweet touch, a quick venue of wit! Snip, snap,
+ quick and home. It rejoiceth my intellect. True
+ wit.
+  Offered by a child to an old man—which is
+ wit-old.
+
+  What is the figure? What is the figure?
+
+  Horns.
+
+  Thou disputes like an infant. Go whip thy
+
+ gig.
+  Lend me your horn to make one, and I will whip
+ about your infamy—unum cita—a gig of a cuckold’s
+ horn.
+
+  An I had but one penny in the world, thou
+
+ shouldst have it to buy gingerbread! Hold, there is
+ the very remuneration I had of thy master, thou
+ halfpenny purse of wit, thou pigeon egg of discretion.
+  He gives him money.  O, an the heavens were
+ so pleased that thou wert but my bastard, what a
+ joyful father wouldest thou make me! Go to, thou
+ hast it ad dunghill, at the fingers’ ends, as they say.
+
+  Oh, I smell false Latin! Dunghill for
+
+ unguem.
+
+  Arts-man, preambulate. We will be singuled
+
+ from the barbarous. Do you not educate youth at
+ the charge-house on the top of the mountain?
+
+  Or mons, the hill.
+
+  At your sweet pleasure, for the mountain.
+
+  I do, sans question.
+
+  Sir, it is the King’s most sweet pleasure and
+
+ affection to congratulate the Princess at her pavilion
+ in the posteriors of this day, which the rude
+ multitude call the afternoon.
+
+  “The posterior of the day,” most generous
+
+ sir, is liable, congruent, and measurable for
+
+FTLN 1801
+60
+
+FTLN 1806
+65
+
+FTLN 1816
+75
+
+FTLN 1821
+80
+
+FTLN 1826
+85
+
+FTLN 1831
+90
+
+ARMADO
+
+HOLOFERNES
+
+NATHANIEL
+
+HOLOFERNES
+
+ “the afternoon”; the word is well culled, chose,
+ sweet, and apt, I do assure you, sir, I do assure.
+
+  Sir, the King is a noble gentleman, and my
+
+ familiar, I do assure you, very good friend. For
+ what is inward between us, let it pass. I do beseech
+ thee, remember thy courtesy; I beseech thee apparel
+ thy head. And among other important and most
+ serious designs, and of great import indeed, too—
+ but let that pass; for I must tell thee, it will please his
+ Grace, by the world, sometimes to lean upon my
+ poor shoulder and with his royal finger thus dally
+ with my excrement, with my mustachio—but,
+ sweetheart, let that pass. By the world, I recount no
+ fable! Some certain special honors it pleaseth his
+ Greatness to impart to Armado, a soldier, a man of
+ travel, that hath seen the world—but let that pass.
+ The very all of all is—but sweetheart, I do implore
+ secrecy—that the King would have me present the
+ Princess, sweet chuck, with some delightful ostentation,
+ or show, or pageant, or antic, or firework.
+ Now, understanding that the curate and your sweet
+ self are good at such eruptions and sudden breaking
+ out of mirth, as it were, I have acquainted you
+ withal to the end to crave your assistance.
+
+  Sir, you shall present before her the Nine
+
+ Worthies.—Sir Nathaniel,  as concerning some
+ entertainment of time, some show in the posterior
+ of this day, to be rendered  by our assistance,  the
+ King’s command, and this most gallant, illustrate,
+ and learned gentleman, before the Princess—I say,
+ none so fit as to present the Nine Worthies.
+
+  Where will you find men worthy enough to
+
+ present them?
+
+  Joshua, yourself; myself; and this gallant
+
+ gentleman, Judas Maccabaeus. This swain, because
+ of his great limb or joint, shall pass Pompey
+ the Great; the page, Hercules—
+
+FTLN 1836
+95
+
+FTLN 1856
+115
+
+FTLN 1861
+120
+
+FTLN 1870
+
+ARMADO
+
+HOLOFERNES
+
+BOY
+
+ARMADO
+
+HOLOFERNES
+
+BOY
+
+ARMADO
+
+HOLOFERNES
+
+ARMADO
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+DULL
+
+HOLOFERNES
+
+They exit.
+
+PRINCESS
+
+  Pardon, sir—error. He is not quantity
+
+ enough for that Worthy’s thumb; he is not so big as
+ the end of his club!
+
+  Shall I have audience? He shall present
+
+ Hercules in minority. His enter and exit shall be
+ strangling a snake; and I will have an apology for
+ that purpose.
+  An excellent device. So, if any of the audience
+ hiss, you may cry “Well done, Hercules, now thou
+ crushest the snake.” That is the way to make an
+ offense gracious, though few have the grace to do it.
+
+  For the rest of the Worthies?
+
+  I will play three myself.
+
+  Thrice-worthy gentleman!
+
+, to Holofernes
+  Shall I tell you a thing?
+
+  We attend.
+
+  We will have, if this fadge not, an antic. I
+
+ beseech you, follow.
+
+  Via, goodman Dull. Thou hast spoken no
+
+ word all this while.
+
+  Nor understood none neither, sir.
+
+  Allons!  We will employ thee.
+
+  I’ll make one in a dance, or so; or I will play on
+
+ the tabor to the Worthies and let them dance the
+ hay.
+
+  Most dull, honest Dull. To our sport!
+
+ Away.
+
+Enter the Ladies ( the Princess, Rosaline,
+
+Katherine, and Maria. )
+
+FTLN 1891
+150
+
+FTLN 1896
+155
+
+Scene 2
+
+FTLN 1898
+
+FTLN 1899
+
+She shows a jewel.
+
+ROSALINE
+
+PRINCESS
+
+ROSALINE
+
+KATHERINE
+
+ROSALINE
+
+KATHERINE
+
+ROSALINE
+
+KATHERINE
+
+ROSALINE
+
+KATHERINE
+
+ A lady walled about with diamonds!
+ Look you what I have from the loving king.
+
+ sister.
+
+ word?
+
+FTLN 1902
+5
+
+FTLN 1907
+10
+
+FTLN 1912
+15
+
+FTLN 1917
+20
+
+FTLN 1922
+25
+
+KATHERINE
+
+ROSALINE
+
+KATHERINE
+
+ROSALINE
+
+PRINCESS
+
+ROSALINE
+
+She shows a gift.
+
+PRINCESS
+
+ROSALINE
+
+PRINCESS
+
+KATHERINE
+
+ROSALINE
+
+PRINCESS
+
+  
+ I would you knew.
+
+ An if my face were but as fair as yours,
+ My favor were as great. Be witness this.
+
+ Nay, I have verses too, I thank Berowne;
+ The numbers true; and were the numb’ring too,
+ I were the fairest goddess on the ground.
+ I am compared to twenty thousand fairs.
+ O, he hath drawn my picture in his letter.
+
+  Anything like?
+ 
+
+ Much in the letters, nothing in the praise.
+
+FTLN 1932
+35
+
+FTLN 1937
+40
+
+FTLN 1942
+45
+
+KATHERINE
+
+She shows the glove.
+
+PRINCESS
+
+KATHERINE
+
+MARIA
+
+She shows a paper and pearls.
+
+PRINCESS
+
+MARIA
+
+PRINCESS
+
+ROSALINE
+
+PRINCESS
+
+ But, Katherine, what was sent to you
+ From fair Dumaine?
+
+  
+ Did he not send you twain?
+
+  Yes, madam, and moreover,
+
+ Some thousand verses of a faithful lover,
+ A huge translation of hypocrisy,
+ Vilely compiled, profound simplicity.
+
+ The letter is too long by half a mile.
+
+FTLN 1947
+50
+
+FTLN 1952
+55
+
+FTLN 1956
+
+FTLN 1957
+60
+
+FTLN 1958
+
+FTLN 1959
+
+FTLN 1960
+
+FTLN 1961
+
+FTLN 1962
+65
+
+FTLN 1963
+
+FTLN 1964
+
+FTLN 1966
+
+FTLN 1967
+70
+
+FTLN 1968
+
+FTLN 1969
+
+FTLN 1970
+
+FTLN 1971
+
+FTLN 1972
+75
+
+FTLN 1973
+
+FTLN 1974
+
+MARIA
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+Enter Boyet.
+
+  
+ Prepare, madam, prepare.
+
+ Arm, wenches, arm. Encounters mounted are
+ Against your peace. Love doth approach, disguised,
+ Armèd in arguments. You’ll be surprised.
+ Muster your wits, stand in your own defense,
+ Or hide your heads like cowards, and fly hence.
+
+FTLN 1977
+80
+
+FTLN 1982
+85
+
+FTLN 1987
+90
+
+FTLN 1992
+95
+
+FTLN 2000
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+ Action and accent did they teach him there:
+ “Thus must thou speak,” and “thus thy body bear.”
+ And ever and anon they made a doubt
+ Presence majestical would put him out;
+ “For,” quoth the King, “an angel shalt thou see;
+ Yet fear not thou, but speak audaciously.”
+ The boy replied “An angel is not evil.
+ I should have feared her had she been a devil.”
+ With that, all laughed and clapped him on the
+
+ shoulder,
+
+ Making the bold wag by their praises bolder.
+ One rubbed his elbow thus, and fleered, and swore
+ A better speech was never spoke before.
+ Another with his finger and his thumb,
+ Cried “Via! We will do ’t, come what will come.”
+ The third he capered and cried “All goes well!”
+ The fourth turned on the toe, and down he fell.
+ With that, they all did tumble on the ground
+ With such a zealous laughter so profound
+ That in this spleen ridiculous appears,
+ To check their folly, passion’s solemn tears.
+
+FTLN 2022
+125
+
+FTLN 2027
+130
+
+FTLN 2032
+135
+
+FTLN 2034
+
+Princess and Rosaline exchange favors.
+
+Katherine and Maria exchange favors.
+
+ROSALINE
+
+KATHERINE
+
+PRINCESS
+
+ROSALINE
+
+PRINCESS
+
+BOYET
+
+PRINCESS
+
+Sound trumpet, within.
+
+ And then the King will court thee for his dear.
+ Hold, take thou this, my sweet, and give me thine.
+ So shall Berowne take me for Rosaline.
+
+ And change you favors too. So shall your loves
+ Woo contrary, deceived by these removes.
+
+, to Princess
+ 
+
+ But in this changing, what is your intent?
+
+FTLN 2042
+145
+
+FTLN 2047
+150
+
+FTLN 2052
+155
+
+FTLN 2057
+160
+
+FTLN 2058
+
+FTLN 2060
+
+The Ladies mask.
+
+BOY
+
+BOYET
+
+BOY
+
+(The Ladies turn their backs to him.)
+
+BEROWNE
+
+BOY
+
+BOYET
+
+BOY
+
+BEROWNE
+
+BOY
+
+BOYET
+
+BOY
+
+BEROWNE
+
+Boy exits.
+
+ROSALINE
+
+Enter Blackamoors with music, the Boy with a speech,
+the King, Berowne,  and the rest of the Lords disguised.
+
+ That ever turned their—backs—to mortal views.
+
+  Their eyes, villain, their eyes!
+
+  True; out indeed.
+
+  Once to behold, rogue!
+
+, speaking as the Princess
+ 
+
+ What would these strangers?  Know their minds,
+
+ Boyet.
+
+FTLN 2062
+165
+
+FTLN 2063
+
+FTLN 2064
+
+FTLN 2066
+
+FTLN 2067
+170
+
+FTLN 2068
+
+FTLN 2072
+175
+
+FTLN 2074
+
+FTLN 2075
+
+FTLN 2076
+
+FTLN 2077
+180
+
+FTLN 2079
+
+FTLN 2080
+
+BOYET
+
+BEROWNE
+
+ROSALINE
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+KING
+
+BOYET
+
+ROSALINE
+
+BOYET
+
+BEROWNE
+
+BOYET
+
+ROSALINE
+
+ If they do speak our language, ’tis our will
+ That some plain man recount their purposes.
+ Know what they would.
+
+  
+ What would you with the
+
+ Princess?
+
+  What would they, say they?
+
+  
+ How many weary steps
+
+ Of many weary miles you have o’ergone
+ Are numbered in the travel of one mile?
+
+FTLN 2087
+190
+
+FTLN 2092
+195
+
+FTLN 2097
+200
+
+FTLN 2102
+205
+
+ROSALINE
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+Music begins.
+
+KING
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+She offers her hand.
+
+ shine,
+
+ Those clouds removed, upon our watery eyne.
+
+ Not yet? No dance! Thus change I like the moon.
+
+  
+ But your legs should do it.
+
+FTLN 2122
+225
+
+FTLN 2127
+230
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+KING
+
+ROSALINE
+
+KING
+
+They move aside.
+
+BEROWNE
+
+PRINCESS
+
+BEROWNE
+
+PRINCESS
+
+BEROWNE
+
+PRINCESS
+
+BEROWNE
+
+  
+ Only to part friends.—
+
+ Curtsy, sweethearts—and so the measure ends.
+
+  
+ That can never be.
+
+  
+ I am best pleased with that.
+
+, to the Princess
+ 
+
+ White-handed mistress, one sweet word with thee.
+
+, speaking as Rosaline
+ 
+
+ Honey, and milk, and sugar—there is three.
+
+  
+ Seventh sweet, adieu.
+
+ Since you can cog, I’ll play no more with you.
+
+  
+ Let it not be sweet.
+
+FTLN 2142
+245
+
+FTLN 2147
+250
+
+FTLN 2150
+
+FTLN 2152
+255
+
+BEROWNE
+
+They move aside.
+
+DUMAINE
+
+MARIA
+
+DUMAINE
+
+MARIA
+
+DUMAINE
+
+They move aside.
+
+KATHERINE
+
+LONGAVILLE
+
+KATHERINE
+
+LONGAVILLE
+
+KATHERINE
+
+LONGAVILLE
+
+KATHERINE
+
+LONGAVILLE
+
+KATHERINE
+
+LONGAVILLE
+
+KATHERINE
+
+  
+ Gall! Bitter.
+
+  
+ Therefore meet.
+
+, to Maria
+ 
+
+ Will you vouchsafe with me to change a word?
+
+, speaking as Katherine
+ 
+
+ Name it.
+
+   Fair lady—
+
+  
+ Say you so? Fair lord!
+
+ Take that for your “fair lady.”
+
+  
+ Please it you
+
+ As much in private, and I’ll bid adieu.
+
+, speaking as Maria
+ 
+
+ What, was your vizard made without a tongue?
+
+  
+ No, a fair Lord Calf.
+
+  
+ No, I’ll not be your half.
+
+ Take all and wean it. It may prove an ox.
+
+FTLN 2156
+
+FTLN 2157
+260
+
+FTLN 2162
+265
+
+FTLN 2163
+
+FTLN 2164
+
+FTLN 2165
+
+FTLN 2166
+
+FTLN 2167
+270
+
+FTLN 2168
+
+FTLN 2169
+
+FTLN 2170
+
+FTLN 2171
+
+FTLN 2172
+275
+
+FTLN 2173
+
+FTLN 2174
+
+FTLN 2175
+
+LONGAVILLE
+
+KATHERINE
+
+They move aside.
+
+BOYET
+
+ROSALINE
+
+The Ladies move away from the Lords.
+
+BEROWNE
+
+KING
+
+King, Lords, and Blackamoors  exit.
+
+The Ladies unmask.
+
+PRINCESS
+
+BOYET
+
+ROSALINE
+
+PRINCESS
+
+ wings
+
+ Fleeter than arrows, bullets, wind, thought, swifter
+
+ things.
+
+  out.
+
+FTLN 2177
+280
+
+FTLN 2178
+
+FTLN 2182
+285
+
+FTLN 2187
+290
+
+FTLN 2189
+
+FTLN 2190
+
+FTLN 2191
+
+FTLN 2192
+295
+
+FTLN 2193
+
+FTLN 2194
+
+FTLN 2195
+
+FTLN 2196
+
+FTLN 2197
+300
+
+PRINCESS
+
+MARIA
+
+KATHERINE
+
+PRINCESS
+
+KATHERINE
+
+PRINCESS
+
+ROSALINE
+
+PRINCESS
+
+KATHERINE
+
+MARIA
+
+BOYET
+
+PRINCESS
+
+BOYET
+
+  mute.
+
+  
+  Qualm, perhaps.
+
+  
+ Go, sickness as thou art!
+
+  
+ They will, they will, God knows,
+
+ And leap for joy, though they are lame with blows.
+ Therefore change favors, and when they repair,
+ Blow like sweet roses in this summer air.
+
+FTLN 2207
+310
+
+FTLN 2212
+315
+
+FTLN 2217
+320
+
+FTLN 2222
+325
+
+BOYET
+
+PRINCESS
+
+ROSALINE
+
+BOYET
+
+PRINCESS
+
+The Princess and the Ladies  exit.
+
+KING
+
+BOYET
+
+KING
+
+BOYET
+
+He exits.
+
+BEROWNE
+
+Enter the King and the rest, as themselves.
+
+, to Boyet
+ 
+
+ Fair sir, God save you. Where’s the Princess?
+
+FTLN 2237
+340
+
+FTLN 2242
+345
+
+KING
+
+BEROWNE
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+ And utters it again when God doth please.
+ He is wit’s peddler, and retails his wares
+ At wakes and wassails, meetings, markets, fairs.
+ And we that sell by gross, the Lord doth know,
+ Have not the grace to grace it with such show.
+ This gallant pins the wenches on his sleeve.
+ Had he been Adam, he had tempted Eve.
+ He can carve too, and lisp. Why, this is he
+ That kissed his hand away in courtesy.
+ This is the ape of form, Monsieur the Nice,
+ That, when he plays at tables, chides the dice
+ In honorable terms. Nay, he can sing
+ A mean most meanly; and in ushering
+ Mend him who can. The ladies call him sweet.
+ The stairs, as he treads on them, kiss his feet.
+ This is the flower that smiles on everyone
+ To show his teeth as white as whale’s bone;
+ And consciences that will not die in debt
+ Pay him the due of “honey-tongued Boyet.”
+
+Enter the Ladies, with Boyet.
+
+ now?
+, to Princess
+ 
+
+ All hail, sweet madam, and fair time of day.
+
+FTLN 2267
+370
+
+FTLN 2272
+375
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+ROSALINE
+
+  
+  Ay, in truth, my lord.
+
+ Trim gallants, full of courtship and of state.
+
+FTLN 2287
+390
+
+FTLN 2292
+395
+
+FTLN 2297
+400
+
+FTLN 2300
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+KING
+
+DUMAINE
+
+PRINCESS
+
+ They did not bless us with one happy word.
+ I dare not call them fools; but this I think:
+ When they are thirsty, fools would fain have drink.
+
+  
+ I cannot give you less.
+
+, aside to Dumaine
+ 
+
+ We were descried. They’ll mock us now downright.
+
+, aside to King
+ 
+
+ Let us confess and turn it to a jest.
+
+, to King
+ 
+
+ Amazed, my lord? Why looks your Highness sad?
+
+FTLN 2317
+420
+
+ROSALINE
+
+BEROWNE
+
+ pale?
+
+ Seasick, I think, coming from Muscovy.
+
+  knows!—
+
+ Henceforth my wooing mind shall be expressed
+  In russet yeas and honest kersey noes.
+ And to begin: Wench, so God help me, law,
+ My love to thee is sound, sans crack or flaw.
+
+  
+ Yet I have a trick
+
+ Of the old rage. Bear with me, I am sick;
+ I’ll leave it by degrees. Soft, let us see:
+ Write “Lord have mercy on us” on those three.
+ They are infected; in their hearts it lies.
+ They have the plague, and caught it of your eyes.
+
+FTLN 2342
+445
+
+FTLN 2347
+450
+
+FTLN 2352
+455
+
+PRINCESS
+
+ROSALINE
+
+BEROWNE
+
+ROSALINE
+
+BEROWNE
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+KING
+
+ These lords are visited. You are not free,
+ For the Lord’s tokens on you do I see.
+
+, to King, Longaville, and Dumaine
+ 
+
+ Speak for yourselves. My wit is at an end.
+
+, to Princess
+ 
+
+ Teach us, sweet madam, for our rude transgression
+ Some fair excuse.
+
+  
+ The fairest is confession.
+
+ Were not you here but even now, disguised?
+
+  
+ And were you well advised?
+
+  
+ When you then were here,
+
+ What did you whisper in your lady’s ear?
+
+  
+ Peace, peace, forbear!
+
+ Your oath once broke, you force not to forswear.
+
+FTLN 2367
+470
+
+FTLN 2372
+475
+
+FTLN 2380
+
+ROSALINE
+
+PRINCESS
+
+KING
+
+ROSALINE
+
+KING
+
+PRINCESS
+
+She points to Rosaline.
+
+She shows the token.
+
+BEROWNE
+
+ sir, again.
+
+ And Lord Berowne, I thank him, is my dear.
+  To Berowne.  What, will you have me, or your pearl
+
+ again? 
+
+ zany,
+
+ Some mumble-news, some trencher-knight, some
+
+ Dick,
+
+FTLN 2392
+495
+
+FTLN 2397
+500
+
+FTLN 2406
+
+FTLN 2407
+510
+
+BOYET
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+ That smiles his cheek in years and knows the trick
+ To make my lady laugh when she’s disposed,
+ Told our intents before; which once disclosed,
+ The ladies did change favors; and then we,
+ Following the signs, wooed but the sign of she.
+ Now, to our perjury to add more terror,
+ We are again forsworn in will and error.
+ Much upon this ’tis.  To Boyet.  And might not you
+ Forestall our sport, to make us thus untrue?
+ Do not you know my lady’s foot by th’ squier?
+  And laugh upon the apple of her eye?
+ And stand between her back, sir, and the fire,
+  Holding a trencher, jesting merrily?
+ You put our page out. Go, you are allowed.
+ Die when you will, a smock shall be your shroud.
+ You leer upon me, do you? There’s an eye
+ Wounds like a leaden sword.
+
+  
+ Full merrily
+
+ Hath this brave manage,  this career been run.
+
+Enter Clown Costard.
+
+ Welcome, pure wit. Thou part’st a fair fray.
+
+  O Lord, sir, they would know
+
+ Whether the three Worthies shall come in or no.
+
+  
+ No, sir; but it is vara fine,
+
+ For every one pursents three.
+
+  
+ And three times thrice
+
+ is nine.
+
+FTLN 2412
+515
+
+FTLN 2417
+520
+
+FTLN 2422
+525
+
+FTLN 2427
+530
+
+FTLN 2432
+535
+
+BEROWNE
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+BEROWNE
+
+COSTARD
+
+He exits.
+
+KING
+
+BEROWNE
+
+KING
+
+PRINCESS
+
+ You cannot beg us, sir, I can assure you, sir; we
+
+ know what we know.
+
+ I hope, sir, three times thrice, sir—
+
+  
+ Is not nine?
+
+  Under correction, sir, we know whereuntil it
+
+ doth amount.
+
+  O Lord, sir, it were pity you should get your
+
+ living by reckoning, sir.
+
+  How much is it?
+  O Lord, sir, the parties themselves, the actors,
+
+ sir, will show whereuntil it doth amount. For
+ mine own part, I am, as they  say, but to parfect one
+ man in one poor man—Pompion the Great, sir.
+
+  Art thou one of the Worthies?
+  It pleased them to think me worthy of Pompey
+
+ the Great. For mine own part, I know not the
+ degree of the Worthy, but I am to stand for him.
+
+  Go bid them prepare.
+ 
+
+ We will turn it finely off, sir. We will take some
+
+ care. 
+
+ approach.
+
+ company.
+
+  I say they shall not come.
+
+FTLN 2452
+555
+
+FTLN 2457
+560
+
+FTLN 2462
+565
+
+ARMADO
+
+Armado and King step aside, and
+
+Armado gives King a paper.
+
+PRINCESS
+BEROWNE
+
+PRINCESS
+
+ARMADO
+
+He exits.
+
+KING
+
+BEROWNE
+
+KING
+BEROWNE
+
+ Where zeal strives to content, and the contents
+ Dies in the zeal of that which it presents.
+ Their form confounded makes most form in mirth,
+ When great things laboring perish in their birth.
+
+Enter Braggart Armado.
+
+, to King
+  Anointed, I implore so much expense
+
+ of thy royal sweet breath as will utter a brace
+ of words. 
+
+  Doth this man serve God?
+  Why ask you?
+ 
+
+ He speaks not like a man of God his making.
+
+, to King
+  That is all one, my fair sweet honey
+
+ monarch, for, I protest, the schoolmaster is exceeding
+ fantastical, too, too vain, too, too vain. But
+ we will put it, as they say, to fortuna de la guerra.—I
+ wish you the peace of mind, most royal
+ couplement! 
+, reading the paper
+  Here is like to be a good
+
+ presence of Worthies. He presents Hector of Troy,
+ the swain Pompey the Great, the parish curate
+ Alexander, Armado’s page Hercules, the pedant
+ Judas Maccabaeus.
+
+ And if these four Worthies in their first show thrive,
+ These four will change habits and present the other
+
+ five.
+
+  There is five in the first show.
+
+  You are deceived. ’Tis not so.
+
+  The pedant, the braggart, the hedge
+
+ priest, the fool, and the boy.
+
+ Abate throw at novum, and the whole world again
+ Cannot pick out five such, take each one in his vein.
+
+FTLN 2472
+575
+
+FTLN 2474
+
+FTLN 2477
+580
+
+FTLN 2478
+
+FTLN 2482
+585
+
+FTLN 2483
+
+FTLN 2484
+
+FTLN 2485
+
+FTLN 2486
+
+FTLN 2487
+590
+
+FTLN 2488
+
+FTLN 2489
+
+FTLN 2490
+
+FTLN 2491
+
+FTLN 2492
+595
+
+FTLN 2493
+
+FTLN 2494
+
+FTLN 2495
+
+FTLN 2496
+
+COSTARD
+
+BEROWNE
+COSTARD
+
+BOYET
+
+BEROWNE
+
+COSTARD
+
+DUMAINE
+
+COSTARD
+
+( He places his weapons at the feet of the Princess. )
+
+PRINCESS
+
+COSTARD
+
+BEROWNE
+
+Costard stands aside.
+
+NATHANIEL
+
+Enter Costard as  Pompey.
+
+  
+ You lie; you are not he.
+
+  
+ With leopard’s head on knee.
+
+ thee.
+
+  “The Great.”
+ 
+
+ It is “Great,” sir.—Pompey, surnamed the
+
+ Great,
+
+ That oft in field, with targe and shield, did make my
+
+ foe to sweat.
+
+ And traveling along this coast, I here am come by
+
+ chance,
+
+ And lay my arms before the legs of this sweet lass of
+
+ France.
+
+ If your Ladyship would say “Thanks, Pompey,” I
+ had done.
+
+  Great thanks, great Pompey.
+
+  ’Tis not so much worth, but I hope I was
+
+ perfect. I made a little fault in “Great.”
+
+  My hat to a halfpenny, Pompey proves the
+
+ best Worthy. 
+
+Enter Curate Nathaniel  for Alexander.
+
+ commander.
+
+FTLN 2502
+605
+
+FTLN 2507
+610
+
+FTLN 2512
+615
+
+FTLN 2521
+
+FTLN 2522
+625
+
+BOYET
+
+BEROWNE
+
+PRINCESS
+
+NATHANIEL
+
+BOYET
+
+BEROWNE
+
+COSTARD
+BEROWNE
+
+COSTARD
+
+Nathaniel exits.
+
+ By east, west, north, and south, I spread my
+
+ conquering might.
+
+ My scutcheon plain declares that I am Alisander—
+
+ right.
+
+, to Boyet
+ 
+
+ Your nose smells “no” in this , most tender-smelling
+
+ knight.
+
+ Alexander.
+
+ commander—
+
+, to Costard
+  Pompey the Great—
+
+  Your servant, and Costard.
+  Take away the conqueror. Take away
+
+ Alisander.
+
+, to Nathaniel
+  O sir, you have overthrown
+
+ Alisander the Conqueror. You will be scraped out of
+ the painted cloth for this. Your lion, that holds his
+ polax sitting on a close-stool, will be given to Ajax.
+ He will be the ninth Worthy. A conqueror, and
+ afeard to speak? Run away for shame, Alisander.
+
+ There, an ’t shall please you, a foolish mild man, an
+ honest man, look you, and soon dashed. He is a
+ marvelous good neighbor, faith, and a very good
+ bowler. But, for Alisander—alas, you see how ’tis—
+ a little o’erparted. But there are Worthies a-coming
+ will speak their mind in some other sort.
+
+Enter Pedant Holofernes  for Judas, and the Boy
+
+for Hercules.
+
+FTLN 2532
+635
+
+FTLN 2537
+640
+
+FTLN 2541
+
+FTLN 2542
+645
+
+HOLOFERNES
+
+Boy steps aside.
+
+HOLOFERNES
+
+DUMAINE
+HOLOFERNES
+
+DUMAINE
+
+BEROWNE
+
+HOLOFERNES
+
+DUMAINE
+HOLOFERNES
+
+BOYET
+
+HOLOFERNES
+BEROWNE
+
+HOLOFERNES
+
+BEROWNE
+HOLOFERNES
+He points to his own face.
+
+BOYET
+
+DUMAINE
+
+BEROWNE
+LONGAVILLE
+
+BOYET
+
+, to Costard
+  Stand aside, good Pompey.
+
+  A Judas!
+
+  Not Iscariot, sir.
+
+ Judas I am, yclept Maccabaeus.
+
+  Judas Maccabaeus clipped is plain Judas.
+  A kissing traitor.—How art thou proved
+
+ Judas?
+
+  The more shame for you, Judas.
+
+  What mean you, sir?
+
+  To make Judas hang himself.
+
+  Begin, sir, you are my elder.
+
+  Well followed. Judas was hanged on an
+
+ elder.
+
+  I will not be put out of countenance.
+
+  Because thou hast no face.
+
+  What is this? 
+
+  A cittern-head.
+
+  The head of a bodkin.
+  A death’s face in a ring.
+
+  The face of an old Roman coin, scarce
+
+ seen.
+
+  The pommel of Caesar’s falchion.
+
+FTLN 2552
+655
+
+FTLN 2557
+660
+
+FTLN 2562
+665
+
+FTLN 2567
+670
+
+FTLN 2572
+675
+
+DUMAINE
+
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+HOLOFERNES
+BEROWNE
+
+HOLOFERNES
+
+BEROWNE
+
+BOYET
+
+DUMAINE
+BEROWNE
+
+HOLOFERNES
+
+BOYET
+
+Holofernes exits.
+
+PRINCESS
+
+BEROWNE
+
+DUMAINE
+
+KING
+
+BOYET
+KING
+
+LONGAVILLE
+
+DUMAINE
+
+  The carved-bone face on a flask.
+  Saint George’s half-cheek in a brooch.
+  Ay, and in a brooch of lead.
+  Ay, and worn in the cap of a tooth-drawer.
+
+ And now forward, for we have put thee in
+ countenance.
+
+  You have put me out of countenance.
+
+  False. We have given thee faces.
+
+  But you have outfaced them all.
+
+  For the latter end of his name.
+ 
+
+ For the “ass” to the “Jude”? Give it him.—Jud-as,
+
+ away!
+
+ stumble. 
+
+Enter Braggart Armado as Hector.
+
+  Hide thy head, Achilles. Here comes Hector
+
+ in arms.
+
+  Though my mocks come home by me, I will
+
+ now be merry.
+
+  Hector was but a Troyan in respect of this.
+
+  But is this Hector?
+
+  I think Hector was not so clean-timbered.
+
+  His leg is too big for Hector’s.
+
+  More calf, certain.
+
+FTLN 2597
+700
+
+FTLN 2602
+705
+
+FTLN 2607
+710
+
+FTLN 2609
+
+BEROWNE
+DUMAINE
+
+ARMADO
+
+DUMAINE
+
+BEROWNE
+
+LONGAVILLE
+
+DUMAINE
+ARMADO
+
+DUMAINE
+LONGAVILLE
+
+ARMADO
+
+LONGAVILLE
+
+DUMAINE
+
+ARMADO
+
+Berowne steps forth.
+
+PRINCESS
+
+ARMADO
+
+BOYET
+DUMAINE
+
+ARMADO
+
+  No, he is best endued in the small.
+
+  This cannot be Hector.
+  He’s a god or a painter, for he makes faces.
+ 
+
+ The armipotent Mars, of lances the almighty,
+  Gave Hector a gift—
+
+  A gilt  nutmeg.
+  A lemon.
+
+  Stuck with cloves.
+
+  No, cloven.
+  Peace!
+
+ The armipotent Mars, of lances the almighty,
+  Gave Hector a gift, the heir of Ilion,
+ A man so breathed, that certain he would fight, yea,
+  From morn till night, out of his pavilion.
+ I am that flower—
+
+  That mint.
+
+  That columbine.
+
+  Sweet Lord Longaville, rein thy tongue.
+
+  I must rather give it the rein, for it runs
+
+ against Hector.
+
+  Ay, and Hector’s a greyhound.
+  The sweet warman is dead and rotten. Sweet
+
+ chucks, beat not the bones of the buried. When he
+ breathed, he was a man. But I will forward with my
+ device.  To Princess.  Sweet royalty, bestow on me
+ the sense of hearing.
+
+  I do adore thy sweet Grace’s slipper.
+
+  Loves her by the foot.
+
+  He may not by the yard.
+ 
+
+ This Hector far surmounted Hannibal.
+ The party is gone—
+
+FTLN 2617
+720
+
+FTLN 2622
+725
+
+FTLN 2627
+730
+
+FTLN 2632
+735
+
+FTLN 2637
+740
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+ARMADO
+
+COSTARD
+
+DUMAINE
+BOYET
+
+BEROWNE
+
+DUMAINE
+BEROWNE
+
+DUMAINE
+
+BEROWNE
+
+ARMADO
+
+COSTARD
+
+DUMAINE
+COSTARD
+He removes his doublet.
+
+DUMAINE
+
+BOY
+
+ARMADO
+
+  Fellow Hector, she is gone; she is two
+
+ months on her way.
+
+  What meanest thou?
+  Faith, unless you play the honest Troyan, the
+
+ poor wench is cast away. She’s quick; the child
+ brags in her belly already. ’Tis yours.
+
+  Dost thou infamonize me among potentates?
+
+ Thou shalt die!
+
+  Then shall Hector be whipped for Jaquenetta,
+
+ that is quick by him, and hanged for Pompey,
+ that is dead by him.
+
+  Most rare Pompey!
+
+  Renowned Pompey!
+
+  Greater than “Great”! Great, great, great
+
+ Pompey. Pompey the Huge!
+
+  Hector trembles.
+  Pompey is moved. More Ates, more Ates!
+
+ Stir them on,  stir them on.
+
+  Hector will challenge him.
+  Ay, if he have no more man’s blood in his
+
+ belly than will sup a flea.
+
+, to Costard
+  By the North Pole, I do challenge
+
+ thee!
+
+  I will not fight with a pole like a northern
+
+ man! I’ll slash. I’ll do it by the sword.—I bepray
+ you, let me borrow my arms again.
+
+  Room for the incensed Worthies!
+  I’ll do it in my shirt. 
+  Most resolute Pompey!
+
+, to Armado
+  Master, let me take you a buttonhole
+
+ lower. Do you not see Pompey is uncasing for the
+ combat? What mean you? You will lose your
+ reputation.
+
+  Gentlemen and soldiers, pardon me. I will
+
+ not combat in my shirt.
+
+FTLN 2662
+765
+
+FTLN 2667
+770
+
+DUMAINE
+
+ARMADO
+BEROWNE
+
+ARMADO
+
+BOYET
+
+MARCADE
+
+PRINCESS
+
+MARCADE
+
+PRINCESS
+
+MARCADE
+BEROWNE
+
+ARMADO
+
+Worthies exit.
+
+KING
+
+PRINCESS
+
+KING
+
+PRINCESS
+
+  You may not deny it. Pompey hath made the
+
+ challenge.
+
+  Sweet bloods, I both may and will.
+  What reason have you for ’t?
+  The naked truth of it is, I have no shirt. I go
+
+ woolward for penance.
+
+  True, and it was enjoined him in Rome for want
+
+ of linen; since when, I’ll be sworn, he wore none
+ but a dishclout of Jaquenetta’s, and that he wears
+ next his heart for a favor.
+
+Enter a Messenger, Monsieur Marcade.
+
+, to Princess
+  God save you, madam.
+
+  Welcome, Marcade,
+
+ But that thou interruptest our merriment.
+
+  
+ Even so. My tale is told.
+
+  For mine own part, I breathe free breath. I
+
+ have seen the day of wrong through the little hole
+ of discretion, and I will right myself like a soldier.
+
+, to Princess
+  How fares your Majesty?
+
+, to Boyet
+ 
+
+ Prepare, I say.—I thank you, gracious lords,
+ For all your fair endeavors, and entreat,
+ Out of a new-sad soul, that you vouchsafe
+
+FTLN 2692
+795
+
+FTLN 2697
+800
+
+FTLN 2702
+805
+
+PRINCESS
+
+BEROWNE
+
+ In your rich wisdom to excuse or hide
+ The liberal opposition of our spirits,
+ If overboldly we have borne ourselves
+ In the converse of breath; your gentleness
+ Was guilty of it. Farewell, worthy lord.
+ A heavy heart bears not a humble tongue.
+ Excuse me so, coming too short of thanks
+ For my great suit so easily obtained.
+
+FTLN 2717
+820
+
+FTLN 2722
+825
+
+FTLN 2727
+830
+
+FTLN 2732
+835
+
+PRINCESS
+
+DUMAINE
+
+LONGAVILLE
+
+ROSALINE
+KING
+
+PRINCESS
+
+ To every varied object in his glance;
+ Which parti-coated presence of loose love
+ Put on by us, if, in your heavenly eyes,
+ Have misbecomed our oaths and gravities,
+ Those heavenly eyes, that look into these faults,
+ Suggested us to make. Therefore, ladies,
+ Our love being yours, the error that love makes
+ Is likewise yours. We to ourselves prove false
+ By being once false forever to be true
+ To those that make us both—fair ladies, you.
+ And even that falsehood, in itself a sin,
+ Thus purifies itself and turns to grace.
+
+  
+ We did not quote them so.
+
+  
+ A time, methinks, too short
+
+ To make a world-without-end bargain in.
+ No, no, my lord, your Grace is perjured much,
+ Full of dear guiltiness, and therefore this:
+ If for my love—as there is no such cause—
+ You will do aught, this shall you do for me:
+ Your oath I will not trust, but go with speed
+
+FTLN 2752
+855
+
+FTLN 2757
+860
+
+FTLN 2762
+865
+
+FTLN 2767
+870
+
+She takes his hand.
+
+KING
+
+They step aside.
+
+DUMAINE
+
+KATHERINE
+
+DUMAINE
+
+KATHERINE
+
+ To some forlorn and naked hermitage,
+ Remote from all the pleasures of the world.
+ There stay until the twelve celestial signs
+ Have brought about the annual reckoning.
+ If this austere insociable life
+ Change not your offer made in heat of blood;
+ If frosts and fasts, hard lodging, and thin weeds
+ Nip not the gaudy blossoms of your love,
+ But that it bear this trial, and last love;
+ Then, at the expiration of the year,
+ Come challenge me, challenge me by these deserts,
+
+ And by this virgin palm now kissing thine,
+ I will be thine. And till that instant  shut
+ My woeful self up in a mourning house,
+ Raining the tears of lamentation
+ For the remembrance of my father’s death.
+ If this thou do deny, let our hands part,
+ Neither entitled in the other’s heart.
+
+, to Katherine
+ 
+
+ But what to me, my love? But what to me?
+ A wife?
+
+   A beard, fair health, and honesty.
+
+ With threefold love I wish you all these three.
+
+FTLN 2782
+885
+
+FTLN 2787
+890
+
+FTLN 2792
+895
+
+FTLN 2797
+900
+
+DUMAINE
+
+KATHERINE
+
+They step aside.
+
+LONGAVILLE
+
+MARIA
+
+LONGAVILLE
+
+MARIA
+
+They step aside.
+
+BEROWNE
+
+ROSALINE
+
+ Come when the King doth to my lady come;
+ Then, if I have much love, I’ll give you some.
+
+  
+ At the twelvemonth’s end
+
+ I’ll change my black gown for a faithful friend.
+
+, to Rosaline
+ 
+
+ Studies my lady? Mistress, look on me.
+ Behold the window of my heart, mine eye,
+ What humble suit attends thy answer there.
+ Impose some service on me for thy love.
+
+FTLN 2802
+905
+
+FTLN 2807
+910
+
+FTLN 2812
+915
+
+FTLN 2817
+920
+
+FTLN 2822
+925
+
+FTLN 2824
+
+ROSALINE
+
+BEROWNE
+
+PRINCESS
+
+KING
+
+BEROWNE
+
+KING
+
+BEROWNE
+
+ARMADO
+
+, to King
+ 
+
+ Ay, sweet my lord, and so I take my leave.
+
+  
+ That’s too long for a play.
+
+Enter Braggart Armado.
+
+  Sweet Majesty, vouchsafe me—
+
+FTLN 2837
+940
+
+FTLN 2842
+945
+
+FTLN 2847
+950
+
+DUMAINE
+
+ARMADO
+
+KING
+
+ARMADO
+
+SPRING
+
+  
+ The worthy knight of Troy.
+
+  I will kiss thy royal finger, and take leave. I
+
+ am a votary; I have vowed to Jaquenetta to hold the
+ plow for her sweet love three year. But, most
+ esteemed Greatness, will you hear the dialogue that
+ the two learned men have compiled in praise of the
+ owl and the cuckoo? It should have followed in the
+ end of our show.
+
+  Call them forth quickly. We will do so.
+
+  Holla! Approach.
+
+Enter all.
+
+ This side is Hiems, Winter; this Ver, the Spring; the
+ one maintained by the owl, th’ other by the cuckoo.
+ Ver, begin.
+
+The Song.
+ 
+
+ Cuckoo, cuckoo!” O word of fear,
+ Unpleasing to a married ear.
+
+ When shepherds pipe on oaten straws,
+  And merry larks are plowmen’s clocks;
+ When turtles tread, and rooks and daws,
+  And maidens bleach their summer smocks;
+ The cuckoo then on every tree
+ Mocks married men, for thus sings he:
+ 
+ “Cuckoo!
+
+FTLN 2867
+970
+
+FTLN 2872
+975
+
+FTLN 2877
+980
+
+FTLN 2880
+
+WINTER
+
+ARMADO
+
+They all exit.
+
+ Cuckoo, cuckoo!” O word of fear,
+ Unpleasing to a married ear.
+
+ When all aloud the wind doth blow,
+  And coughing drowns the parson’s saw,
+ And birds sit brooding in the snow,
+  And Marian’s nose looks red and raw;
+ When roasted crabs hiss in the bowl,
+ Then nightly sings the staring owl
+ “Tu-whit to-who.” A merry note,
+ While greasy Joan doth keel the pot.
+
+  The words of Mercury are harsh after the
+
+ songs of Apollo. You that way; we this way.
+
+FTLN 2892
+995
+
+FTLN 2897
+1000
+
