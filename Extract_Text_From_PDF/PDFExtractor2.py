@@ -1,6 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
+
 import fitz
 from pathlib import Path
 from itertools import islice
