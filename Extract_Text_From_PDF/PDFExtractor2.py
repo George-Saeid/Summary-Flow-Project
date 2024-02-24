@@ -96,7 +96,6 @@ class PDFExtractor:
         
             #print(f"=== End Page {page_cnt}: {len(blocks)} blocks ===\n")
 
-       
         
         categorizer = PDFTextBlockCategorizer(categorize_vectors)
         categorizer.run()
@@ -117,12 +116,11 @@ class PDFExtractor:
                 continue
             except ValueError:
                 if categorizer.labels[i] == 0 and blockTypes[i] == 0: 
-                   
                     selected_blocks.append(categorize_vectors[i])
                     #print(categorize_vectors[i][4])
                 else:
                     continue
-             
+
         def preprocess_text(text):
             cleaned_text = re.sub(r'�', ' ', text)
             return cleaned_text

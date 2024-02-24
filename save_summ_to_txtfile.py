@@ -1,23 +1,12 @@
 import os
 import pandas as pd
-
+import shutil
 
 summaries_folder = r"D:\Gethub\SummaryFlow\All_summaries"
-input_folder = r"D:\Gethub\SummaryFlow\All_novels_textfiles"
-# Create the output folder if it doesn't exist
-if not os.path.exists(summaries_folder):
-    os.makedirs(summaries_folder)
-
+input_folder = r"D:\Gethub\SummaryFlow\All_novels"
+wrong_names_folder = r"D:\Gethub\SummaryFlow\Wrong_names"
 
 df = pd.read_excel('D:\Gethub\SummaryFlow\BookSummariesDataset.xlsx')
-
-
-# Delete columns from excel sheet
-#columns_to_delete = ['Wikipedia ID', 'Freebase ID', 'Publication date', 'Genres']
-# Drop the specified columns
-#df.drop(columns=columns_to_delete, inplace=True)
-# Save the modified DataFrame back to Excel
-#df.to_excel('D:\Gethub\GP\BookSummariesDataset.xlsx', index=False)
 
 
 ## Rename text files with correct form
@@ -36,22 +25,28 @@ df = pd.read_excel('D:\Gethub\SummaryFlow\BookSummariesDataset.xlsx')
     ## Rename the file
     #os.rename(original_path, new_path)
 
-
-# Loop through the first 700 rows
-for index, row in df.head(1000).iterrows():
-    #print(row['Book title'])
-    # Iterate through the PDFs in the input folder
-    for txt_filename in os.listdir(input_folder):
-        # Get the filename without extension
-        txt_filename_no_ext = os.path.splitext(txt_filename)[0]
-        print('txt_filename : ', txt_filename_no_ext)
+# Iterate through the books in the input folder
+for txt_filename in os.listdir(input_folder):
+    # Get the filename without extension
+    txt_filename_no_ext = os.path.splitext(txt_filename)[0]
+    flag = False
+    # Iterate through the first 800 rows
+    for index, row in df.head(800).iterrows():
         if txt_filename_no_ext == row['Book title']:
             summary_filename = txt_filename
             summary_path = os.path.join(summaries_folder, summary_filename)
-            # Check if the text file already exists in the output folder to avoid duplicates
+            # Check if the summary file already exists in the output folder to avoid duplicates
             if not os.path.exists(summary_path):
                 with open(summary_path, 'a', encoding='utf-8') as file:
-                    #for i in pdf_extractor.OutputTextFinal:
                     file.write(row['Plot summary'])
-                    print(f"{summary_filename} || Successfully saved !")
-print("Processing completed.")
+                    print(f"{txt_filename_no_ext} || Successfully saved !")
+            flag = True
+            break
+    # Check if the book named wrong
+    if flag == False:
+        # Move the book to wrong names folder
+        worng_named_book = os.path.join(input_folder, txt_filename)
+        shutil.move(worng_named_book, wrong_names_folder)
+print("------------------------------------------------------------------")
+print("Processing Completed Successfully!!")
+print("------------------------------------------------------------------")

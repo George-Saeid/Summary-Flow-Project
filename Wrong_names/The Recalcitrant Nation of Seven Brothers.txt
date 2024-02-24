@@ -1,0 +1,1136 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/238432761
+
+The Recalcitrant Nation of Seven Brothers
+
+Article  in  Qualitative Inquiry · June 2004
+
+DOI: 10.1177/1077800403259444
+
+CITATIONS
+0
+
+READS
+264
+
+1 author:
+
+Matti Hyvärinen
+
+Tampere University
+
+40 PUBLICATIONS   537 CITATIONS   
+
+SEE PROFILE
+
+All content following this page was uploaded by Matti Hyvärinen on 28 January 2019.
+
+The user has requested enhancement of the downloaded file.
+
+Matti Hyvärinen,
+
+University of Tampere,
+
+Finland
+
+ytmahy@uta.fi
+
+The Recalcitrant Nation of Seven Brothers
+
+Matti Hyvärinen
+
+The Recalcitrant Nation of Seven Brothers
+
+Abstract
+
+It is a commonplace to study the novels of the 19th century in the context of nation-building
+
+projects and imagined nations. This is particularly true with novels that have later achieved such
+
+a national, mythical position as Aleksis Kivi's Seven Brothers in Finland. In this paper, I suggest
+
+several ways to re-read Kivi politically. In terms of conceptual history, I demonstrate how Kivi's
+
+concepts of "nation" and "citizen" belong to a time prior to imagined nations. Moreover, I study
+
+Kivi's "fatherland" as a republican, anti-aristocratic concept. In terms of the political geography
+
+of the novel (Moretti), I show the uniqueness of the "national novel without the capital". Finally,
+
+I contrast the Lockean free individuals of the beginning of the story to the disciplined subjects
+
+under a new pastoral power at the end of the day. My argument is that Kivi was able to postpone
+
+his images of nation, to study skeptically the ongoing historical change, and outline political
+
+futures that were neglected by the Finnish nationalist movement. 
+
+1. Nation and the novel
+
+The relationship between the novel and the emerging nation and nationalism has inspired a huge
+
+amount of scholars since Benedict Anderson published his Imagined communities (Anderson,
+
+1991). As Timothy Brennan (1990, 49) has it: "It was the novel that historically accompanied the
+
+rise of nations by objectifying the 'one, yet many' of national life, and by mimicking the structure
+
+of the nation, a clearly bordered jumble of languages and styles. Socially, the novel joined the
+
+newspaper as the major vehicle of the national print media, helping to standardize language,
+
+encouraging literary, and remove mutual incomprehensibility". The novel, then, seems to present
+
+the national plurality as a whole, map the borders, and link the opposites. It also has to do with
+
+the standardization of language. "But it did much more than that", continues Brennan, "Its
+
+manner of presentation allowed people to imagine the special community that was the nation".
+
+Franco Moretti sees this process of imagination in more clearly geographical and perceptual
+
+terms: "But nation-state? 'Where' is it? What does it look like? How can one see it? And again:
+
+village, court, city, valley, universe can be visually presented - in paintings, for instance: but the
+
+nation-state? Well, the nation-state found the novel. And vice versa: the novel found the nation-
+
+state. And being the only symbolic form that could represent it, it became an essential component
+
+of our modern culture" (Moretti, 1998, 17).
+
+Novel and nation. No doubt, there is an intricate relationship worthy of study and
+
+speculation. In this paper, I have one particular concern with this argument. The importance of
+
+literature and the novel was well recognized by the Finnish nationalists, 'Fennomen' (from
+
+'Fenno-maniacs'), right from the beginning of the movement (at least, from the 1840s onwards).
+
+The whole tradition of "national sciences" (ethnography, Fenno-linguistics, Finnish history,
+
+Finnish literature, Finnish x.) which endured until the 1960s, celebrated the key national role
+
+played by a number of 19th century novels, above all the first Finnish novel Seven Brothers by
+
+Aleksis Kivi (1870). My concern is whether this new understanding of the role of the novel
+
+overlaps a bit too conveniently with the old, nationalist saga, and re-writes the history of the
+
+winners. "It is becoming a commonplace that the institution of literature works to nationalist
+
+ends" (During, 1990, 138). Quite probably, like the institution of historiography, the unifying -
+
+ism raises critical questions. Is the nation advanced by Aleksis Kivi (1834-1872) at all a version
+
+of the winning nationalism that now keeps telling the story of the national author Kivi? Is it true
+
+at all that Seven Brothers imagines a national community, and if it does, what are the possible
+
+qualities of this particular community? 
+
+In answering these questions, I read the novel from various perspectives. I start as a
+
+conceptual historian and read the ways Kivi uses the key concepts of nation, Suomi (Finland),
+
+citizen and fatherland. The purpose of this exercise is to explicate the ways Kivi's characters
+
+themselves understood their political world, and what they conceptually imagined. The purpose
+
+of the conceptual history is to restrain the history of the winners, that is, to read old texts only in
+
+the horizon of the realized history1. My critical question is, whether Kivi's concepts are in accord
+
+with the horizon of nation and nationalism, as presumed. Next I proceed to the geographical
+
+reading inspired by Franco Moretti. How does the geography of the Seven Brothers reflect the
+
+Finnish national entity?
+
+But first a few words about the national context. Before 1809, the current Finland was a
+
+province of the Swedish Empire. 'Finland' was not a colony, because people living in 'Finnish'
+
+territory had equal rights of representation as other subjects of the Swedish kingdom. However,
+
+during the 17th and 18th centuries the dominance of the Swedish language grew in importance.
+
+Swedish was the language of all education, even the Finnish names typically had to be changed
+
+when Finnish-speaking children went to school. When Russia occupied the current Finnish
+
+territory in 1809, and created the Grand Duchy of Finland, the languages of the elite were
+
+Swedish, German and French, above all Swedish.
+
+When the Finnish national movement gathered momentum since 1840s, the issue and even
+
+reference to the "nation" was far from resolved. For some representatives of the Swedish-
+
+speaking elite, the real cultural home was still the Swedish nation, hence the Swedish culture and
+
+language was seen as the only meaningful counterforce to the Russian impact. Not quite
+
+differently, some of the Finnish nationalists thematized the emerging nation specifically in terms
+
+of the Finnish language. Both of these extremes, thus, understood the nation in terms that
+
+significantly differed from the current understanding of the 'bilingual nation of Finland', a fact
+
+that once again confirms the contingent nature of nation. This is the first moment of re-thinking
+
+novel and nation. How exactly does the novel work in a radically bilingual context? How does it
+
+cope with the problem of 'one, yet many', if the question of 'many' is about language itself? Here,
+
+                                                
+1  Current overviews on the conceptual history (or, history of concepts, as many prefer),
+see Richter (1995), Hampsher-Monk, Tilams & van Vree (eds.)(1988). 
+
+my strategy is to compare Seven Brothers to other nationally relevant novels of late 19th and
+
+early 20th century.
+
+Homi K. Bhaba offers a useful distinction for my use: "In the production of nation as
+
+narration there is a split between the continuist, accumulative temporality of the pedagogical, and
+
+the repetitious, recursive strategy of the performative. It is through this process of splitting that
+
+the conceptual ambivalence of modern society becomes the site of writing the nation" (Bhaba,
+
+1990, 297). Bhaba's distinction resembles a much older theme in republican theory, the issue
+
+whether the (French) National Assembly performed the nation, or just re-presented an already
+
+existing, eternal nation (Kurunmäki 2000). This is just one way to pose the question: novel and -
+
+which kind of a nation? 
+
+In various ways, Seven Brothers is a case worthy of further study -- not least because the
+
+book has been the most celebrated Finnish novel over the last hundred years, and an integral part
+
+of all nationally-spirited education. The book was published decades before the standardization of
+
+the Finnish language was even preliminarily finished. The novel and its author - a poor student of
+
+the University of Helsinki - were extremely controversial at the time of the first publication.
+
+According to the standard explanation, Kivi's realism in describing the Finnish people was a
+
+shock to some of the nationalist elite, and its more romantic taste. The fierce attacks by professor
+
+cum poet August Ahlqvist, were partly inspired by the conflict between Kivi's use of dialect
+
+versus Ahlqvist's urge to standardize the language (Kohtamäki, 1956). But these canonical
+
+explanations, save the romantic story about the great misunderstood artist under attack, hardly
+
+explain the fierce accusations about brutality. As Ahlqvist wrote to the Society of Finnish
+
+Literature, the would-be publisher: "This incredible brutality cannot be translated into any
+
+civilized language". To him, the novel was, in "describing brutishly brutality, in fact ugly".
+
+Ahlqvist was not the only Finnish nationalist that rejected the description of the common people.
+
+"The people have never been like this", assures the irritated Fennoman leader Agathon Meurman.
+
+Ahlqvist understood the book as a "malicious defilation of our Finnish common people", and
+
+continued that "the common people has nowhere been such as the heroes of this book" (Ahlqvist/
+
+Kohtamäki, 1956, 269-270; Kinnunen 1973). The leaders of the informal Finnish party disagreed
+
+on the book. J.W.Snellman (1808-1881), the oldest and most celebrated figure, recommended the
+
+publication of the novel. Agathon Meurman (1826-1909), the most conservative of the leaders,
+
+wrote an absolutely devastating critique of Seven Brothers and offered it to Kirjallinen
+
+Kuukausilehti. Meurman's friend and leading figure of the party, Yrjö Koskinen (1830-1903),
+
+simply rejected the text, thus probably rescuing Meurman's future political career and saving him
+
+from the later role of national villain bestowed to Ahlqvist.
+
+The institutions of literature and national politics were not two separate worlds in Kivi's
+
+time. As a matter of fact, Kirjallinen kuukausilehti (Literary Monthly Review) was one of the key
+
+publications of the Fennomen movement in the 1860s. Most of the key figures of nationalist
+
+politics publicly took part in literary discussions and published reviews. Literary disputes were
+
+issues of nationalist politics, therefore the later, almost purely aesthetic though psychological
+
+interpretations of the debate cannot give full credit to Kivi's performance in Seven Brothers. 
+
+In the beginning of the novel, seven orphan brothers live a lazy and wild life with their farm
+
+in decay, until they receive official orders form the new parish minister to come to learn to read.
+
+After the rough conduct of the churchwarden, their teacher, the brothers decide to escape into the
+
+woods to continue their wild life for the next ten years by hunting, fishing, and establishing a new
+
+farm. Even in the woods, brothers are not able to avoid conflicts with their neighbors. In the end,
+
+mercy, reconciliation and religious pietism win, and Eero, the youngest of the brothers, even
+
+becomes conscious of the emerging nation, and "the whole picture of the land of his birth, its
+
+friendly mother-face, had sunk for ever into the depths of his heart" (337). It is this mystery of the
+
+last "tame" chapter, and the short section about Eero, which has later on created the fame of the
+
+book as a narrative of the emerging nation. While the contemporary critics decried the "brutality"
+
+of the brothers, it was still his coeval supporter J.W.Snellman who set the tone of the later
+
+canonical interpretation: the book was a Bildungsroman. Kivi "did not let any of the brothers to
+
+end up on the gallows" (Snellman/Koskimies, 1974, 228). "Seven Brothers is now the best-
+
+known and most loved book in Finland" (Laitinen, 1981, 220)
+
+On a more general level, the book recites the historical movement from oral to literary
+
+culture. In the beginning, brothers live in a wild world of biblical stories, gossip, myths, and fairy
+
+tales - everything that they have happened to hear. But this orality is far from the celebrated
+
+Hellenic orality of tight communities: the stories the brothers recount in various situations form
+
+no hierarchically or rationally organized wholes. The brothers use allegories, but understand them
+
+either as realistically as any other story, as miracles or allegories proper. Therefore, the narrated
+
+move into the literary culture also includes an overall growth of rationality. Still, the new adopted
+
+culture is less a national, secular world than pietism in a local context. 
+
+At the end of novel, Eero finds the nation, and imagines its community. But through a
+
+much longer story, the emerging nation adapts the novel, and turns the quest of the brothers into
+
+an essentially Finnish cause (Finns preferring, for instance, the solitude of the woods over the
+
+noise of the world), celebrating the novel as its own Bildungsroman. Novel and nation:
+
+harmonious life over a hundred years. But how is the nation in the novel? Is the nation already an
+
+obstacle in listening to Kivi?
+
+2. Nation, citizen and Finland
+
+The novel begins with a detailed description of local geography: the farm is located in "southern
+
+part of Häme", "not far from a village called Jukola". Häme, indeed, is now a Finnish province,
+
+but the word could earlier belong to different vocabularies (say, one of the eastern areas of
+
+Sweden before 1809, or a province of the Russian realm). As a rule, the geography is described
+
+merely as far as one can see from the highest hills. This is precisely the locality Moretti described
+
+above, the locality that is possible to understand without reading novels and newspapers. The
+
+brothers are situated into the local landscape. The immediate limits of this tangible community
+
+are transgressed only in ways known in oral culture: the stories heard and travelling people met
+
+are the only signs of the unseen world. That is the space before nation, newspaper, and novel.
+
+Anderson calls the political entities that precede nation-states as 'dynastic realms'
+
+(Anderson, 1991, 19-22). We meet these realms right at the beginning of the novel. The brothers
+
+have heard eloquent stories from their uncle, a former sailor, "who in his youth had sailed the
+
+distant seas, a stalwart sailor, and had seen many peoples and cities". Therefore, he was able to
+
+"tell his nephews stories and describe to them strange events that had happened in their own
+
+country or foreign kingdoms [realms]" (Kivi, 1952, 14, italics mine). To be precise, Kivi's
+
+original term here is indeed 'valtakunta', realm. The uncle had traveled out of the Realms of
+
+Sweden and Russia, and met similar world of realms abroad. He had indeed met "foreign
+
+peoples", but these peoples are not yet the teleological and political entities of the nationalistic
+
+discourse: realms and cities can easily host a number of peoples. Kivi is thus very careful in
+
+locating the beginning of the story at the time of the dynastic realms, at the time preceding nation
+
+states.
+
+If we look at the central vocabulary of 'nation', we can recognize that Finnish words for
+
+'citizen' and 'nation' occur a few times in the novel. But do the concepts occur as well?
+
+Conceptual historians have often referred to cases when a writer has a concept without a
+
+particular term or word to express it (Ball, 1988, 15-16; Farr, 1989, 27). The history of new
+
+written languages offers a plenitude of opposite cases: the word for a current concept is often
+
+much older than its recent conceptual use. This is the case with the Finnish concepts of nation
+
+and citizen, and Kivi's location in this history is exciting. My 'method' of verifying these changes
+
+of meaning is to use the 20th century English translation by Alex Matson (1952): if the meanings
+
+have remained unchanged, the translator can translate the words like current concepts. 
+
+In contemporary Finnish, the words 'people, folk' (kansa), citizen (kansalainen) and nation
+
+(kansakunta) form a linguistically tight family. Kansalainen (citizen) is free from any European
+
+reference to cities or republican participation, and a good mock translation of it would be 'folkler',
+
+a member of the 'folk' or 'the people'. Kansakunta (nation) might have the meaning 'everyone that
+
+belongs to a folk/people'. In short, both 'citizen' and 'nation' seem to be derivations of the same
+
+word, which means both 'folk' and 'the people'. 
+
+However, the history of kansalainen is a bit more complicated. Before codification of the
+
+Finnish language, the forms kansa and kanssa were interchangeable. In current language, kanssa
+
+simply means 'with' or 'fellow'. Kanssa-lainen can thus have the meaning 'one of those who are
+
+with you, your fellow'. In this way, one could argue that the pre-nationalistic "people" consisted
+
+of people who lived "with" or around, without any explicit connotation to common origin,
+
+language or race. The Swedish word for citizen is medborgare. Again, the beginning med has the
+
+same meaning of 'with' and 'fellow', the word meaning literally 'fellow burgher'. Thus, it is quite
+
+possible that the old kanssalainen has referred more to the Swedish 'fellowness' than to any direct
+
+membership of the folk. Through the codification of the literary Finnish language, which was a
+
+fairly short and politically led project (ca. 1840-1880), kanssalainen lost the extra 's', and the
+
+intuitive meaning of the world grew closer to 'folk'. In contrast to this development, the Finnish
+
+language still has words like kanssakristitty, 'fellow Christian', or kanssaihminen, 'fellow human
+
+being' - both words that do not carry along any intuitive connotation of 'folk' or 'the people'. To
+
+my reading, this morphological and semantic choice, 'survival of the fittest', is a wonderful
+
+example of the intermingling of ideology of the national project and the selection of forms of
+
+language.
+
+Kivi's position in this process is revealing. At the end of the first chapter, Aapo, the brother
+
+who represents rational, moderate reasoning in the story, uses the term "Christian citizen". A few
+
+pages later, Kivi again uses the Finnish word for 'citizen'. But here, the translator Alex Matson
+
+takes another expression. I quote: 
+
+Aapo: Remembering the idle and often wild life of our youth, people hardly expect
+
+anything good to come of us. And I know that even ten years of good and in every
+
+way respectable behaviour would scarcely be enough to raise us again in the sight of
+
+our fellow-man. (42, italics mine)
+
+Alex Matson puts it nicely: Kivi's citizen is a fellow man. Kivi uses the current word (with only
+
+on 's') in the old meaning. This concept is pre-political in a double way. To begin with, there is no
+
+connotation of belonging to an eternal, noble or chosen 'people'. The word has no romantic
+
+connotation at all. On the other hand, this concept is neither a distant relative of 'citizen' or
+
+Stadsbürger in the meaning of republican participation or active political citizenship. All these
+
+formulations emphasize citizenship specifically as a Christian citizenship. It is essential to be
+
+decent and appropriate as regards the law and the authorities. The focus is not at all the activity in
+
+creating laws or supervising the authorities. This is the world governed by Obrigkeit, or the world
+
+of religious community (cf. Anderson, 1991, 12-19). 
+
+This archaic vocabulary is not reserved only for the brothers. When the brothers have
+
+returned from their ten years withdrawal to the woods back to their village, the churchwarden
+
+himself gives a powerful speech. He says, according to Mattson:
+
+For see the wonderful trick played by fortune: these brothers left the abodes of men,
+
+their neighbours and fellow men, and trotted off into the night of the forest (...) (Kivi,
+
+303, italics mine).
+
+Kivi does not exactly talk about 'fellow men', his word is simply kansakunta (nation). Both of
+
+these key words of national imagery, thus, were clearly on a pre-political, pre-national, and pre-
+
+conceptual level. The brothers and the churchwarden did not yet imagine a political-cum-
+
+historical subject kansakunta (nation), as Kivi's coeval and nationalist ideologists Koskinen so
+
+programmatically did (Koskinen, 1879). 
+
+With regard to the concept of citizenship, Seven Brothers does not have a national horizon.
+
+Citizenship simply means membership in a parish, and the right behavior in it. In this sense, the
+
+book is not at all written in the horizon of Finland or nation. The brothers grew into respectable
+
+members of their parish, learned to follow the rules, and to be decent and properly regulated.
+
+There is no need to push this difference between religious and political community too far,
+
+because the parish was the precursor of the municipality. Municipal self-government dates back
+
+to the statue of 1865, which separated the secular issues from the local church administration,
+
+making the conceptual distinction between 'municipality' (kunta) and 'parish' (seurakunta)
+
+meaningful. Still, the point of the book is to situate the brothers into a strictly local and 'parishian'
+
+context, without too many traces of national imagination. 
+
+However, the novel seems also to include a clear alternative to this moderate, 'parishian'
+
+citizenship. The first alternative is offered by Kivi's concept of 'fatherland' (isänmaa). The
+
+concept springs up after one of the most popular episodes of the book. On an innocent hunting
+
+trip, the brothers discover that a bear has killed a neighbor's bull. In good faith and with the best
+
+intentions, the men decide to go and kill the bear in order to protect the other bulls - only to find
+
+themselves chased by the whole herd of forty wild bulls. The brothers spend the next three days
+
+on The Devil's Rock, telling stories and quarrelling, without food and nothing else to drink except
+
+for one jug of spirits. Finally, the men realize that the only way to save their lives is by shooting
+
+the bulls. A massacre and bloodshed follows, and the brothers get a huge excess of meat.
+
+However, the master of Viertola Manor, the owner of the bulls and a noble man, does not want to
+
+touch the meat but instead to charge and punish the brothers. During this heated conflict, on the
+
+verge of mutual violence between wild peasants and a nobleman, important concepts appear.
+
+Against the threat of violence and legal action, Juhani declares:
+
+"There is common law for all of us, before we stand as equals. From the womb of a
+
+woman you came, and as naked, just as naked, a lad not an inch better than I. And
+
+your noble birth? Our old filmy-eyed cock can do a little trick on that" (200, italics
+
+mine). 
+
+Juhani invites now common law and equality before the law as arguments against the local
+
+authority and arrogance of nobility. This liberal argument is supported by traditional Christian
+
+equality: "From the womb of a woman you came". All of this is needed to ground Juhani's rude
+
+ridicule of the nobility. A bit later, Juhani continues: 
+
+"We killed the preying bear, and thus did our country[fatherland] a great, a public
+
+service. Isn't this a public service: to weed wild beasts, bogies and devils out of the
+
+world?" (201, italics mine). 
+
+Again, it is the concept of "fatherland" that Kivi uses instead of ' country'. Matson's translation
+
+indicates that Kivi's "fatherland" has a different meaning, which cannot be easily used in 20th
+
+century translations. 
+
+A few days later, the brothers have to explain their behavior to the local authorities. Now
+
+the issue is about brothers' decision to eat the beef. Juhani maintains:
+
+"The meat would otherwise have spoiled and spread the itch and scab, plagues and
+
+sores over the whole Finland. We saved the country from this ruin. " 
+
+And a few sentences later: 
+
+"We did not want to commit so great a sin as to rob our Fatherland and those set in
+
+authority over us of such strong, juicy fare as beef, especially if we remember that
+
+this year too so many lads have been forced to chew pinebark like goats" (212, italics
+
+mine).
+
+"Fatherland" is now a concept that can protect peasants against the caprice of nobility. "Finland"
+
+as a distinct political entity and Fatherland are invited into the discourse only during this
+
+contestation. If the citizenship attached to the parish meant obedience, then the fatherland
+
+authorized the protection of popular interests. Alarmingly enough, this "fatherland" resembled the
+
+radical anti-nobility fatherland engendered by the French Revolution - not the fatherland of
+
+romantic nationalism. Kivi did, of course, know well the romantic patriotism of the celebrated,
+
+Swedish-writing 'national poet' J.L.Runeberg (1804-1877), and there is no doubt of his personal
+
+commitment to the Finnish cause. (Tarkiainen, 1916, 122-144). However, he was totally devoid
+
+of the national idealism that his literary coevals shared. 
+
+To conclude, Seven Brothers does not offer an unequivocal conceptual horizon of imagined
+
+nation. In many ways, the story is located in the time of dynastic realms. A national horizon is not
+
+a self-evident background of the events, rather it seems to be a resource than can be invoked
+
+coincidentally. The novel is able to recount the story of the birth of national imagination instead
+
+of just locating the story within the national context. This indicates that the relation between
+
+nation and novel may be much more contingent than is generally presumed. 
+
+3. The Geography of Seven Brothers
+
+Franco Moretti, who has convincingly argued for the special role of the novel in advancing
+
+national imagery, has outlined various geographical patterns used in the 19th century novel. In
+
+his maps, he often presents the geographical locations of the beginnings, ends and narrative
+
+complications. Jane Austen's Britain, for instance, is limited to the southern parts of England.
+
+Novels begin and end mostly in the countryside, whereas London and southern coast are
+
+privileged locations for the narrative complication. Even if Scotland, Ireland and Wales are
+
+excluded, Moretti concludes that Austen's England is not one. "The novel functions as the
+
+symbolic form of the nation-state (...) and it's a form that (...) not only conceal the nation's
+
+internal divisions, but manages to turn them into a story (Moretti, 1998, 20). In Austin's case,
+
+"the family abode is usually on the verge of being lost - and [her plots] rewrite it as a seductive
+
+journey: prompted by desire, and crowded by happiness. They take a local gentry, like the
+
+Bennets of Pride and Prejudice, and join it to the national elite of Darcy and his ilk. They take
+
+the strange, harsh novelty of the modern state - and turn it into a large, exquisite home" (Moretti,
+
+1998, 18).
+
+Walter Scott represents a clear contrast to these "internal marriage markets" recounted by
+
+Austin. Scott is fascinated with borders, in particular with the internal border between England
+
+and Scotland. According to Moretti, this internal border "is not so much a politico-military
+
+demarcation, as an anthropological one" (Moretti, 37). The relation of time and space becomes
+
+utterly fascinating when Scott's hero Waverley "travels backwards through the various stages of
+
+social development described by the Scottish Enlightenment: the age of Trade, of Agriculture, of
+
+Herding (...) and finally of Hunting..."(Moretti, 1998, 38). 
+
+Moretti's idea of geography as "the foundation of narrative form" is tempting. If we look at
+
+two other remarkable Finnish novels of ideas, Arvin Järnefelt's Fatherland (1893) and Juhani
+
+Aho's Spring and winter again (1906), we meet a basically similar geography and map of
+
+languages. The painful travel between the idealistic (or economically greedy) capital Helsinki,
+
+and the pragmatic and religious countryside forms the basic tension of these novels. The
+
+countryside of these novels is the true Finland, even though it is not genuinely interested in the
+
+Finnish nationalism. In the case of Järnefelt, these two worlds almost fall apart, unmediated. Aho,
+
+in turn, has his enlightened vicarage in Eastern Finland as an intermediary between advanced
+
+ideas and peasant experience. In Aho's map, St. Petersburg, Helsinki, village, the woods and the
+
+lakes form a long chain of political influence vs. pure Finnishnes. The national theme, thus, is
+
+clearly embedded in the sensitive relationship between the new Finnish elite and reluctant
+
+countryside, or the unity between Finnish national intellectuals and the Pietist awakening. The
+
+geography of these novels reflects the imagined community, or, rather, the ways of imagining the
+
+community. In both novels, Helsinki is also the location of Swedish language, and the conflict
+
+between the languages.
+
+Seven Brothers deviates from this later model sharply. To begin with, Helsinki and the
+
+whole national elite do not surface in the whole novel. Do we witness a nation without its head?
+
+Even the newspaper that Eero had subscribed to was published in Turku. Perhaps, this is an
+
+indirect allusion to the imagined time of the novel, suggesting the 1830s. The ambivalence
+
+between Swedish and Russian Realms and Finnish nation is nicely reflected in the last chapter of
+
+the book. Juhani, then a married man, praises his wife Venla:
+
+Scold me but not my wife! She is a wife the like of which there is only one in the
+
+whole kingdom of Sweden! (Kivi, 310).
+
+What we see here, to my understanding, is again a piece of Kivi's sense of humor. Juhani repeats
+
+an old, popular saying, which meaning has, of course, changed since Russia occupied Finland. Be
+
+it as it may, 'Finland' is not the only possible point of reference.
+
+During the narrated time, the brothers cross  the borders of the village only once. In order to
+
+pay their debts to Viertola Manor, the brothers had to start growing rye. However, they got more
+
+grain than they needed, and started distilling spirits. This lead to new ideas:  
+
+Michaelmas drew nearer, and the brothers felt like enjoying this holiday in high
+
+fashion. A rich load was hauled together to be taken to town, and with the proceeds
+
+titbits were to be bought for the coming feast: rum, bottled beer, eels, salt herrings
+
+and wheaten bread. (Kivi, 224)
+
+It is the excess of grain and need for some luxury that sends two of the brothers out of the village
+
+for a nearby town, Hämeenlina. The outcome is miserable: Eero and Simeoni drink their whole
+
+harvest, and return to the farm late and in a sordid state, Simeoni hallucinating. The message is
+
+quite clear: distant towns are dangerous sites of unknown temptations for men with such weak
+
+self-control. A good and controlled life is best achieved within the confines of one's own
+
+sheltered farm and village.
+
+While the brothers did not travel, they still imagined distant countries. Simeoni, after his
+
+perilous drinking trip to Hämeenlinna, had a hallucinatory dream. Satan himself had taken him to
+
+the moon. From there, Simeoni had marvelous views:
+
+I saw the whole circle of the earth, the Kingdom [realm] of England, Turkey, the
+
+town of Paris and the land [realm] of America. Then I saw the Grand Turk rise and
+
+work terrible havoc; and in his tracks walked the great horned Mammon, driving the
+
+race of man from end to end of the earth like a wolf does a flock of sheep (Kivi, 233). 
+
+In Anderson's terms, this is a thoroughly dynastic dream. Simeoni sees cities and realms, not
+
+nations, states, or peoples. - After this shocking experience, the brothers decide to leave for
+
+church, but after such a long binge they had confused Sunday with Monday, and are ridiculed and
+
+soon end up in a new village struggle. Afterwards, filled with the contrition, brothers are
+
+convinced of a harsh future in jail. To avoid it, they speculate on routes of escape. And what do
+
+they contrive: to go as shepherds to Ingria, as doormen to St.Peterburg, or as sailors "towards
+
+England" and "away from Finnish coast" (Kivi, 245). This is something we might call 'imagined
+
+geography', or possibly, orally transmitted geography. The brothers think of and imagine the
+
+places they have heard stories of. The Finnish nation or Finnish citizenship by no means have any
+
+recognized limits when the brothers reason their possible escape. 
+
+What is, then, the real geography of the novel? Except for Eero and Simeoni, the brothers
+
+do not leave their village over the narrated time. Their travel to the woods, to Virgin Hill, takes
+
+place within their own village and even on their own premises. Still, this journey to north is much
+
+more than a days trip within their own farm. Economically, they travel backwards in history, the
+
+same way as Moretti described Waverley's trip to Scottish Highlands. From regular agriculture,
+
+the brothers move back to the pleasures of hunting and to the cultivation by clearing and burning.
+
+This journey creates an odd ambivalence about the genre: are we reading a fairy-tale where
+
+orphans are sent to the woods to survive on their own, or an adventure novel about comical,
+
+fighting boys, or do we have here a pioneer novel?
+
+4. Dream, beginning and action
+
+In discussing Vladimir Propp's Morphology of the Folktale, Paul Ricouer suggests a new
+
+interpretation for the initial phases of the studied fairy tales, an interpretation that is surprisingly
+
+appropriate to the Seven Brothers: "Before projecting the hero forward for the sake of the quest,
+
+many tales send the hero or heroine into some dark forest where he or she goes astray or meets
+
+some devouring beast. These initial episodes do more than merely introduce the mischief that is
+
+to be suppressed; they bring the hero or heroine back to into a primordial space and time that is
+
+more akin to the realm of dreams than to the sphere of action. Thanks to this preliminary
+
+disorientation, the linear chain of time is broken and the tale assumes an oneiric dimension that is
+
+more or less preserved alongside the heroic dimension of the quest. Two qualities of time are thus
+
+intertwined: the circularity of the imaginary travel and the linearity of the quest as such. (Ricoeur,
+
+1981, 181) 
+
+The realm of dreams. At this point Kivi's critics seem to be quite right: this novel is not at
+
+all a thoroughly realist description of the life of ordinary Finnish farmers. Kivi creates this
+
+dream-like original state, just in order to give the brothers the possibility to be pioneers, to start
+
+an entirely new life and economy. Within a bit more than ten years, the brothers perform an
+
+economic transformation from hunting to organized farming, a change, which historically took
+
+hundreds of years. The move to the woods makes a fresh start possible, but it is not the only
+
+indication of new start in the novel. To begin with, the seven men are brothers and orphans; they
+
+are freed from the whole pedagogical network of family lineage. Thanks to the wisdom of their
+
+ancestors, they are economically free enough, and can retreat to the woods they own themselves. 
+
+The non-existence of the capital, the marginality of towns and elite in general, is part of the
+
+same geography than the retreat to the woods. It was the pressure by the minister, the local
+
+representative of hierarchy, literacy and administrative elite, who originally pushed the brothers
+
+to their desperate retreat. Kivi worked hard to release his brothers from all ties of hierarchy. The
+
+ten years spent in the woods resemble the concept of moratorium, which was often used in
+
+context of student movements. On the verge of adulthood and its obligations, Kivi's brothers take
+
+a leave to do something else, as so many activists have done differently. 
+
+For Hannah Arendt, beginning and natality were vital aspects of politics. Beginning creates
+
+the space of action, contingency and unexpected. The existence of the free group of seven makes
+
+the Arendtian action possible: in addition to the necessary work, the brothers need all the time
+
+reasoning, negotiations and struggles in order to get to any joint conclusion. (Arendt, 1958;
+
+Guaraldo, 2001, 34-36). A normal space of even a big family does not allow this kind of
+
+reasoning, precisely because the traditional relations of authority are already there. Rather than
+
+describing the ordinary life of Finnish farmers, Kivi managed to create a distinctly exceptional
+
+space of action. Kivi also admired Shakespeare, Cervantes as well as Shiller, all of them authors
+
+who were not inclined to stay within the confines of everyday work and its descriptions. 
+
+Kivi's picture of the brothers is neither romantic nor idealized; instead he notices the
+
+vacillation of emotions and thinking, the poor knowledge of the surrounding world, the lack of
+
+moderate reasoning in encounters with villagers and authorities...the list is painfully long.
+
+Instead, what is particular and provocative in Kivi's approach is the way he looks at his brothers.
+
+It is not incidental that his critics complained of the long (and for them, boring) dialogues. The
+
+narrator does not tell what and how the brothers think and feel, and what poor creatures they are,
+
+he confines himself in describing their deeds and action. Besides this, it is the speech of the seven
+
+men that we can follow. The "crudeness" and "ugliness" of the novel has its roots in these
+
+narratological choices: the brothers are not moralized, rectified, ridiculed, or punished, instead
+
+they are reserved with voice, freedom of choice, liberty - in a word, a space of action. 
+
+Aarne Kinnunen (1973, 15-19) has presented a fascinating comparison between Seven
+
+Brothers and a pedagogical work from 1865, Matthias Putkonen's Christian Ethics for the
+
+People. Putkonen's description of the ordinary Finnish people was merciless: sheer cruelty,
+
+mischief, outrage, fornication, criminality - his list of sins was endless. Of course, the book and
+
+its description evoked no public polemic, even though the tone was much more naturalistic and
+
+critical than in Seven Brothers. For Kinnunen, this indicates that Kivi was both moderate and
+
+accurate in his description, and that the audience evaluated different genres differently. This is
+
+correct but yet enough as an explanation. 
+
+Putkonen, of course, gave neither the voice nor the role as free agents to his sinners: they
+
+were others, sheer subjects of discipline and ethical pedagogy. Kivi gave his men a fresh start - at
+
+Virgin Hill  - and capacities to act which in real life were reserved only for the 'educated estates'.
+
+Meurman was among the first to limit the franchise of the peasants for the biggest owners. The
+
+whole project of Finnish nation-building was thought to be a Hegelian project, lead by highly
+
+learned and much earned intellectuals. Kivi's novel has nothing much to do with this pedagogical
+
+vision. It celebrates freedom before education, self-government before guidance of virtuous
+
+leaders, action before assiduous work. 
+
+As regards the whole novel, the Finnish nation does not exist as a geographical or conceptual
+
+horizon. The one and half pages in the epilogue tell exactly that only one of the brothers became
+
+conscious of the existence of the nation. The novel outlines the extremely narrow geography of
+
+countryside life, a narrowness that is mostly overcome by the stories of occasional travelers. The
+
+same can be said about the time of the novel. Anderson points out, how "important to the
+
+imagined community is an idea of steady, solid simultaneity through time" (Anderson, 1991, 63).
+
+With the brothers, we forget everything else happening in other locations. That makes it
+
+extremely difficult, to locate Seven Brothers realistically in exact, chronological time (my current
+
+estimation is between the 1830s and the 1850s). Again, this means that the novel does not start
+
+with the presumption of a nation-as-chronological-time, and then fixing the brothers and the
+
+events into this matrix. Nation has a much more contingent and marginal role in the novel. Kivi's
+
+novel gives no credit to the idea of nations as eternally existing quasi-subjects of history. 
+
+Barry Hindess (1996) has discussed a similar problem of individuality and pedagogy in the
+
+work of John Locke and Michel Foucault. "What is of interest for the present discussion [on
+
+conceptions of power] is the relation between, on the one hand, the idea of the citizen as an
+
+independent agent, and, on the other, the argument that government should promote the
+
+development of suitable capacities and attributes on the part of its citizens for the good of each of
+
+them and for the collective good of the entire citizenry. Citizens are regarded both as free and
+
+independent agents and as potentially subject to government regulation of their characters"
+
+(Hindess, 72). 
+
+The paradox that Hindess so elegantly profiles brings us very close to the political
+
+provocation of Seven Brothers. The way the men speak, act, reason, eat, and drink reminds of the
+
+state of human body before the Foucauldian disciplinary techniques (Foucault, 1979). The lack of
+
+self-control and tendency to excess is a permanent theme in the novel. The discipline, however,
+
+was for Foucault a counterpart of parliamentary reforms. For the 19th century liberal theorists of
+
+general franchise, the people like the seven brothers were the first excluded (Kurunmäki 2000).
+
+The Finnish nationalist leaders were far from liberalism, sharing more eagerly quasi-Hegelian
+
+and romantic political ideas. Even the highly regarded leaders of peasant estate, like Agathon
+
+Meurman, could not imagine of extending the right to vote to such backward creatures. 
+
+Kivi's novel, in contrast, considers the brothers as free agents, as a matter of fact, agents
+
+that struggle profoundly for their freedom of action. It is the disciplinary institution of church
+
+school that provokes the whole retreat. However, the narrator listens to these backward, ignorant,
+
+and undisciplined men. He even gives them once and again the opportunity to ridicule all local
+
+authorities. Three times, the men discuss the issue of establishing a unitary power and rational
+
+economic order by conferring the highest power to the eldest, Juhani. (Hyvärinen, 1988). In terms
+
+of Bhaba, this reasoning and struggle can be seen as a miniature image of a nation-as-
+
+performance. Elite is not needed or invited into this process of self-administration. It is typical
+
+that the brothers learn to read by sending Eero to learn first, and to teach the others afterwards.
+
+Eero is not free from ridicule or attempts to discipline, however the older brothers have the
+
+freedom to react to his arrogance and wittiness by corporal punishment: the standard relations of
+
+power can thus by turned upside down. 
+
+However, the last chapter of the novel leads the brothers back to disciplined life within the
+
+parish. The farm is divided, and the egalitarian group of brothers dissolves. At the same time, the
+
+sphere of extraordinary action disappears, replaced by ordinary village life of slightly comical
+
+brothers. For several reasons, I do not interpret this ending from the perspective of a national
+
+success story. As adults, the brothers assume too many self-important features. Eero experiences
+
+his national awakening, however, he is depicted as a humorless man who wants to show his
+
+authority over his wife. The great humorist Juhani becomes a pietist, and stops laughing himself.
+
+In a revealing way, he is described sitting in the church: "Awe-inspiring in his solemnity, he sat
+
+in the place kept for him beside the solemn master of Härkämäki, now and again clearing his
+
+throat in imitation of his companion" (314). However, it was precisely Juhani who had earlier on
+
+ridiculed the hypocrisy of religious men who loved drinking, and used the habits of the master of
+
+Härkämäki as his prime example - and not forgetting his self-important way of clearing of his
+
+throat.
+
+Instead of a national success story, I suggest the relevance of balance between dream and
+
+realism. The last chapter of the novel documents the closure of the exceptional, the end of the
+
+dream, the victory of the real. There is lot of pacification at the end: even after the free action and
+
+wildness, the brothers are able to adapt to the normal, agrarian life in a pietist parish. However,
+
+this reads also the other way round: liberty and free action does not necessarily lead to any
+
+catastrophe. The brothers are pacified but the dream can live with the narrative. This is one of the
+
+reasons why the peaceful ending was not enough for Kivi's conservative critics.
+
+To conclude, there are reasons to read Seven Brothers as a critical narrative with regard to
+
+the Finnish, realized nation-building project. The novel, and its suspended imagination of nation,
+
+indicate that the relation between novel and nation can be and has been much more contingent
+
+than generally argued. The variations of national imagining and the resistance to the romantic
+
+nationalism need to be read more clearly, in order to avoid the acceptance of the too easy
+
+nationalistic saga of heroic, misunderstood national authors. 
+
+Literature:
+
+Anderson, Benedict (1983/1991): Imagined Communities. Reflections on the Origin and
+
+Spread of Nationalism. London: Verso.
+
+Arendt, Hannah (1958): The Human Condition. Chicago and London: The University of
+
+Chicago Press.
+
+Ball, Terrence (1988): Transforming Political Discourse. Political Theory & Critical
+
+Conceptual History. Oxford: Blackwell. 
+
+Bhaba, Homi K. (1990): "DissemiNation". Bhaba, Homi K.: Nation and Narration, pp. 291-
+
+322. London and New York: Routledge. 
+
+Brennan, Timothy (1990): "The national longing for form". Bhaba, Homi K.: Nation and
+
+Narration, pp. 44-70. London and New York: Routledge.
+
+Farr, James (1989): "Understanding Conceptual Change". Terence Ball, James Farr, Russel L.
+
+Hanson (eds.): Political Innovation and Conceptual Change. Cambridge: CUP. 
+
+Foucault, Michel (1979): Discipline and Punish. London: Allen Lane. 
+
+Guaraldo, Olivia (2001): Storylines. Politics, History and Narrative from an Arendtian
+
+Perspective. Jyväskylä: SoPhi. University of Jyväskylä. 
+
+Hampsher-Monk, Ian, Tilmans, Karin & van Free, Frank (eds.) (1998): History of Concepts:
+
+Comparative Perspectives. Amsterdam: Amsterdam UP
+
+Hyvärinen, Matti (1998): "The Fictional Versions of 'Valta' (Power). Reading Aleksis Kivi,
+
+Arvid Järnefelt and Juhani Aho Conceptually". Finnish Yearbook of Political
+
+Thought, Vol. 2, , pp.203-240.
+
+Kinnunen, Aarne (1973): Tuli, aurinko ja seitsemän veljestä. [Fire, sun, and seven brothers].
+
+Porvoo: WSOY. 
+
+Kohtamäki, Ilmari (1956): Ankara puutarhuri (Severe gardener). Helsinki: Suomalaisen
+
+Kirjallisuuden Seura.
+
+Koskimies, Rafael (1974): Aleksis Kivi. Henkilˆ ja runous. [Aleksis Kivi. The person and the
+
+poetry] Helsinki: Otava. 
+
+Kurunmäki, Jussi (2000): Representation, Nation and Time. A rhetorical and historical
+
+analysis of the use of key concepts in the struggle on the 1866 parliamentary reform
+
+in Sweden. Jyväskylä: Jyväskylän yliopisto. Jyväskylä studies in education,
+
+psychology and social research 170.
+
+Laitinen, Kai (1981): Suomen kirjallisuuden historia. [The history of Finnish literature].
+
+Helsinki: Otava.
+
+Moretti, Franco (1998): Atlas of the European Novel 1800 -1900. London and New York:
+
+Verso.  
+
+Richter, Melvin (1995): The History of Political and Social Concepts. A Critical Introduction.
+
+New York: Oxford UP. Ricoeur, Paul (1981): Narrative Time. In: W.J.T. (ed.): On
+
+Narrative. Chicago & London: University of Chicago Press. 
+
+Ricoeur, Paul (1981): Narrative Time. In: W.J.T. (ed.): On Narrative. Chicago & London:
+
+University of Chicago Press. 
+
+Tarkiainen, V. (1916): Aleksis Kivi: elämä ja teokset. [Aleksis Kivi_ Life and the works].
+
+Porvoo: WSOY. 
+
+Material:
+
+Kivi, Aleksis (1870/1952): Seven Brothers. Transl. Alex Matson. Helsinki: Tammi.
+
+Koskinen, Yrjö (1879/1960): Johtavat aatteet ihmiskunnan historiassa (The Leading Ideas in
+
+the History of Mankind). Helsinki: Otava. 
+
+View publication stats
+

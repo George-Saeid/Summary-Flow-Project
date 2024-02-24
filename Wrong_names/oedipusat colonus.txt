@@ -1,0 +1,5126 @@
+OEDIPUS AT COLONUS
+
+Sophocles
+
+Oedipus at Colonus
+
+Translated by
+Ian Johnston
+
+Vancouver Island University
+
+Nanaimo, BC
+
+Canada
+
+johnstoi.ian@gmail.com
+
+April 2015
+
+This translation may be distributed in printed or electronic form (in whole or in part) to
+students without permission and without charge. Performing artists are permitted to use
+the text for their productions and to edit it to suit their purposes (again, without
+permission and without charge). However, commercial publication in any form is
+prohibited except with the written permission of the translator.
+
+TRANSLATOR’S NOTE
+
+In the following text the line numbers without brackets refer to the English translation;
+the line numbers in square brackets refer to the original Greek text (following the edition
+available at Perseus). Partial lines in the English text are normally combined in the
+reckoning. The superscript numbers refer to footnotes provided by the translator.
+
+In this translation, possessives of words ending in -s are usually indicated in the common
+way (that is, by adding -’s (e.g. Zeus and Zeus’s). This convention adds a syllable to the
+spoken word (the sound -iz). Sometimes, for metrical reasons, this English text indicates
+such possession in an alternate manner, with a simple apostrophe. This form of the
+possessive does not add an extra syllable to the spoken name (e.g., Oedipus and Oedipus’
+are both three-syllable words; whereas, Oedipus’s has four syllables).
+
+The translator would like to acknowledge the extremely valuable help of the commentary
+by Sir Richard Jebb (available online at Perseus).
+
+HISTORICAL BACKGROUND
+
+When Oedipus, king of Thebes, overwhelmed with horror at the discovery that he had
+killed his father and married his mother, stabbed out his eyes, he eventually left Thebes
+as a blind wanderer, accompanied by his daughter Antigone (there are differing accounts
+of when and why he left the city). Since Oedipus’s two sons, Eteocles and Polyneices,
+were too young to take over, Creon, the brother of Oedipus’s wife and mother (Jocasta,
+who had committed suicide) ruled Thebes as regent. Sophocles’s play opens many years
+later. Oedipus’s wanderings have brought him and Antigone to Colonus, a short distance
+from Athens, where there is a grove sacred to the Furies, the goddesses of blood revenge,
+also known as the Kindly Ones (the Eumenides).
+
+OEDIPUS AT COLONUS
+
+DRAMATIS PERSONAE
+
+OEDIPUS: exiled king of Thebes, an old blind wanderer
+ANTIGONE: daughter of Oedipus
+ISMENE: daughter of Oedipus
+THESEUS: king of Athens
+CREON: regent at Thebes, brother of Oedipus’s dead wife, Jocasta
+POLYNEICES: elder son of Oedipus
+STRANGER: a citizen of Colonus
+MESSENGER: a servant of Theseus
+CHORUS: elderly citizens of Colonus.1
+
+ATTENDANTS: escorts for Theseus and Creon.
+
+[The dramatic action takes place in front of a grove sacred to the Furies (the Eumenides) in
+Colonus, a short distance from Athens. Enter OEDIPUS, led on by ANTIGONE.]
+
+OEDIPUS
+
+Antigone, you child of a blind old man,
+what country have we reached? Whose city state?
+What man will welcome wandering Oedipus
+with meagre gifts today? I don’t need much,
+and I get even less than that small pittance.
+But that’s sufficient for me. My suffering,
+all the long years I have been living through,
+and my own noble origins have taught me
+to be content with that. So, my daughter,
+if you can see a place to rest somewhere
+10
+
+on public land or by a sacred grove,
+[10]
+
+you must conduct me there and let me sit,
+so we can find out where we are. We’ve come
+as foreigners to learn from people here
+and carry out whatever they may say.
+
+ANTIGONE
+
+O father, poor tormented Oedipus,
+my eyes can glimpse, off in the distance,
+walls around the city. This place, it seems,
+is sacred ground clustered thick with grapevines,
+with laurel and olive trees. Inside the grove
+20
+
+1Note that the lines assigned to the CHORUS are those spoken by any member of the Chorus (i.e., the
+Chorus Leader, individual members of the Chorus, or the Chorus as a single or partial group).
+
+many feathered nightingales are chanting
+their sweet songs. Sit down and rest your limbs
+on this rough stone. For a man advanced in years
+[20]
+
+you have come a long, long way.
+
+OEDIPUS
+
+All right, set me there.
+
+A man who cannot see requires help.
+
+ANTIGONE [helping Oedipus move]
+
+That is a task I do not need to learn—
+not after all this time.
+
+OEDIPUS [sitting down]
+
+Where are we?
+
+Can you tell me?
+
+ANTIGONE
+
+I recognize Athens,
+
+but not this place.
+
+OEDIPUS
+
+Well, every traveller
+
+we met with on the road has told us that.
+30
+
+ANTIGONE
+
+Shall I go and find out what this place is called?
+
+OEDIPUS
+
+Yes, my child—if there is anyone here.
+
+ANTIGONE
+
+Well, there are houses. But I don’t need to leave.
+I see someone nearby.
+
+OEDIPUS
+
+Is he coming here?
+[30]
+
+Approaching us?
+
+ANTIGONE
+
+He’s already come. Ask him
+
+whatever seems appropriate. He’s here.
+
+[Enter the STRANGER, a citizen of Colonus.]
+
+OEDIPUS
+
+O stranger, from this girl whose eyes must serve
+herself and me I learn that you have come
+as an auspicious messenger to us
+to tell us what we do not understand.
+40
+
+STRANGER
+
+Before you question me at any length,
+move from where you sit—it’s a sacrilege
+to walk upon that ground.
+
+OEDIPUS
+
+What is this place?
+
+To which of the gods is it held sacred?
+
+STRANGER
+
+It’s a holy place, where no man may stay—
+a sanctuary of goddesses, daughters
+[40]
+
+of Darkness and of Earth.
+
+OEDIPUS
+
+Tell me their revered names,
+
+so once I hear that I may pray to them.
+
+STRANGER
+
+The people here would call these goddesses
+the Eumenides, the all-seeing Kindly Ones.
+50
+
+But elsewhere other names serve just as well.1
+
+OEDIPUS
+
+Then I pray they may receive their suppliant
+with kindness, for from this sacred refuge,
+here in this land, I never will depart.
+
+STRANGER
+
+What do you mean?
+
+1The Eumenides (Kindly Ones) is another name for the Furies, the goddesses of blood revenge, especially
+within the family.
+
+It has been prearranged—
+
+this is my destiny.1
+
+STRANGER
+
+I do not dare
+
+drive you away from here, until I tell
+the city what I’m doing and receive
+their sanction.
+
+OEDIPUS
+
+By the gods, stranger,
+
+do not dishonour me, a poor wanderer.
+60
+
+I beg you—tell me what I wish to know.
+[50]
+
+STRANGER
+
+Then speak up. I will not dishonour you.
+
+OEDIPUS
+
+This country we’ve just reached, what is it called?
+
+STRANGER
+
+Listen. I will tell you everything I know.
+This entire place is consecrated ground,
+owned by divine Poseidon. In it, too,
+dwells the Titan god, the fire bearer,
+Prometheus.2 That spot where you now sit
+is called this land’s bronze threshold, a place
+that safeguards Athens.3The neighbouring lands
+70
+
+claim horseman Colonus was their ruler
+in ancient times, and they all bear his name
+[60]
+
+in common. That’s what these holy places are,
+stranger. We do not honour them in story
+but rather by living here among them.
+
+1As we learn shortly, Apollo has told Oedipus that when he reaches a holy shrine his wanderings will end.
+See line 106 ff. below.
+
+2The Titans, descendants of Earth and Sky, were divine figures of the generation before the Olympians.
+Prometheus, son of the Titan Iapetus, stole fire from heaven and gave it to human beings.
+
+3Jebb explains that near this sacred grove was a steep channel in the rock, where someone had constructed
+some bronze steps. It was called the “threshold of Hades.” Hence the whole area was called “the bronze
+threshold” and was considered an important element in the safety of Athens.
+
+So this land truly has inhabitants.
+
+STRANGER [pointing to a statue nearby]
+
+Indeed it does—those who derive their name
+from that hero over there, from Colonus.
+
+Who governs them? Do they have a king,
+or is there a popular assembly?
+80
+
+STRANGER
+
+The king of Athens rules the people here.
+
+OEDIPUS
+
+What man now speaks and acts with royal power?
+
+STRANGER
+
+His name is Theseus, son of Aegeus,
+who was king before him.
+
+OEDIPUS
+
+Is it possible
+[70]
+
+for one of you to reach him with a message?
+
+STRANGER
+
+With what in mind? To tell him something
+or encourage him to come in person?
+
+OEDIPUS
+
+To inform him that a trifling service
+will garner him great reward.
+
+STRANGER
+
+What assistance
+
+can a man who does not see provide?
+90
+
+OEDIPUS
+
+The words I say have visionary power.
+
+STRANGER
+
+Be careful, stranger, not to come to grief.
+For, quite apart from your unlucky fate,
+
+I see you have a true nobility.
+Wait where you are. I am going to go
+and tell the people what is happening—
+those in this district, not the city folk.
+They will determine whether you should stay
+[80]
+
+or travel back again.
+
+[The STRANGER leaves.]
+
+OEDIPUS
+
+Tell me, my child,
+
+has that stranger left us?
+
+ANTIGONE
+
+He has, father.
+100
+
+You are free to say whatever you wish.
+I am the only person close to you.
+
+OEDIPUS
+
+O you fierce-eyed, reverend divinities,
+since here at Athens it was at your shrine
+I first sought refuge, may you not be ungracious
+to Phoebus and to me.1 When he prophesied
+the many evils I would undergo,
+he said eventually I would find rest,
+once I reached my final goal in a place
+where I would find a sacred sanctuary
+110
+
+of dreadful goddesses, shelter for strangers,
+[90]
+
+and there my life of suffering would end.
+By remaining in that land I would bring
+advantages to those who welcomed me
+and ruin to the ones who drove me out,
+who exiled me from Thebes. Apollo said
+that signs of this would come to me—earthquakes
+and thunder or a lightning flash from Zeus.
+I now recognize it surely must have been
+some trusty omen sent from you that led me
+120
+
+on my journey to this consecrated ground.
+How otherwise, in my wandering around,
+
+1Phoebus is a common name for the god Apollo, son of Zeus. Apollo is the prophetic god of the Delphic
+Oracle.
+
+would I, a temperate man, first have met
+you austere goddesses, who touch no wine,
+[100]
+
+or sat down on this sacred rough-hewn rock.1
+
+O you deities, I pray you let me
+follow what Apollo’s oracle decreed
+and end my life at last, unless perhaps
+I seem unworthy, enslaved to misery
+far worse than any other mortal man.2
+130
+
+Hear me, sweet daughters of eternal Darkness!
+Hear me, city named for mighty Pallas,
+O Athens, most honoured of all cities,
+pity the poor ghost of that man Oedipus,
+for now his old living body is no more.
+[110]
+
+ANTIGONE
+
+You should stop talking. Some old men are coming
+to check out the place where you are sitting.
+
+OEDIPUS
+
+I will be quiet. Hide me in the grove
+some distance from the road, until I learn
+what these men are saying. That is something
+140
+
+we must find out in order to act safely.
+
+[ANTIGONE leads OEDIPUS to a hiding place. Enter the CHORUS, elderly citizens of
+Colonus]
+
+CHORUS
+
+Look around. Who was that man,
+that most presumptuous of mortals?
+Where did he go when he left here?
+[120]
+
+Keep a sharp look out. Search the place.
+Hunt everywhere. That old man
+must be a wandering vagabond,
+and not a local citizen,
+for otherwise he’d never dare
+to set foot in the sacred grove
+150
+
+dedicated to those goddesses
+
+1Libations to the Furies were made, not with wine, but with water.
+
+2As Jebb points out, this remark is bitterly ironic. Oedipus is, in effect, saying: “I have suffered more than
+any other living person, but perhaps I have not yet suffered enough to win a concession from the gods.”
+
+no one can resist—whose very names
+we cannot utter without trembling,
+and from whose gaze when we walk past
+[130]
+
+we avert our eyes and look away
+without a word, our voices mute,
+mouthing pious thoughts in silence.
+Now, so they say, someone has come,
+who has no reverence for these deities.
+We’ve searched this sacred shrine
+160
+
+and caught no glimpse of him.
+I do not know where he is hiding.
+
+[OEDIPUS and ANTIGONE leave their hiding place and move forward]
+
+OEDIPUS
+
+I am the one you seek. The sounds you make
+serve me instead of sight, as people say
+of men who cannot see.
+
+CHORUS [horrified]
+
+Aaaiii, Aaaiii!
+[140]
+
+What a horrific sight! And that fearful voice!
+
+OEDIPUS
+
+Do not consider me outside the law—
+I’m begging you!
+
+CHORUS
+
+By our defender Zeus,
+
+who could this old man be?
+
+OEDIPUS
+
+You citizens,
+
+guardians of this land, I am a man whose fate
+170
+
+no one could call happy. That much is clear,
+for otherwise I would not creep around
+requiring help from someone else’s eyes,
+my great age propped up by this weak young girl.
+
+CHORUS
+
+Ah, have you been blind since you were born?
+It looks as if a long and wretched life
+
+has been your lot. But if I can stop you,
+[150]
+
+here you will bring no more curses
+down on yourself. You go too far—too far!
+O you most wretched of all strangers,
+180
+
+do not stumble into this grassy shrine
+where no one is allowed to speak,
+where honey offerings and sweet water
+pour from the mixing bowl.1
+[160]
+
+I am giving you fair warning.
+Move back from there. Withdraw,
+and keep your distance. You hear me,
+you long-suffering wanderer?
+If you have anything to say to us,
+leave that forbidden ground.
+190
+
+Talk where people are allowed to speak.
+Until that time, be silent.
+
+OEDIPUS
+
+Daughter, what course of action should we choose?
+[170]
+
+ANTIGONE
+
+We must obey the customs here, father,
+act as the locals do. We must listen
+and where we have no choice do what they say.
+
+OEDIPUS
+
+Then take my hand.
+
+ANTIGONE
+
+I have it.
+
+OEDIPUS
+
+Strangers,
+
+if I trust you and leave this sanctuary,
+do not harm me.
+
+CHORUS
+
+Old man, no one will ever
+
+take you from your refuge here against your will.
+200
+
+[OEDIPUS starts to move out of his hiding place]
+
+1In the religious rituals libations of water and of water mixed with honey were poured separately.
+
+Is this far enough?
+
+Move on a little more.
+
+OEDIPUS
+
+Further still?
+
+CHORUS
+
+You know what me mean, young girl—
+
+lead him out this way.
+
+[ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]1
+
+ANTIGONE
+
+Come, father, let your dark steps follow me.
+I’ll lead you out.
+
+CHORUS
+
+Stranger in a foreign land,
+
+you ill-fated man, you must have courage
+to hate what the city here has grown to hate
+and to love what it holds dear.
+
+OEDIPUS
+
+Lead me out,
+
+my child, to where we may speak and listen,
+treading a path of pious righteousness,
+210
+
+not waging war against necessity.
+
+CHORUS
+
+There! Do not step beyond that rocky ledge!
+
+OEDIPUS
+
+Right here?
+
+CHORUS
+
+That’s far enough. Are you listening?
+
+1At this point there is apparently a gap in the manuscript of three or four lines.
+
+Should I sit down?
+
+Move sideways and crouch there—
+
+down on the edge of that low rock.
+
+ANTIGONE
+
+Father,
+
+let me do it. Gently now . . .
+
+Alas for me!
+
+ANTIGONE [helping OEDIPUS sit down]
+
+. . . match me step for step. Lean your ancient frame
+[200]
+
+here on my loving arm.
+
+OEDIPUS
+
+Ah, my dreadful fate!
+
+CHORUS
+
+Now you are seated, you unfortunate man,
+speak to us. From what line of mortal men
+220
+
+do you descend? Who are you to be led like this
+in such distress? What land do you call home?
+
+OEDIPUS
+
+Strangers, I am a man who has been banished.
+I have no home. But do not . . .
+
+CHORUS
+
+What is it, old man,
+
+you would not have us do?
+
+OEDIPUS
+
+You must not ask . . .
+
+you must not ask me who I am.
+[210]
+
+CHORUS
+
+Why not?
+
+My origin is dreadful.
+
+Tell us more.
+
+OEDIPUS
+
+Alas, my child! What do I say?
+
+CHORUS
+
+Stranger,
+
+tell us your lineage, your father’s name.
+
+OEDIPUS
+
+Alas my child, what will become of me?
+230
+
+ANTIGONE
+
+You’ve come as far as you can go. You must speak.
+
+OEDIPUS
+
+I will speak. I cannot conceal the truth.
+
+CHORUS
+
+You two have been delaying for some time.
+Get to the point.
+
+OEDIPUS
+
+Are you familiar with
+
+the son of Laius . . .
+
+CHORUS
+
+O no!
+
+OEDIPUS
+
+. . . the race of Labdacus . . .
+
+CHORUS
+
+O Zeus!
+
+OEDIPUS
+
+. . . and the pitiful Oedipus?1
+
+1Laius was Oedipus’s father; Labdacus was the father of Laius. They were both kings of Thebes.
+
+That’s who you are?
+
+You must not be afraid
+
+of anything I say.
+
+CHORUS
+
+O no! No! No!
+
+OEDIPUS
+
+I am so wretched!
+
+CHORUS
+
+No! No!
+
+OEDIPUS
+
+My daughter,
+
+what will happen now?
+
+CHORUS
+
+You must leave this land.
+240
+
+Go away!
+
+OEDIPUS
+
+What about those words you swore?
+
+How will you keep your promises to me?
+
+CHORUS
+
+A man incurs no punishment from Fate
+when he responds to evils done to him.
+[230]
+
+You deceived us—now we are doing the same.
+Such actions bring no gratifying reward
+but merely pain.1So you must go away,
+leave where you are sitting, set off again,
+and hurry out of Athens without delay,
+in case you bring pollution to our state.
+250
+
+ANTIGONE
+
+You reverend strangers, you do not accept
+
+1The argument here is that Oedipus earlier deceived the Chorus by not revealing who he was before they
+made their promise to him. Therefore, they are justified in setting that promise aside.
+
+my aged father. You have heard the stories
+and know what he did without intending to.
+But, strangers, at least pity me, a poor girl,
+I beg you, as I plead for him alone,
+my father. I implore you with these eyes,
+which can still gaze into your own, like one
+who shares your blood, let this suffering man
+win your compassion. In our wretched state
+you are like gods—we are in your power.
+260
+
+Grant us this unexpected benefit!
+I’m begging you by all the things you love,
+[250]
+
+your child, your wife, your property, your gods!
+No matter where you search, you will not find
+a mortal man who can escape the gods
+when they lead him to disaster.
+
+CHORUS
+
+Know this,
+
+child of Oedipus, we do have pity
+for you and him alike in your ordeal.
+But we fear what the gods may do to us
+and lack the power to say anything
+270
+
+other than what we have said already.
+
+OEDIPUS
+
+What use is a fine reputation then
+or glory, if what it turns out to be
+is empty breath? People claim that Athens,
+[260]
+
+more than any other place, reveres the gods
+and is the only city with the strength
+to save a stranger in distress—it alone
+can rescue him. Yet in my situation
+where are these qualities? You have made me
+rise from that rock ledge and will drive me out
+280
+
+only because my name makes you afraid.
+For surely you cannot fear my presence
+or my actions, because, if I must tell
+the story of my father and my mother—
+which is why you fear me—then what matters
+is not what I did but what I suffered.
+I know that well. So how am I by birth
+[270]
+
+an evil man, when I was reacting
+
+to others who had harmed me? Even if
+I had fully known what I was doing,
+290
+
+you would not allege that I was evil.1
+
+But as it was, when I went where I did
+I knew nothing, while those who injured me
+in full knowledge of what they were doing
+sought my destruction.2 And therefore, strangers,
+I’m begging you, in the name of the gods,
+just as you made me leave my refuge,
+rescue me. While you pay tribute to the gods,
+do not, at any moment, act impiously.
+Consider this: they watch those who believe
+300
+
+as well as those who show them no respect,
+[280]
+
+and never yet has any godless man
+escaped them. Strangers, seek help from the gods,
+and do not shame the good name of Athens
+by lowering yourselves to profane deeds.
+You have given this suppliant your pledge,
+so take me in, protect me to the end.
+This face of mine is horrible to look at,
+but when you do, do not dishonour me,
+for I have come, a pious, holy man,
+310
+
+bringing benefits to all the citizens.
+Once your ruler comes, whoever he is
+who is your leader, he will hear all things
+[290]
+
+and understand. Meanwhile, do not harm me.
+
+CHORUS
+
+The argument you have just made, old man,
+in words that carry weight, we must respect.
+In my view, this issue must be resolved
+by those who rule this land.
+
+1Oedipus is arguing that in his actions he was responding to the treatment he received from his parents
+(who had tried to kill him as an infant by exposing him on Mount Cithaeron, outside Thebes). And in
+attacking his father, Oedipus was reacting to the latter’s hostile actions. Hence, even if he had known that
+his opponent was his father, Oedipus states, one could not consider him evil for defending himself.
+
+2This is almost certainly a reference to the way his parents tried to kill the infant Oedipus by pinning his
+feet together and abandoning him on the mountain. They were driven to do that by a prophecy that said
+the newborn child would grow up to kill his father.
+
+And where, strangers,
+
+is the ruler of this state?
+
+CHORUS
+
+In the city
+
+of his ancestors, here in this land. The scout
+320
+
+who sent us out has gone to summon him.
+
+OEDIPUS
+
+Do you think he will be concerned enough
+about a blind man to come in person?
+[300]
+
+CHORUS
+
+Of course he will, once he finds out your name.
+
+Who will tell him that?
+
+CHORUS
+
+It’s a long distance,
+
+and often things that travellers report
+get spread around. There’s no need to worry.
+Once he hears the news, he will come to us.
+We are all familiar with your name, old man,
+so even if the king is tired and resting,
+330
+
+when he learns of you he’ll soon be here.
+
+OEDIPUS
+
+May he get here quickly and bring good fortune
+to me and to his city. What decent man
+does not help himself by helping others?
+
+ANTIGONE
+
+O Zeus! What am I going to say, father?
+[310]
+
+What should I think?
+
+OEDIPUS
+
+Antigone my child,
+
+what is it?
+
+ANTIGONE
+
+I see a woman coming here
+
+riding a pony—a young Sicilian horse.
+She’s wearing a Thessalian cloth hat
+to keep her face protected from the sun.
+340
+
+What am I to say? Is it her or not?
+My mind keeps changing! Should I say it’s her
+or someone else? What a wretched business!
+Yes, it must be her. As she gets closer,
+the brightness in her eyes is welcoming me.
+She’s giving me a signal! It’s obvious—
+[320]
+
+the rider has to be Ismene.
+
+OEDIPUS
+
+My child,
+
+what are you saying?
+
+ANTIGONE
+
+I see my sister,
+
+your daughter! You’ll recognize her soon enough,
+once you hear her voice.
+
+[Enter ISMENE.]
+
+ISMENE
+
+Ah, there you are, you two,
+350
+
+my father and my sister, a double joy
+to utter those two words. How difficult
+it was to find you—and now how painful
+it is to look at you!
+
+OEDIPUS
+
+Are you here, my child?
+
+ISMENE
+
+O father, your fate is sad to witness!
+
+OEDIPUS
+
+O Ismene, have you really come?
+
+ISMENE
+
+Yes I have.
+
+But travelling here was not easy for me.
+
+Touch me, my child.
+
+ISMENE
+
+I’ll hold you both at once.
+
+OEDIPUS
+
+O children of my blood!
+
+ISMENE
+
+What wretched lives!
+
+OEDIPUS
+
+Antigone’s and mine?
+
+ISMENE
+
+And mine as well.
+360
+
+I am the third whose life is miserable.
+
+OEDIPUS
+
+Child, why have you come?
+
+ISMENE
+
+I came for your sake—
+
+I’m concerned about you.
+
+OEDIPUS
+
+Did you miss me?
+
+ISMENE
+
+Yes . . . and I came in person to bring news
+with the only trusty servant I possess.
+
+OEDIPUS
+
+Where are your young brothers? They should help you.
+
+ISMENE
+
+They are where they are. Their situation
+at the present time is dreadful.
+
+OEDIPUS
+
+Those two!
+
+In their style of life and dispositions,
+
+they always seem to like Egyptian ways,
+370
+
+for in that land men sit around the house
+working the loom, while women leave the home
+all the time to bring back what they live on.
+[340]
+
+And in your case, my daughters, those two sons,
+who should be doing the work, remain at home,
+like girls, while you two assume the burden
+of your poor father’s pain, instead of them.
+This one here, since she stopped being a child
+and had sufficient strength, has constantly
+been an old man’s guide on his harsh journeys,
+380
+
+often wandering barefoot and famished
+through savage woods and often beaten down
+[350]
+
+by storms or the sun’s unrelenting heat.
+She resolutely sets aside the comforts
+home provides, so her father can have food.
+And you too, my child, in earlier days,
+without the knowledge of those men in Thebes,
+came to your father, bringing him reports
+of all the oracles concerning Oedipus.
+When I was exiled, driven from that land,
+390
+
+you became a faithful sentry for me.
+And now here you are again, Ismene.
+What recent news have you brought your father?
+Why have you made this journey from your home?
+You’ve not come empty handed—that I know—
+not without bringing me some new concern.
+[360]
+
+ISMENE
+
+Father, I will not speak of what I suffered
+in my attempts to find out where you live.
+I do not wish to undergo that pain
+a second time by telling you the story.
+400
+
+I came to talk about the fearful things
+happening with your two ill-fated sons.
+At first, being reasonable, they thought
+about that old curse on the family,
+how it has clung to your unlucky race,
+and to make sure the city did not suffer
+from pollution, they both wanted Creon
+[370]
+
+to be given the throne.1 But now, urged on
+by some god or their own corrupted minds,
+these triply-wretched men are now engaged
+410
+
+in vicious war, trying to seize the throne
+and win a tyrant’s power. The younger one
+has stripped his older brother, Polyneices,
+of power and expelled him from his home.2
+
+So Polyneices, according to what people say
+throughout the city, has fled for refuge
+to the Argos valley and is taking
+a new wife there, a foreigner.3 His friends
+are now comrades in arms, and they intend
+that Argos will soon seize Cadmean land
+420
+[380]
+
+and win great honour or else sing their praise,
+exalting them up to the heavens.4 Father,
+what I have said is not just idle chat!
+No! These are desperate acts. At what point
+the gods will pity you in your distress
+I do not know.
+
+OEDIPUS
+
+Do you have some sudden hope
+
+the gods will ever care enough about me
+to grant me my salvation?
+
+1The curse on the family of Laius, Oedipus’s father, originated in Laius’s abduction and rape of Chrysippus,
+a young son of Pelops, king of Pisa (in the Peloponnese) and Pelops’s host. As a result of this crime,
+Chrysippus committed suicide, and Pelops laid a curse on Laius and his descendants. A profane act by a
+member of the family could bring religious pollution to an entire community.
+
+2Sophocles here makes Polyneices the elder of the two brothers. In some other versions of the story,
+Eteocles is the firstborn son. This change makes each brother a wrongdoer: Eteocles for usurping his elder
+brother, and Polyneices for seeking a foreign army to fight against his homeland.
+
+3Polyneices married Argeia, daughter of Adrastus, king of Argos, as part of his strategy to raise an army and
+attack Thebes.
+
+4This sentence is rather ambiguous in the Greek. If Argos defeats Thebes, Polyneices and his friends will
+win honour. The alternative is that Argos will sing someone’s praises to the skies. Jebb suggests that Argos
+will be singing the praises of Thebes for having won the battle. Another possibility is that Argos will be
+exalting Polyneices and his friends for having taken a great risk, fought the battle, and behaved heroically,
+even though they did not succeed. The latter seems to me more probable, given that it is the sort of idea
+young men bent on a dangerous expedition would come up with. The phrase “Cadmean land” is a reference
+to Thebes: Cadmus was the one who founded the city.
+
+ISMENE
+
+Yes, father,
+
+that’s what I think from recent oracles.
+
+What are they? My child, what has been foretold?
+430
+
+ISMENE
+
+The people of Thebes will soon seek you out,
+alive or dead, for their own security.
+[390]
+
+Who might benefit from a man like me?
+
+ISMENE
+
+People say their power depends on you.
+
+OEDIPUS
+
+And so when I am no longer living,
+at that point I truly become someone?
+
+ISMENE
+
+Yes. For the gods are now supporting you.
+Earlier they were set on your destruction.
+
+OEDIPUS
+
+That is mean-spirited—to restore power
+to an old man who in his youth was crushed.
+440
+
+ISMENE
+
+Whatever the cause, you should think of this:
+Creon will be coming here to deal with you—
+and soon. It will not take him long.
+
+OEDIPUS
+
+What for?
+
+Tell me why he would do that, my daughter.
+
+ISMENE
+
+To set you up near Theban territory,
+so they can use their power to control you,
+without you setting foot inside the state.
+[400]
+
+What help am I to them if I’m lying there
+outside their borders?
+
+ISMENE
+
+They face disaster
+
+should someone fail to pay your tomb due honours.
+450
+
+This I could assume without help from the gods.
+
+ISMENE
+
+That’s why they want to keep you near their land,
+but not where you might live by your own rules.
+
+OEDIPUS
+
+Will they bury me in Theban soil?
+
+ISMENE
+
+No.
+
+That’s not allowed, father. You are guilty
+of killing one of your own blood.
+
+OEDIPUS
+
+In that case
+
+they will never get their hands on me!
+
+ISMENE
+
+At some point that will be calamitous
+for citizens of Thebes.
+
+OEDIPUS
+
+How will that happen,
+[410]
+
+my child? Under what conditions?
+
+ISMENE
+
+From your anger,
+460
+
+when they stand beside your tomb.
+
+OEDIPUS
+
+Tell me, Ismene,
+
+where did you hear these things you’re saying?
+
+ISMENE
+
+From sacred messengers when they returned
+from the shrine at Delphi.1
+
+Has Phoebus uttered
+
+all these things about me?
+
+ISMENE
+
+So those men said
+
+when they came back to Thebes.
+
+OEDIPUS
+
+What about my sons—
+
+has either of them heard this prophecy?
+
+ISMENE
+
+Yes, both of them. They know all about it.
+
+OEDIPUS
+
+So those two sons, the very worst of men,
+heard of this, and instead of loving me,
+470
+
+preferred to seek the throne.2
+
+ISMENE
+
+To listen to this
+[420]
+
+is difficult, but it’s the painful truth.
+
+OEDIPUS
+
+Well then, I pray the gods will not prevent
+the predestined quarrel of these two sons.
+I wish I could be the final arbiter
+of this battle they are about to fight,
+levelling spears against each other. For then
+
+1What the prophecy is saying is that if Oedipus is buried in Athenian lands then, at some point in the
+future the Thebans will invade those lands but will be defeated by the Athenians at Oedipus’s grave. In
+other words, Oedipus’s anger will eventually work against them. The only way of averting that is to get
+control of Oedipus now, to make sure he cannot be buried in Athens.
+
+2Oedipus’s anger at his sons is not primarily rage at their foolish conduct for quarrelling over the throne
+but rather fury because, although the sons know about the prophecy that the security of Thebes is to
+depend upon the way Thebans treat Oedipus and his tomb, they are not working to get him accepted back
+at Thebes and perhaps even restored to the throne. Instead they are concentrating on trying to become
+king themselves. His concern is the injury he thinks has been done to him.
+
+the one who holds the sceptre and the throne
+would not survive, and the one in exile
+would not be coming back. I am their father,
+480
+
+but when the Thebans drove me from my home
+in great disgrace, they did not intervene.
+Nor did they defend me. Those two looked on,
+as I was exiled and the herald cried
+[430]
+
+the edict of my banishment. You might say
+that that was what I wanted at the time
+and thus the city did the proper thing
+in granting me that gift. That is not true!
+For on the very day when my heart burned
+and my sweetest wish was death by stoning,
+490
+
+no one appeared to grant what I desired.
+Later on, once all my anger ebbed away,
+I thought my passionate heart had sought
+a punishment too great for past mistakes,
+but then the city, after all that time,
+[440]
+
+forced me out of Thebes and into exile.1
+
+At that point those two sons could well have helped—
+two children taking care of their own father.
+But they refused! They did not say a thing,
+not even one small word! By doing that,
+500
+
+those two abandoned me, let me wander
+for all eternity an exiled beggar!
+It is from these two here, these girls, I get
+my daily food, a secure resting place,
+and family care, as much as nature
+enables them to give. But their brothers
+betrayed their father for throne and sceptre
+and power to rule the land. Those sons of mine
+will never win me as an ally—never!
+[450]
+
+And they will derive no benefits at all
+510
+
+from ruling Thebes as king. All this I know
+from listening to this girl’s prophecies
+and thinking about those I remember
+from long ago, which Phoebus Apollo
+
+1It is not clear how long a period of time passed between Oedipus’s self-mutilation and his exile from
+Thebes. During this period the city was ruled by Creon, who presumably made the decision to exile
+Oedipus.
+
+is now at last bringing to fruition.1
+
+So let them dispatch Creon to find me,
+or anyone else with power in Thebes.
+If you, strangers, are willing to protect me,
+assisted by these revered goddesses
+who guard your people, then you will receive
+520
+
+a powerful saviour for the city
+and cause my enemies distress.
+[460]
+
+CHORUS
+
+Oedipus,
+
+you have earned our sympathy, you and these girls,
+and since, in addition to your story,
+you offer yourself as this land’s saviour,
+I would like now, for your own benefit,
+to offer some advice.
+
+OEDIPUS
+
+My dearest friends,
+
+give me your help, and I will carry out
+everything you say.
+
+CHORUS
+
+You must cleanse yourself
+
+before these goddesses you first approached
+530
+
+and on whose grounds you trampled.
+
+OEDIPUS
+
+Tell me how—
+
+instruct me, strangers, what I should perform.
+
+CHORUS
+
+First of all, once you have purified your hands,
+bring sacred water from the ever-flowing spring.
+[470]
+
+OEDIPUS
+
+When I bring this pure water back, what then?
+
+1Oedipus has spoken earlier about a prophecy he received from Apollo many years before that he would
+finally find rest (see line 106 above). He is now combining that oracular utterance with what Ismene has
+told him about recent prophecies concerning him.
+
+There are bowls, the work of skilful craftsmen—
+cover the rims and handles on both sides.
+
+Cover them with what? Wool or olive twigs?
+
+CHORUS
+
+Use wool freshly shorn from a female lamb.
+
+OEDIPUS
+
+All right. What next? How do I end the rite?
+540
+
+CHORUS
+
+Pour your libations facing early dawn.
+
+OEDIPUS
+
+I pour them from the mixing bowls you mentioned?
+
+CHORUS
+
+Yes, from two bowls pour three separate streams,
+but with the last one pour it all at once.
+
+OEDIPUS
+
+Before I set the third bowl with the others,
+[480]
+
+what do I fill it with? Tell me that.
+
+CHORUS
+
+With water and honey, but add no wine.
+
+OEDIPUS
+
+And when the dark leaf-covered earth has drunk,
+what then?
+
+CHORUS
+
+With both hands set down olive twigs—
+
+three sets of nine—while you recite this prayer . . .
+550
+
+OEDIPUS
+
+I need to hear the prayer—that’s most important.
+
+CHORUS
+
+Pray that, since we call them the Kindly Ones,
+
+they will graciously receive a suppliant
+and save him. You must make this prayer yourself
+or have someone recite it in your place.
+Speak so no one hears you. Don’t pray out loud.
+Then leave the place, and do not turn around.
+[490]
+
+If you do this, then I will have the strength
+to stand beside you as your friend. If not,
+then, stranger, I would be afraid for you.
+560
+
+OEDIPUS
+
+Children, did you hear what the strangers said?
+They live here.
+
+ANTIGONE
+
+We heard. Tell us what we must do.
+
+OEDIPUS
+
+It is not possible for me to do it,
+since two afflictions render me unfit:
+I am not strong enough, and I am blind.
+One of you go in and perform this rite.
+For I believe one heart can intercede
+and atone in full for tens of thousands,
+if that heart is pure. But you must hurry.
+Do not leave me by myself—my body
+570
+[500]
+
+cannot shuffle along all on its own,
+not without somebody there to guide me.
+
+ISMENE
+
+I will go and carry out the ritual,
+but where is the place? I need to know that.
+
+CHORUS
+
+It’s over there, stranger, beyond the grove.
+If you need anything, there’s someone there.
+He will direct you.
+
+ISMENE
+
+I’ll go and do it.
+
+Antigone, look after father here.
+If helping out our parents requires work,
+we should not consider that a burden.
+580
+
+[Exit ISMENE.]
+
+CHORUS
+
+Stranger, to stir up ancient suffering
+[510]
+
+that for a long time has been lying dormant
+is a dreadful thing, but I would like to know . . .
+
+What it is?
+
+CHORUS
+
+. . . about those torments you endured—
+
+the painful inescapable regrets.
+
+OEDIPUS
+
+By all the laws of hospitality,
+do not bring up the shame I have been through.
+
+CHORUS
+
+But the story is well known, and people
+talk about it still. My friend, I’d like to hear
+the truth about what really happened.
+590
+
+OEDIPUS
+
+No, no.
+
+CHORUS
+
+Please tell me. I am begging you.
+
+OEDIPUS
+
+Alas! Alas!
+
+CHORUS
+
+You should grant me this request.
+[520]
+
+I have done everything you asked me.
+
+OEDIPUS
+
+O my friends, I have suffered agonies,
+the worst there are, but the things I did—
+and may the gods be witness to my words!—
+were unintentional. I did not choose
+to do any of them of my own free will.
+
+How did that happen?
+
+Without my knowledge,
+
+the city entangled me in ruin
+600
+
+with a disastrous marriage.
+
+CHORUS
+
+Is it true
+
+you shamed the marriage bed by sharing it
+with your own mother? That’s what people say.
+
+OEDIPUS
+
+Alas for me! Those are deadly words to hear!
+Friends, those two girls of mine . . .
+[530]
+
+CHORUS
+
+What are you saying?
+
+OEDIPUS
+
+Those two daughters—they are abominations!
+
+CHORUS
+
+O Zeus!
+
+OEDIPUS
+
+Born from their mother’s agony—
+
+the very mother who bore me as well!
+
+CHORUS
+
+So these young girls here are your daughters and . . .
+
+OEDIPUS
+
+Yes, and their father’s sisters, too.
+
+CHORUS
+
+O god!1
+610
+
+1As Jebb observes, the Chorus’s shock here suggests that they are just finding out that Jocasta was not only
+Oedipus’s wife and mother, but also the mother of his children. In some versions of the story of Oedipus,
+he had no children with Jocasta, and his children were from a second wife, Euryganeia.
+
+Alas! Countless torments return once more,
+wheeling to attack me!
+
+CHORUS
+
+You have suffered . . .
+
+What I have been through I cannot forget!
+
+CHORUS
+
+You have committed . . .
+
+OEDIPUS
+
+I have committed nothing!
+
+CHORUS
+
+What do you mean?
+
+OEDIPUS
+
+I received her as a gift.
+[540]
+
+How I wish, in my miserable state,
+I had not taken her as my reward
+for rescuing the city.1
+
+CHORUS
+
+You poor man!
+
+What then? Did you murder . . .
+
+OEDIPUS
+
+What is it now?
+
+What do you wish to know?
+
+CHORUS
+
+Did you kill your father?
+620
+
+OEDIPUS
+
+O no, not that! You stab me once again,
+wound piled on wound!
+
+1Thebes had been plagued by a monster, the Sphinx, which could only be conquered by someone who
+answered a riddle correctly. Oedipus solved the riddle and saved the city. He was made king for his services
+and married Jocasta, the wife of king Laius (who had been murdered some years before).
+
+So then you did kill him.
+
+I killed him. But in my defence there is . . .
+
+What?
+
+OEDIPUS
+
+. . . something to justify my action.
+
+CHORUS
+
+What is that?
+
+OEDIPUS
+
+I will tell you. I killed men
+
+who would have slaughtered me, and I did so
+in ignorance. By law I’m innocent,
+and yet I’ve come to this.1
+
+CHORUS
+
+Look over there!
+
+Here comes Theseus, son of Aegeus,
+our ruler, responding to your summons
+630
+
+and prepared to help.
+
+[Enter THESEUS and ATTENDANTS.]
+
+THESEUS
+
+In the past many men
+
+have told me of the bloody mutilation
+of your eyes, son of Laius, and what I heard
+while on my way here makes me more certain
+I truly recognize just who you are.
+Your clothing and your ravaged features, too,
+both confirm your identity for us.
+I pity you, ill-fated Oedipus,
+and I would like to know what petition
+
+1Oedipus killed his father, Laius when the two encountered each other in a place where three roads meet.
+Laius and his escort shoved Oedipus aside and assaulted him. Thinking his life in danger, Oedipus killed
+them all, not knowing who they were.
+
+to me and to the city brings you here,
+640
+[560]
+
+you and that unlucky girl beside you.
+Let me hear it. You would have to mention
+something outrageous for me to stand aside.
+I know I myself was raised in exile,
+just as you were, and in foreign countries
+I struggled against many mortal dangers,
+more so than any other man.1 And thus,
+I would not turn away any stranger
+in your position or refuse to help.
+For I know well I am a mortal man,
+650
+
+and thus my share of what tomorrow brings
+is no greater than your own.
+
+OEDIPUS
+
+Theseus,
+
+the nobleness in those few words you spoke
+is such that I require no long reply.
+[570]
+
+You mentioned who I am, who my father was,
+and the land I come from. So there remains
+nothing for me to say except to state
+what I would like, and then my speech is done.
+
+THESEUS
+
+Well, then, say what it is, so that I know.
+
+OEDIPUS
+
+I have come here to offer you a gift,
+660
+
+this wretched body of mine. To look at,
+it has little value, but the benefits
+it confers surpass a pleasing shape.
+
+THESEUS
+
+You claim you bring us great advantages.
+What are they?
+
+1Theseus, one of the most famous legendary heroes of Athens, was the son of Aethra, daughter of king
+Pittheus of Troezen. His father was Aegeus, king of Athens. After Theseus was conceived in Troezen, his
+father returned to Athens, but he left behind evidence of his identity for his son to discover when he was
+old enough. Theseus grew up in Troezen and learned about his father as a young man. He set off for Athens
+and after a series of famous adventures was eventually reunited with Aegeus, his father.
+
+You may find out later on,
+[580]
+
+but not right now.
+
+Well then, at what point
+
+will this gift of yours reveal itself to us?
+
+When I am dead and you have buried me.
+
+You ask for your life’s final ritual
+but ignore what happens before you die,
+670
+
+or else you do not care.
+
+It does not matter.
+
+All those other things are part of my request.1
+
+THESEUS
+
+The favour you request from me is small.
+
+OEDIPUS
+
+But take care. This is no trifling matter—
+the struggle over me will not be small.
+
+THESEUS
+
+Are you referring to your sons and me?
+
+OEDIPUS
+
+My lord, they will be seeking to force you
+to send me back to Thebes.
+
+THESEUS
+
+If that is what you wish,
+[590]
+
+your banishment is not appropriate.
+
+1Theseus seems surprised by Oedipus’s remarks, since he is probably assuming Oedipus will request
+protection during his lifetime. Oedipus, however, is concerned only about where he will be buried; hence,
+he does not care about what happens to him between now and his death, so long as he is confident his
+grave will be in Athens. As we soon learn, Oedipus’s request to be buried in Athens implicitly includes a
+demand that the Athenians will not hand him over to anyone else, because if he is taken away, then
+Theseus will be unable to fulfil his pledge to bury Oedipus at Athens.
+
+No! When I wanted to remain in Thebes
+680
+
+they would not agree!
+
+You are being foolish.
+
+In times of trouble anger does not help.
+
+Give me advice once you have heard my story.
+Until then, spare me.
+
+THESEUS
+
+Then tell it to me.
+
+I should not speak until I know the facts.
+
+I have suffered dreadfully, Theseus,
+evil after evil—horrific things!
+
+THESEUS
+
+Do you mean that ancient family curse
+placed on your race?
+
+OEDIPUS
+
+No, not that at all.
+
+That’s something the whole of Greece talks about.
+690
+
+THESEUS
+
+Then are you sick with more than mortal grief?
+What it is?
+
+OEDIPUS
+
+My situation is this.
+
+I was driven away from my own land
+by my two sons, and I cannot return
+[600]
+
+because I killed my father.
+
+THESEUS
+
+But why then,
+
+if you cannot live there, will they summon you?
+
+The oracle of the god will force them to.
+
+What evil has the oracle declared
+that makes them so afraid?
+
+It prophesied
+
+that in your country they will be defeated.
+700
+
+And how will they become my enemies?
+
+OEDIPUS
+
+Dearest son of Aegeus, only gods
+are never troubled by old age and death.
+All other things are finally destroyed
+by all-conquering Time. The power of Earth
+passes away, the body’s strength withers,
+[610]
+
+loyalty perishes, distrust appears,
+and between one city and another,
+just as between good friends, relationships
+never remain the same. Sooner or later
+710
+
+pleasant concord turns to bitter hatred
+and then hatred, once again, to friendship.
+So if today between yourself and Thebes
+the sun is shining bright and all is well,
+the endless passage of infinite Time
+engenders innumerable days and nights,
+and in that time some trivial reason
+will persuade them to shatter with their spears
+[620]
+
+whatever treaties you now have between you.
+And then, if Zeus is, at that time, still Zeus
+720
+
+and if his son Apollo speaks the truth,
+my frigid, slumbering, and buried corpse
+will drink hot Theban blood. I will not speak
+of secrets that should remain unspoken,
+so let me end my speech where I began:
+if you will only do what you have pledged,
+and if the gods are not deceiving me,
+
+you will never say you sheltered Oedipus
+here in your land and reaped no benefits.
+
+My lord, this man has, from the very start,
+730
+
+made it clear to us he would accomplish
+these and similar good things for our state.
+[630]
+
+Who then would repudiate the friendship
+of a man like this, one for whom, first of all,
+an ally’s hearth, by mutual agreement,
+is always welcoming? Then he has come
+as a suppliant to our gods and offers
+no small reward to this land and to me.
+I respect these things—I will never spurn
+the favours of this man. I will establish
+740
+
+a place where he may live as a citizen.
+If the stranger wishes to remain here,
+I will appoint you his protectors. But if
+he would prefer to, he can come with me.
+Choose the option you think best, Oedipus.
+[640]
+
+Whatever choice you make will be my own.
+
+OEDIPUS
+
+O Zeus, be gracious to such men as these!
+
+THESEUS
+
+What would you like? To come back to my home?
+
+OEDIPUS
+
+I would, if that had been ordained for me.
+But this is the place . . .
+
+THESEUS
+
+What will you do here?
+750
+
+Speak up. I will not countermand your choice.
+
+OEDIPUS
+
+. . . where I will conquer those who drove me out.
+
+If so, your presence here would prove to be
+a major benefit for us.
+
+It will,
+
+if you fulfil your promises to me.
+
+Have faith in me. I will not let you down.
+
+I will not ask you to confirm your pledge
+with an oath, as one does with wicked men.
+[650]
+
+THESEUS
+
+An oath would be no more reliable
+than giving you my word.
+
+OEDIPUS
+
+What will you do?
+760
+
+THESEUS
+
+What precisely do you fear?
+
+OEDIPUS
+
+Men will come . . .
+
+THESEUS
+
+But these citizens here will deal with them.
+
+OEDIPUS
+
+Be careful when you leave me.
+
+THESEUS
+
+There is no need
+
+to instruct me in what I have to do.
+
+OEDIPUS
+
+My fear drives me to do it.
+
+But my heart
+
+has no fear.
+
+You know nothing of their threats.
+
+But I do know this: no one will carry you
+away from here without permission from me.
+Often men utter threats from angry hearts
+in loud and empty words, but when their minds
+770
+
+regain control once more, their threats are gone.
+[660]
+
+And if those men are bold enough to act
+on threats they made to take you back by force
+they will, I tell you, sail into rough seas
+on their harsh journey here. You must take heart.
+That’s my advice—even without my pledge—
+if Phoebus was the one who led you here.
+And though I am elsewhere, I know my name
+will nonetheless protect you from all harm.
+
+[Exit THESEUS.]
+
+CHORUS
+
+Stranger, in this land famed for horses
+780
+
+you have reached bright Colonus,
+earth’s finest home. Here the nightingale,
+[670]
+
+always chants her sweet, sharp melodies,
+from deep within green forest groves,
+living among the wine-dark ivy vines,
+fruit-rich foliage of the god, a place
+where no sun penetrates, no winds blow
+in any storm, and no man ever treads.
+Here Dionysus, the Bacchic reveller,
+always roams with his companions,
+790
+
+the nymphs who nursed him as a child.1
+[680]
+
+1The nymphs of Mount Nysa were given the infant god Dionysus to raise after he was born from Zeus’s
+thigh. They later became the first of those who joined him in his revels (the Bacchantes).
+
+And every day narcissus flowers bloom
+in lovely clusters fed on heavenly dew,
+the ancient crown of two great goddesses,
+as well as glistening gold crocuses.1
+
+The sleepless fountains never fail to feed
+the wandering waters of the Cephisus,
+whose pure, clear stream flows every day
+[690]
+
+across the ample bosom of the land,
+bringing rich nourishment to the plain.
+800
+
+Nor do the Muses’ dancing choruses
+or Aphrodite of the golden reins
+fail to grant their favours to this land.
+
+And here we have a certain kind of plant—
+I have not heard of it in Asian lands,
+nor does it thrive in that great Dorian isle
+of Pelops. It grows without man’s help,
+renews itself, and terrifies our foes.
+This plant truly flourishes in our land,
+[700]
+
+the gray-leafed olive tree, nurturing
+810
+
+our country’s youth.2 No young person here
+will lift a hand to damage or destroy it,
+nor any citizen living with old age,
+for it guarded by the ever-watchful gaze
+of grey-eyed Athena and protector Zeus.3
+
+I have more praises for our mother state,
+a tribute to those most glorious gifts
+[710]
+
+from a mighty god, our country’s proudest boast—
+the great strength of our colts and stallions
+and the mighty power of the sea. For you,
+820
+
+my lord Poseidon, Cronos’ son, placed her
+
+1The two great goddesses are Demeter and her daughter Persephone. Persephone was gathering a narcissus
+when she was abducted by Hades, god of the underworld.
+
+2The “great Dorian isle of Pelops” is a reference to the Peloponnese, that area of mainland Greece south of
+the Isthmus of Corinth (it is almost an island). Jebb notes that Sophocles does not mean that the olive tree
+does not grow elsewhere, but rather that the olive does not flourish in other places the way it does in
+Athens, where it enjoys divine protection. The tree was, according to Athenian legends, a gift from the
+goddess Athena, who made the first one spring spontaneously from the soil of the city (hence human
+beings did not plant it in Athens).
+
+3Zeus here is called “morios,” a word referring to the sacred olive trees in Athens, of which Zeus was the
+divine guardian. Hence, the title Zeus Morios.
+
+on that proud throne and first introduced
+into our roads the bridle and the bit
+that curb the wildness in our horses.
+You trained our hands to ply the flashing oar
+and race in wonder over open seas,
+chasing sea nymphs dancing in the waves,
+the fifty daughters of Nereus.1
+
+ANTIGONE
+
+O Athens, land praised more than any other,
+[720]
+
+now is the time to show in how you act
+830
+
+just what such splendid commendations mean.
+
+OEDIPUS
+
+What’s happening, my child?
+
+ANTIGONE
+
+It’s Creon, father.
+
+He’s coming towards us—and with an escort.
+
+OEDIPUS
+
+O you old men, my dearest friends, may you now
+make good that final pledge of yours and save me!
+
+CHORUS
+
+Take heart—our pledge still stands. We may have aged,
+but still our country’s strength has not grown old.
+
+[Enter CREON with an escort.]
+
+CREON
+
+You men, noble inhabitants of this land,
+from your eyes I see that my arrival
+has gripped you all with unexpected fear.
+840
+[730]
+
+Do not shrink back or utter hostile words,
+for I do not come intending to use force.
+I am an old man, and I understand
+that if any state in Greece is truly strong
+
+1Nereus, a sea god in Greek mythology, was a son of Pontus and Gaia (the Sea and the Earth) and the father
+of the fifty Nereids, nymphs who lived in the sea. This last stanza is a tribute to the importance of Poseidon
+at Athens. According to legend he introduced horses in Athens and helped to make Athenians expert
+sailors.
+
+it is the powerful city I have reached.
+No. I have been sent here, old though I am,
+to convince this man to return to Thebes.
+I was not dispatched by just one person,
+but by the wish of all the citizens,
+and more than any other man in Thebes
+850
+
+it falls on me to grieve for his misfortune,
+because he is a relative of mine.1
+
+O you, poor miserable Oedipus,
+[740]
+
+hear what I have to say and come back home!
+Cadmeans are all summoning you back—
+and justly so—I more than all the rest.2
+
+I would be the very worst of all men born
+if I did not find your suffering painful,
+seeing you, old man, a wretched outcast,
+an eternal wanderer and beggar,
+860
+
+stumbling around with one young girl for help.
+Alas, I never thought that she would fall
+into such degrading misery as this—
+the poor creature, living like a vagrant,
+always nursing you in your condition.
+[750]
+
+She’s of marriageable age, but unwed,
+there for some passing man to violate.
+In pointing out all these misfortunes,
+am I not casting a disgraceful slur
+on you and me and our whole family line?
+870
+
+But no one can conceal a public shame.
+So, Oedipus, by our ancestral gods,
+listen to what I say—hide our disgrace
+by agreeing to return to Thebes, the home
+of your own ancestors. Bid this place here
+a fond farewell—these men have earned your thanks.
+But your own homeland merits more respect,
+because she nursed you all those years ago.
+[760]
+
+OEDIPUS
+
+You are crass enough to try anything,
+
+1Creon was the brother of Oedipus’s wife and mother, Jocasta.
+
+2The word “justly” here refers to the law. Creon is reminding those listening that Thebes has a better legal
+claim to Oedipus than Athens does, because of the time Oedipus spent there and his family connection
+with Creon.
+
+even to base your devious intent
+880
+
+on pleas for justice! Why are you doing this?
+Why do you wish to catch me once again
+in a snare that will bring me still more grief?
+Back when I was suffering from the pain
+I brought upon myself, I yearned to leave,
+to be driven from Thebes, but you refused!
+That favour you were not prepared to grant.
+Later, once my anger had run its course
+and I desired to live in my own home,
+you cast me out, forced me into exile.
+890
+[770]
+
+At that time you were not concerned at all
+with those common kinship ties you mention.
+Now here we are again. When you can see
+how this city and its inhabitants
+are all offering me their hospitality,
+you try to snatch me back once more, voicing
+your vicious wish in a sweet-sounding speech.
+And yet what pleasure do you get from this,
+welcoming me as a guest against my will?
+It’s as if you kept pleading with someone
+900
+
+to grant a favour but he was unwilling
+and refused to help, and then later on,
+once your spirit had everything you wished,
+he granted your request, when such kindness
+would not be kind at all. In such a case,
+[780]
+
+would not your joy be empty? Nonetheless,
+that is what you are offering me now—
+noble-sounding speeches and deceitful acts.
+I will explain that to these people here
+to show what a dishonest man you are.
+910
+
+You have not come to lead me to my home,
+but to take me into custody, to set me
+near your borders, so the city of Thebes
+may escape unharmed any future troubles
+coming from this land. But you will not succeed.
+Instead of that what you will get is this:
+my vengeful ghost haunting your land forever
+and for my sons this legacy from me,
+as much of my own land as they will need
+to lie on when they die, no more than that.
+920
+[790]
+
+As far as Thebes’s future is concerned,
+Creon, am I not a wiser man than you?
+Yes, much wiser—since those I listen to
+are the most knowledgeable ones of all,
+Phoebus Apollo and his father Zeus.
+You come here with that corrupt tongue of yours
+honed sharp as hardened steel, but what you say
+will bring you grief rather than salvation.
+I know these words of mine will not convince you,
+so you should leave. Let us keep living here.
+930
+
+To exist like this would not be difficult,
+not if it brought enjoyment and content.
+
+CREON
+
+In this debate, which one of us do you think
+[800]
+
+has more to lose by what you are doing,
+you or me?
+
+OEDIPUS
+
+For me the sweetest outcome
+
+will be when you fail to win me over
+or to convince the people standing here.
+
+CREON
+
+You poor man! Will you make a public show
+of how in all these years you have learned nothing?
+Will you keep on disgracing your old age?
+940
+
+OEDIPUS
+
+You have a glib tongue, but I do not know
+a single righteous man who can reason well
+supporting all sides in an argument.
+
+CREON
+
+One can say a lot and yet avoid the issue.
+
+OEDIPUS
+
+As if your speech was short and to the point!
+
+CREON
+
+That is not possible with minds like yours.
+[810]
+
+Go away! I speak for these men here, as well.
+And do not try to set up a blockade
+and spy on me where I am meant to live.
+
+CREON
+
+I call on these men—not on you—to witness
+950
+
+the way you answer your own family friends.
+If I ever capture you . . .1
+
+OEDIPUS
+
+Who could seize me
+
+if these men, my allies, are unwilling?
+
+CREON
+
+Even without that you will still suffer!
+
+OEDIPUS
+
+You are threatening me? What will you do?
+
+CREON
+
+I have just seized one of your two daughters
+and sent her away. Soon I’ll take the other.
+
+OEDIPUS
+
+No!
+
+CREON
+
+Before long you’ll have more to cry about.
+[820]
+
+OEDIPUS
+
+You have taken my daughter?
+
+CREON
+
+Yes I have.
+
+And soon enough I’ll have this other one.
+960
+
+1Creon’s appeal for the Chorus to witness Oedipus’s conduct is a continuation of his legal thinking.
+Oedipus wishes to associate himself with Colonus and Athens. Creon has been making the point that,
+given Oedipus’s history and family ties, Thebes has a better legal right to have Oedipus back. At this point,
+seeing that neither Oedipus nor the Chorus is accepting the legal argument, Creon resorts to threats and
+violence.
+
+Alas, strangers, what are you going to do?
+Will you abandon me? Will you not drive
+this sacrilegious man away from here?
+
+CHORUS [to Creon]
+
+You must leave here, stranger—without delay!
+What you have just done and are doing now
+is not acceptable.
+
+CREON [to his escort]
+
+If this young girl
+
+does not wish to come with us, it’s now time
+for you to take her into custody
+against her will.
+
+ANTIGONE
+
+This is insufferable!
+
+Where can I run to? Who will help me now,
+970
+
+what gods or men?
+
+CHORUS [to Creon]
+
+Stranger, what are you doing?
+
+CREON [to the Chorus Leader]
+
+I will not lay a finger on this man here,
+[830]
+
+but I will take her. She belongs to me.
+
+[CREON and his ESCORT move to apprehend ANTIGONE.]
+
+OEDIPUS
+
+O you who rule this land!
+
+CHORUS
+
+These acts of yours,
+
+stranger, are not just.
+
+CREON
+
+They are quite legal.
+
+CHORUS
+
+How are they legal?
+
+CREON
+
+I am taking what is mine.
+
+Help us, Athens!
+
+Stranger, what are you doing?
+
+Leave her alone—or else you’ll quickly face
+a test where we resolve this in a fight.
+
+CREON
+
+Stay back!
+
+CHORUS
+
+Not if you keep acting in this way.
+980
+
+CREON
+
+If you harm me, you’ll be at war with Thebes.
+
+OEDIPUS
+
+Is that not just what I predicted?
+
+[Members of CREON’S ESCORT seize ANTIGONE.]
+
+CHORUS
+
+Let go!
+
+Take your hands off that girl immediately!
+
+CREON
+
+Do not give orders to those you do not rule.
+
+CHORUS
+
+I’m telling you to let that young girl go.
+
+CREON [to one of his soldiers holding Antigone]
+
+And I am ordering you to take her off.
+
+[The ESCORT starts to drag ANTIGONE away.]
+
+CHORUS
+
+Come here, you citizens of Colonus!
+Come here and help! The city—our city—
+is being violently attacked! Help us!
+
+It’s over for me—I’m being dragged away!
+990
+
+O you strangers, you are our hosts and friends . . .
+
+Where are you, my child?
+
+ANTIGONE
+
+They’re forcing me to go.
+
+OEDIPUS
+
+Give me your hand!
+
+ANTIGONE
+
+I can’t—I haven’t got the strength.
+
+CREON
+
+You men, take her away!
+
+OEDIPUS
+
+Alas, I’m finished!
+
+[Creon’s SOLDIERS take ANTIGONE away.]
+
+CREON
+
+You will not be stumbling around again
+using these two young girls as your support.
+But since you wish to win a victory
+over your native country and your friends,
+[850]
+
+on whose behalf I undertook these acts,
+though I am their king, enjoy your triumph.
+1000
+
+I know in time to come you’ll recognize
+how in all your actions, now and in the past,
+you have not acted well by giving in,
+despite your friends, to your own temper.
+That has always led you to disaster.1
+
+1The “triumph” Creon refers to is Oedipus’s “victory” in not returning to Thebes with him. Creon is
+claiming here that he has been acting in the best interests of Thebes and of Oedipus’s family, although, as
+absolute ruler of the city, he has no need to defer to their wishes. He is also pointing out that Oedipus’s
+temper has always led to consequences injurious to his family (e.g., his own self-mutilation and expulsion
+from Thebes, the suicide of Jocasta, his mother-wife and Creon’s sister, and the harsh life of his two
+daughters).
+
+[The CHORUS moves to block CREON from leaving.]
+
+CHORUS
+
+Stop there, stranger!
+
+CREON
+
+I warn you: do not touch me!
+
+CHORUS
+
+If those young girls are taken away from here,
+I will not let you leave.
+
+CREON
+
+If you do that,
+
+you’ll soon be giving Thebes a greater prize—
+for I’ll be taking more than these two girls.
+1010
+[860]
+
+CHORUS
+
+What do you mean to do?
+
+CREON [pointing to Oedipus]
+
+I’ll seize that man
+
+and carry him away.
+
+CHORUS
+
+That’s a bold threat.
+
+CREON
+
+One that will be made good without delay.
+unless this country’s ruler intervenes.
+
+OEDIPUS
+
+You glib talker! Would you lay hands on me?
+
+CREON
+
+Do as I tell you and keep quiet!
+
+OEDIPUS
+
+No!
+
+May the spirits here permit me to call down
+one more curse against you, you worst of men,
+since you have hauled away that helpless girl
+and taken by force my one remaining eye.
+1020
+
+May all-seeing Helios, god of the sun,
+grant you and your entire family
+a life like mine when you are growing old.
+[870]
+
+CREON
+
+Do you see this, you men of Colonus?
+
+They are observing you and me—they see
+that when hostile actions make me suffer,
+I defend myself with words.
+
+CREON
+
+I’ll not check
+
+the anger in my heart one moment more—
+though I’m alone and age has slowed me down,
+I’ll seize this man and lead him off by force!
+1030
+
+[CREON moves to take OEDIPUS away by himself.]
+
+OEDIPUS [struggling with Creon]
+
+Help me! Help!
+
+CHORUS
+
+How insolent you are, stranger,
+
+if you believe you can accomplish this!
+
+CREON
+
+That is my intention.
+
+CHORUS
+
+If you succeed,
+
+then I will say our city is no more.
+
+CREON
+
+With justice on its side, weakness conquers might.
+[880]
+
+OEDIPUS [still struggling with Creon]
+
+You hear the sort of words he splutters?
+
+CHORUS
+
+But great Zeus knows that he will not succeed
+in doing what he says.
+
+CREON
+
+Zeus may well know,
+
+but you do not.
+
+CHORUS
+
+Your actions are outrageous!
+
+CREON
+
+An outrage? Yes, but one you must endure!
+1040
+
+CHORUS
+
+All those of you who rule this land, help! Help!
+Come here on the run! Come on! These Thebans
+are on the move back across the border!
+
+[THESEUS enters with a few ATTENDANTS.]
+
+THESEUS
+
+Why all this shouting? What’s happening here?
+What are you afraid of? Why did you stop
+my sacrifice at the altar to Poseidon,
+god of the sea and lord of Colonus?
+Explain all this, so that I understand
+why I had to hurry here more quickly
+[890]
+
+than was convenient.
+
+OEDIPUS
+
+I know that voice!
+1050
+
+My dearest friend, I have just been suffering
+dreadful things from this creature here.
+
+THESEUS
+
+What things?
+
+Who has mistreated you? Tell me.
+
+OEDIPUS
+
+Creon has—
+
+the man you see here. He took my children,
+the only two I have.
+
+THESEUS
+
+What are you saying?
+
+I’ve told you what I have had to suffer.
+
+THESEUS [to his ATTENDANTS]
+
+One of you men, go as fast as you can
+to those altars. Tell all the people there
+to leave the sacrifice and move with speed—
+[900]
+
+both on foot and horseback—to that junction
+1060
+
+where two highroads meet, so those young girls
+do not pass by the place and I become
+an object to be laughed at by this stranger
+because his power got the better of me.
+Go now! Do as I say—and quickly!
+
+[One of the attendants accompanying Theseus runs off. THESEUS turns his attention to
+CREON.]
+
+As for this man, if my anger judged him
+as he deserves, he would not escape my hand
+without some injury. But now those laws
+he himself brought with him when he came here
+will render judgment—we need no others.
+1070
+
+You will not leave this land until you bring
+those young girls back and set them in plain view
+[910]
+
+right here in front of me. What you have done
+is a disgrace to me, to your parents,
+and to your native land. You marched in here,
+to a city state that honours justice
+and never condones acts outside the law,
+and brushed aside this land’s authorities,
+bursting in like this and seizing prisoners,
+using force to take whatever you desired.
+1080
+
+You seem to think this city has no men
+or is full of slaves and I am nothing.
+It was not Thebes who taught you to be bad.
+That state does not like raising lawless men
+[920]
+
+and would not praise your actions if it learned
+that you were stealing from me and the gods,
+forcefully abducting their poor suppliants.
+If I were to move into your country,
+even with the most righteous of all claims,
+I would not seize someone or lead them off
+1090
+
+without permission of the ruling power,
+whoever he might be. I would know how
+a stranger ought to act with citizens.
+But you are a disgrace to your own city.
+Thebes does not deserve that. Advancing years
+[930]
+
+have made you old and robbed you of all sense.
+So now I’ll tell you what I said before—
+have those girls brought here as quickly as you can,
+unless you wish to be held here by force,
+a resident of this land against your will.
+1100
+
+What my tongue utters, I intend to do.
+
+CHORUS [to Creon]
+
+You see the situation you are in, stranger?
+From your origins you seem a righteous man,
+but your actions show you are dishonest.
+
+CREON
+
+Son of Aegeus, I have not done these things
+because I thought Athens was devoid of men,
+[940]
+
+as you have claimed. No. I had sound reasons.
+But I did not believe your citizens
+would be so devoted to my relatives
+that they would keep them here against my will.
+1110
+
+And I was sure people would not welcome
+a polluted man, who killed his father
+and whose unholy marriage was exposed,
+a mother wedded to her son. For I knew
+such wise restrictions were traditional
+with the Council on the Hill of Ares,
+which never would permit such vagrant types
+to settle in the Athenian state.1
+
+Trusting that knowledge, I chased down my prey.
+[950]
+
+But I would not have acted in this fashion,
+1120
+
+if he had not called down stinging curses
+on my family and me. In my view,
+what he made me suffer entitled me
+to take revenge. Anger never grows old
+
+1The Hill of Ares is a rocky outcrop near the entrance to the Acropolis in Athens. The Council there, the
+Areopagus, was a court dealing with criminal and civil cases and general moral censorship in the earlier
+days of Athenian democracy.
+
+until death comes, for dead men feel no pain.
+You will deal with this however you wish.
+What I say is right, but I am alone
+and therefore feeble. Still, though I am old,
+I will seek to pay you back for what you do.
+
+OEDIPUS
+
+What blatant arrogance! For whose old age
+1130
+[960]
+
+do you think this abuse is more degrading,
+yours or mine? Against me that mouth of yours
+spits out words like murder, incest, misery—
+sufferings I, in my wretchedness, endured
+through no fault of my own. All these events
+were pleasing to the gods—perhaps because
+my family long ago offended them.
+For looking at my life, you could not find
+a single reason to blame me for mistakes
+for which I needed to pay retribution
+1140
+
+with destructive acts injuring myself
+and my own kindred. Explain this to me:
+if some divine voice in an oracle
+told my father he was going to die
+at the hand of his own son, how can you
+[970]
+
+justly blame me for it. I was not born.
+No father’s seed had yet begotten me,
+nor had any mother’s womb conceived me.
+I did not exist! And if I was born,
+as I was, to a life of wretchedness,
+1150
+
+had a lethal fight with my own father,
+and killed him, with no idea who he was
+or what I had done, are you justified
+in disparaging me for what I did
+without intending to? As for my mother,
+you disgraceful brute, are you not ashamed
+to force me to speak about her marriage,
+when she was your sister? Well then, I shall.
+I will not stay silent about the details,
+when you have gone to such great lengths to talk
+1160
+[980]
+
+of sacrilegious things. She gave birth to me—
+yes, alas for me, she was my mother.
+But I did not know that, and nor did she.
+
+And she had children with the son she bore,
+to her great shame. But this one thing I know—
+you freely choose to heap insults on us,
+but I did not freely choose to marry her,
+nor do I ever choose to mention it.
+No, I will not be called an evil man
+because I married her and killed my father,
+1170
+
+that death you keep on hurling in my teeth,
+always abusing me with bitter insults.
+[990]
+
+Here is a question. How would you answer?
+If someone were to march in here right now
+and attempt to kill you, you righteous man,
+would your first response be to ask the killer,
+“Are you my father?” or to fight him back?
+It seems to me that, if you love your life,
+you would fight back against the murderer,
+not search for what was legally correct.
+1180
+
+That is how I was led on by the gods
+and embarked upon a life of evils.
+I do not think my father’s ghostly shade,
+if it came back to life, would contradict me.
+But because you are not a righteous man,
+[1000]
+
+you think you can say anything at all,
+without considering if what you speak
+is suitable or should not be mentioned.
+And so in front of all these people here
+you keep hurling accusations at me.
+1190
+
+You think it serves your purposes to flatter
+the great name of Theseus and Athens
+as a well-governed state. But when you praise,
+you forget that if there is one city
+that understands how to respect the gods
+that place is Athens—she excels in that.
+Yet it is from here you wished to steal me,
+an old man and a suppliant, as well.
+You laid hands on me, tried to drag me off,
+after having hauled away my daughters.
+1200
+
+So now I call upon these goddesses,
+[1010]
+
+I appeal to them, and with my prayers
+I beseech them to come to my aid here,
+
+to fight on my behalf, so you may learn
+the quality of those who guard this city.
+
+My lord, this stranger is a worthy man.
+His misfortunes have been devastating,
+but he deserves our help.
+
+We have talked enough!
+
+Those who took the girls are hurrying off,
+while we, the ones they robbed, are standing still.
+1210
+
+CREON
+
+I am a weak man. What would you have me do?
+
+I want you to lead us on the pathway
+to those girls, while I serve as your escort,
+so if you are keeping those two children
+[1020]
+
+in this place, you will personally show me
+where they are. But if those who have seized them
+are on the run, there is nothing we need do,
+for other men are chasing after them,
+from whom they never will escape and leave
+this land to give thank offerings to the gods.
+1220
+
+Come, then, lead on. And you might ponder this—
+the hunter has been hunted down, and Fate
+has seized you while you were stalking others.
+What people gain unjustly with a trick
+they do not keep, and no one else involved
+will help you in this matter. For I know
+you would not reach such heights of insolence
+and act so recklessly as you do now
+[1030]
+
+all on your own, without accomplices.
+You were relying on someone else’s help
+1230
+
+when you resolved to carry out this act.1
+
+I need to think further on this matter—
+
+1Theseus is apparently assuming that Creon has entered into a secret agreement with some unspecified
+Athenian conspirators before challenging Theseus’s royal authority by entering his territory. There is no
+mention of that elsewhere in the play or in other versions of the story.
+
+one man must not prove stronger than the state.
+Do these words of warning make any sense,
+or do they now seem as meaningless to you
+as what you heard when you were planning this?
+
+CREON
+
+Here in Athens, you can say what you wish.
+I will not object. But when I am home,
+I, too, will realize what must be done.
+
+THESEUS
+
+Make your threats, but move. And you, Oedipus,
+1240
+
+stay here, and do not worry. Trust this pledge—
+unless I die beforehand, I will not rest
+[1040]
+
+until I have restored your children to you.
+
+[CREON, THESEUS, and the ATTENDANTS leave.]
+
+OEDIPUS [calling after Theseus]
+
+Bless you, Theseus, for your noble heart
+and for your righteous care on my behalf!
+
+CHORUS
+
+O how I wish I could be there,
+where the enemy wheels to fight
+and quickly joins the battle clash,
+the clamour of Ares’ brazen spears,
+hard by the Phythian shore—
+1250
+
+or else beside the torch-lit strand
+where those two goddesses perform
+[1050]
+
+their sacred rites for mortal men
+whose tongues their holy ministers,
+the Eumolpidae, have silenced
+by placing there a seal of gold.1
+
+There, I think, our warlike Theseus
+and those two unmarried girls
+
+1The Chorus is here imagining the impending clash between Theseus and Creon, which, in their view, may
+take place either on the bay of Eleusis (“the Pythian shores”) or else at Eleusis, the centre of a major
+religious festival dedicated to the goddess Demeter (“beside the torch-lit shore”). In the next section they
+consider a third possibility. Ares is the god of war, and the goddesses referred to are Demeter and her
+daughter Persephone. The Eumolpidae were the priests of the religious rituals, responsible for ensuring the
+secrets of the divine mysteries.
+
+will soon meet in this land of ours,
+amid the cries of our brave fighting men.
+1260
+
+Or else they may be closing in
+on pastures west of Oea’s snowy peak,
+[1060]
+
+racing ahead on youthful horses,
+their chariots careening at full speed.
+Now Creon will be overthrown!
+Our men are terrifying in war,
+and Theseus’ troops are battle strong.
+Every bit and bridle glitters,
+as all our horsemen charge the foe,
+in honour of equestrian Athena
+1270
+[1070]
+
+and the god encircling the earth,
+lord of the sea, Rhea’s beloved son.1
+
+Have they already come to blows,
+or are our men about to fight?
+My mind is telling me to hope
+we soon will meet those two young girls,
+whose suffering has been intense,
+afflictions they have undergone
+at the blood-linked hands of their own kin.
+Today Zeus brings some great event
+1280
+
+to its fulfilment, its final end.
+I can foresee a glorious fight!
+O to be a dove on the wing,
+as strong and swift as a storming wind,
+to soar up high in the upper air
+[1080]
+
+and gaze from a cloud on the battle below!
+
+O Zeus, who watches everything,
+almighty king of all the gods,
+grant to defenders of this land
+the strength to win a victory,
+1290
+
+to catch the enemy unaware
+and end the chase successfully!
+
+1This tribute to the two main deities of Athens, Athena and Poseidon, identifies the former with the epithet
+hippeia (“of the horse,” “equestrian”), an association linked to her as the inventor of the chariot, and the
+latter by a common epithet “encircling the earth” and by a reference to his mother, Rhea, also the mother
+of the gods Zeus and Hades.
+
+And I pray that Pallas Athena,
+your reverend daughter, grants that, too,
+[1090]
+
+as well as Apollo, the hunter god,
+and with him his sister Artemis,
+who tracks swift-moving speckled deer—
+O may they bring their two-fold help,
+assisting Athens and our citizens.
+
+[Enter THESEUS, ANTIGONE, ISMENE, and ATTENDANTS.]
+
+CHORUS [to OEDIPUS]
+
+Well, my wandering friend, you cannot say
+1300
+
+those watching out for you are lying prophets—
+I see your daughters being escorted back.
+
+OEDIPUS
+
+What? Where are they? What are you talking about?
+
+ANTIGONE
+
+O father, father, I wish one of the gods
+[1100]
+
+would let you see this very best of men,
+who brought us here and led us back to you.
+
+OEDIPUS
+
+My child, are you really here, both of you?
+
+ANTIGONE
+
+Yes—saved by the strong hands of Theseus
+and his most loyal comrades.
+
+OEDIPUS
+
+O children,
+
+come to your father and let me hold you.
+1310
+
+I was losing hope you would be coming back.
+
+ANTIGONE
+
+You will get your wish. That embrace you want
+is what we long for.
+
+OEDIPUS
+
+Where are the two of you?
+
+We’re coming—both of us together.
+
+[ANTIGONE, ISMENE, and OEDIPUS embrace]
+
+OEDIPUS
+
+My dearest children!
+
+ANTIGONE
+
+To any father
+
+every child is dear.
+
+OEDIPUS
+
+An old man’s support . . .
+
+ANTIGONE
+
+With a destiny as wretched as his own.
+
+OEDIPUS
+
+I am now holding those I love the most.
+[1110]
+
+If I should die with you two beside me,
+I could not be entirely unhappy.
+1320
+
+O children, hold me close—one on each side—
+cling to your father, help him recover
+from his past days of lonely wandering,
+a life of misery. And now tell us
+what you went through, but keep the speeches short—
+from girls like you a brief word is enough.
+
+ANTIGONE
+
+Father, the one who rescued us is here.
+He is the one you should be listening to,
+the man who did it. What I have to say
+will not be much.
+
+OEDIPUS [to THESEUS]
+
+You must not be amazed,
+1330
+
+my friend, that I keep talking for so long
+[1120]
+
+to these children, so suddenly restored.
+For I know that my present joy in them
+I owe entirely to you. You saved them—
+you and no one else. And may gods grant
+to you and to this land what I would wish,
+
+for among all those living on the earth
+only here with you have I encountered
+men of piety and just character
+who tell no lies. I know that about you,
+1340
+
+and I pay tribute to your qualities
+with these words of mine. Everything I have
+I have because of you and no one else.
+O royal king, hold your right hand out to me,
+[1130]
+
+so I can touch it. If it is lawful,
+let me be permitted to kiss your cheek.
+But what am I saying? A wretch like me,
+how could I want you to touch a man
+in whom every form of defiling stain
+has found a home? No, I will not touch you.
+1350
+
+That is an action I cannot permit,
+not even if you yourself were willing.
+Only those mortals who have been with me
+in my misfortunes can share my suffering.1
+
+So from where you stand accept my gratitude,
+and, as you have done up to this moment,
+deal with me justly in the days to come.
+
+THESEUS
+
+Given your delight in these two children,
+I am not surprised your conversation
+[1140]
+
+has taken some time or that you prefer
+1360
+
+to talk to them before you talk to me.
+I can find no offence to me in that.
+I do not wish to add lustre to my life
+through the words I speak, but by what I do.
+And I have demonstrated that to you,
+old man, for my word has not proven false
+in any of those promises I made.
+I am here, having brought back your daughters
+alive and unharmed by the threats they faced.
+As for how we triumphed in that struggle,
+1370
+
+why should I vainly boast about a fight
+
+1These lines indicate that Oedipus still feels he is suffering from religious pollution. Hence, anyone who
+shows him affection (e.g., by touching) runs the risk of being contaminated. Those who have been with
+him throughout his suffering run no such risk, since they have long been in frequent physical contact with
+him.
+
+whose details you will hear from these two girls
+when you get to spend some time together.
+But a moment ago, on my way here,
+[1150]
+
+I heard an odd report, and I would like
+to learn what you advise. It was quite short,
+but very strange and worth attending to,
+for men should never overlook anything
+that might be of concern.
+
+OEDIPUS
+
+What did it say,
+
+son of Aegeus? Describe it to me.
+1380
+
+Otherwise I have no idea at all
+what you wish to know.
+
+THESEUS
+
+People say a man,
+
+someone who is a relative of yours
+but not from Thebes, has somehow made his way
+to Poseidon’s altar and is sitting there,
+where I was offering a sacrifice
+the first time I was summoned here.
+
+OEDIPUS
+
+Where is he from?
+[1160]
+
+If he’s a suppliant, what does he want?
+
+THESEUS
+
+From what people tell me, I only know
+he wishes to have a brief word with you
+1390
+
+about some minor matter.
+
+OEDIPUS
+
+What about?
+
+If he’s there sitting as a suppliant,
+the issue is not trivial.
+
+THESEUS
+
+They say
+
+he only wants to have a talk with you
+and then safe passage to return from here.
+
+What man would sit there praying for such things?
+
+Could it be a member of your family,
+someone from Argos, who might be asking
+a favour from you?
+
+Stop there, my dear friend!
+
+What’s troubling you?
+
+OEDIPUS
+
+You must not ask me to . . .
+1400
+
+THESEUS
+
+Do what? Tell me.
+[1170]
+
+OEDIPUS
+
+From what you said just now,
+
+I know the suppliant.
+
+THESEUS
+
+Who is he?
+
+And why should I find him offensive?
+
+OEDIPUS
+
+My lord, he is a son of mine, a person
+I detest. What he has to say would pain me
+more than words from any other man.
+
+THESEUS
+
+What? Could you not just listen to him speak
+and then not do what you don’t wish to do?
+Is there any harm in merely listening?
+
+OEDIPUS
+
+My lord, his voice has become abhorrent
+1410
+
+to me, his father. Do not compel me
+to yield to his request.
+
+But consider this—
+
+does not the fact that he’s a suppliant
+force your hand? What about the reverence
+you owe the god?
+[1180]
+
+ANTIGONE
+
+Father, listen to me.
+
+Though I am young, I’ll offer my advice.
+Permit the king to act as his own heart
+and the god dictate and do what he desires.
+And for the sake of your two daughters,
+let our brother come here. You need not fear.
+1420
+
+His words cannot force you to change your mind,
+if what he says is not for your own good.
+What harm is there in listening to him?
+As you know, a conversation can expose
+malicious acts someone intends to do.
+Besides, he is your son, and even if
+[1190]
+
+he harmed you with the most immoral act,
+for you to take revenge by hurting him,
+father, would not be right. So let him come.
+Other men have evil sons who make them
+1430
+
+intensely angry, but when they listen
+to advice from friends, then, as if spellbound,
+their mood softens and they are pacified.
+Set aside the present—think of the past,
+the sufferings your parents made you bear.
+If you consider that, then I am sure
+you’ll recognize how an evil temper
+can lead to catastrophic consequences.
+This is a serious matter, and you
+[1200]
+
+have every reason to reflect on it—
+1440
+
+you have no eyes and can no longer see.
+Do what we ask. For it is not proper
+that those pleading on behalf of justice
+should have to persist with their entreaties,
+nor is it appropriate that someone
+
+who has been treated kindly does not know
+how to show such kindness in return.1
+
+My child,
+
+what you desire is difficult for me.
+However, your speech has won me over.
+We will do as you wish. But still, my friend,
+1450
+
+if that man does come here, I only pray
+that no one will end up controlling me.
+
+THESEUS
+
+I do not need to hear you say that twice.
+Once is enough. I do not wish to boast,
+old man, but you should surely understand
+you are quite safe, if gods keep me alive.
+[1210]
+
+[THESEUS and his ATTENDANTS leave.]
+
+CHORUS
+
+A man desperate for many years of life,
+not content to live a moderate span,
+is, in my judgment, obviously a fool.
+For many feelings stored by lengthy years
+1460
+
+evoke more pain than joy, and when we live
+beyond those years that are appropriate,
+then our delights are nowhere to be found.
+The same Deliverer visits all of us,
+[1220]
+
+and when our fate from Hades comes at last,
+there is no music, dance, or wedding song—
+no—only the finality of Death.
+
+The finest of all possibilities
+is never to be born, but if a man
+sees the light of day, the next best thing by far
+1470
+
+is to return as quickly as he can,
+to go back to the place from which he came.
+For once the careless follies of his youth
+[1230]
+
+have passed, what harsh affliction is he spared,
+
+1Antigone’s obvious point here is that in his past actions Oedipus has let his explosive temper take control
+of his actions, with disastrous effect. The most obvious evidence for that is his self-inflicted blindness.
+
+what suffering does he not undergo?
+Envy and quarrels, murder, strife and war,
+until at last he reaches his old age,
+rejected and alone, unloved and weak,
+a state where every form of sadness dwells.
+
+That is where I live, but not alone,
+1480
+
+for suffering Oedipus is there as well—
+like some north-facing cliff beside the sea
+[1240]
+
+lashed on every side by winter blasts,
+beaten constantly by breaking waves
+of violent disaster, storms which come
+from western regions of the setting sun,
+or eastern countries where it rises,
+or southern realms of noontime heat,
+or northern mountains, dark as night.
+
+ANTIGONE
+
+Look there! It appears as if the stranger
+1490
+
+is coming here alone, without an escort.
+[1250]
+
+Father, he has tears streaming from his eyes.
+
+OEDIPUS
+
+Who is he?
+
+ANTIGONE
+
+The one we talked about just now—
+
+it’s Polyneices. He’s coming closer!
+
+[Enter POLYNEICES. He greets ANTIGONE and ISMENE first.]
+
+POLYNEICES
+
+Alas, my sisters, how should I begin?
+Should I lament my own misfortunes first
+or my father’s troubles? I see him here,
+an old man, and I find him with you
+cast out in a foreign land, an exile,
+dressed in such disgusting clothes—so filthy
+1500
+
+the grime from years ago is now engrained
+in his old flesh, putrefying his skin.
+[1260]
+
+Above those empty sockets in his face
+his wild dishevelled hair blows in the wind,
+
+and I suppose the food he has with him
+is just the same, scraps for his poor belly.
+I am a wretch to learn of this too late!
+
+[POLYNEICES turns his attention to OEDIPUS.]
+
+I admit that in the care I’ve shown for you
+I’ve proved myself the very worst of men—
+and I’m the one confessing this to you!
+1510
+
+But since in all he does Zeus shares his throne
+with divine Compassion, let that goddess
+inspire you, father. For the wrongs I did
+can be made good—I cannot make them worse.
+[1270]
+
+Why are you silent? Say something, father.
+Do not turn aside! Will you not answer me?
+Will you dishonour me—send me away
+without uttering a word or telling me
+why you are so angry?
+
+[OEDIPUS refuses to acknowledge POLYNEICES]
+
+Come, my sisters,
+
+you are this man’s daughters. You, above all,
+1520
+
+should try to ease that stubborn tongue 0f his
+which makes him so difficult to talk to.
+Otherwise he will never speak to me
+and will dismiss me in disgrace from here,
+where I stand a suppliant to the gods.
+
+ANTIGONE
+
+You poor unfortunate, tell him yourself
+[1280]
+
+the reason you came here. A moving speech
+may well awaken pleasure, rage, or pity
+and rouse a silent listener to speak.
+
+POLYNEICES
+
+You have advised me well. I will speak out.
+1530
+
+And to begin with, I appeal for help
+to lord Poseidon, for at his altar
+the king of Athens told me to stand up
+and come here, giving me assurances
+I could listen and speak and leave unharmed.
+
+I trust these promises will be observed,
+strangers, by you, by both my sisters here,
+and by my father, too. And now, father,
+[1290]
+
+I want to tell you the reason I am here.
+I have been driven from my native land
+1540
+
+into exile because, as your elder son,
+I thought the right to sit upon your throne
+and wield your royal power belonged to me.
+But then Eteocles, my younger brother,
+forced me out of Thebes, not by prevailing
+with legal arguments or trial by combat,
+but by persuading Thebes to back his side.
+The most important cause of this, in my view,
+is that old curse placed on your family,
+an opinion I have heard from prophets, too.
+1550
+[1300]
+
+And so I went to Dorian Argos,
+made king Adrastus my father-in-law,
+and bound to me as sworn companions
+all the most celebrated warriors
+in Apian lands, so that with these allies
+I might levy an armed force of spearmen
+in seven companies to march on Thebes
+and die in a just cause or else drive out
+the people who had treated me this way.1
+
+What then do I now seek by coming here?
+1560
+
+Father, I have come to you in person
+pleading for your help—with prayers from me
+and from my comrades, those seven spearmen,
+who with their seven armies now surround
+the entire Theban plain. Of those leaders,
+one is spear-hurling Amphiaraus,
+an expert warrior and preeminent
+in reading omens in the flights of birds.
+The second chieftain there is Tydeus,
+from Aetolia, son of Oeneus.
+1570
+
+The third is Argive-born Eteoclus;
+the fourth is Hippomedon, sent to Thebes
+by Talaos, his father. The fifth of them,
+
+1The words Dorian and Apian in these lines both refer to the Peloponnese. The word Argos by itself can
+refer to a number of different places in ancient Hellas.
+
+Capaneus, boasts he will burn Thebes
+and utterly obliterate the city.
+The sixth, Arcadian Parthenopaeus,
+[1320]
+
+is eager for the fight. He gets his name
+from Atalanta, who was his mother.
+She remained a virgin for many years
+before she married and gave birth to him.
+1580
+
+I am the seventh of them, your own son,
+or if not yours, a child of evil fate,
+although I may be yours in name. 1 I’ve brought
+to Thebes a valiant force of Argives.
+Each and every one of us implores you,
+as you love your daughters and your life,
+pleading with you, father, to put aside
+that oppressive rage you feel against me,
+as I set out to pay my brother back.
+He forced me into exile and robbed me
+1590
+[1330]
+
+of my native land. For if we can trust
+in prophecy, then those allied with you,
+so say the oracles, will win the day.
+So by our fountains and our family gods,
+I’m begging you to listen and relent.
+For I am a stranger and a beggar
+on foreign soil, and so are you, as well.
+You and I both share a similar fate—
+we get a place to live by flattery,
+paying court to others, while my brother,
+1600
+
+unhappily for me, lives in the palace,
+an arrogant tyrant mocking both of us.
+If you become our ally in this fight,
+[1340]
+
+I’ll scatter his armed forces to the winds—
+that won’t be difficult or take much time—
+and then I’ll bring you back and set you up
+in your own home and me in mine and drive
+Eteocles away by force. All this
+I promise to achieve with your support.
+Without you, I shall not return alive.
+1610
+
+1Eteoclus, the Argive leader in the force Polyneices has assembled, should obviously not be confused with
+Eteocles, Polyneices’ younger brother. The name Parthenopaeus means “child of the maiden” or “child of
+the virgin.” Polyneices words mean, in effect, “I am your son, but if I am not (because you have disowned
+me), then I am the child of fate, even if among the general public I am still considered your child.”
+
+For the sake of the king who sent him here,
+Oedipus, make a suitable response
+before you send him on his way.
+
+OEDIPUS [to the CHORUS]
+
+You men,
+
+guardians of this land, if Theseus
+were not the one who sent this man to me,
+thinking it right that I should speak to him,
+[1350]
+
+then he would never hear me say a word.
+But since you all insist he ought to have
+an audience with me before he leaves,
+let him hear what I have to say—my words
+1620
+
+will never bring his life the slightest joy.
+
+[OEDIPUS turns his attention to POLYNEICES]
+
+You there, you most despicable of men,
+when you were on the throne and held the sceptre,
+the power your brother now wields in Thebes,
+you hounded me, your father, from the land,
+pushed me into exile, and made me wear
+these garments which, when you look at them now,
+bring tears into your eyes, because you find
+your life is just as miserable as mine!1
+
+For me there is no point in shedding tears—
+1630
+[1360]
+
+while I am still alive, I must endure it,
+remembering that you’re my murderer.
+You forced me to live in this wretched state!
+You two banished me, and because of you,
+I am a vagrant, begging every day
+for bread from strangers. If I had not fathered
+these two daughters, who serve as my support,
+I would have died for lack of help from you.
+But now these girls are looking after me—
+
+1This detail perhaps adds to the minor confusion about the chronology of political rule in Thebes.
+According to lines 400 ff. above, after Oedipus blinded himself, his sons deferred to the authority of Creon,
+who ruled as regent, and it seems they began their fight after Oedipus went into exile. Creon himself
+speaks as if he has sole regal authority in Thebes, but we are told (by Polyneices and Oedipus) that Eteocles
+is now the ruling king. There has been no suggestion up to this point that Polyneices was ever de facto king
+of Thebes, although, as he says, he is the elder son and therefore, in his eyes, the rightful heir.
+
+they provide for me and share my suffering.
+1640
+
+They are like men, not women. But you two,
+you are both bastards, born from someone else,
+no sons of mine! And so the eye of god
+[1370]
+
+is watching you—but not as it will soon,
+if your armies mean to march on Thebes.
+For you will never overwhelm that city.
+Before that happens, you and your brother
+will fall, polluted by each other’s blood.
+And now I summon those very curses
+I called down earlier against you both.
+1650
+
+I cry to them to come to my assistance,
+so that the two of you will understand
+those who bore you are worthy of respect.1
+
+It is not right to treat them with contempt,
+because a father who had sons like you
+has lost his eyes. These girls did not do that.
+And so if Justice established long ago
+[1380]
+
+and sanctioned by our ancient laws still sits
+alongside Zeus, these curses I call down
+will overpower your suppliant prayers
+1660
+
+and all claims to the throne. Get out of here!
+I spit you out! You are no son of mine!2
+
+You most contemptible of evil men!
+Take with you these prayers I make on your behalf—
+may your armies never overwhelm that land
+where you were born, may you never return
+to the land of Argos, but rather die
+at the hand of the one of your own kinsmen,
+and kill the man who drove you out of Thebes!
+That is what I pray for. And I call on
+1670
+
+the dreadful paternal dark of Tartarus
+[1390]
+
+1Jebb offers the useful note that curses, once uttered, become divine agents of vengeance. Oedipus is
+therefore calling for the agents created by his earlier curses against his two sons to come to his assistance
+now.
+
+2Oedipus is claiming here that his curse on Polyneices will defeat any legal claims Polyneices may have to
+justify his attack on Thebes (both as a suppliant and as the elder son) because ancient natural Justice
+demands that children respect their parents, a law that is more powerful than any Polyneices can appeal to.
+
+to deliver you to your new dwelling place.1
+
+I invoke the spirits here, the Furies,
+and summon Ares, god of war, who set
+such lethal hatred in the two of you!
+You have heard what I have spoken. Now leave.
+Proclaim to all the citizens of Thebes
+and to your loyal confederates, as well,
+that Oedipus has handed out these gifts
+as royal bequests to his two sons.
+
+CHORUS
+
+Polyneices,
+1680
+
+the journey you have made brings me no joy—
+and now you must return without delay.
+
+POLYNEICES
+
+So much for my trip here—it’s a disaster.
+Alas for my companions! This is the end
+[1400]
+
+of the road we marched when we left Argos—
+unhappily for me! I cannot speak of this
+to any of my friends or turn them back.
+I must stay silent and confront my fate.
+But you, my sisters, daughters of this man,
+you have heard our father’s brutal curses.
+1690
+
+If what he is praying for is fulfilled
+and you get back to Thebes, then I beg you,
+by all the gods, do not leave my body
+to be dishonored. Set me in a tomb,
+and have me buried with full funeral rites.
+[1410]
+
+If you do that, the praises you both earn
+from this man for the help you two provide
+will be increased by no less generous praise
+you will receive for looking after me.
+
+ANTIGONE
+
+Polyneices, listen to me, I beg you!
+1700
+
+1Tartarus is a deep pit in Hades, usually associated with punishment and imprisonment. The word
+“paternal” may refer to the idea that darkness is the father of everything or that Polyneices will be going to
+a place as dark as the world of his father, Oedipus.
+
+POLYNEICES
+
+Dearest Antigone, what is it? Speak out.
+
+ANTIGONE
+
+Turn your forces back—and do it quickly.
+Return to Argos. Do not ravage Thebes
+and destroy yourself.
+
+POLYNEICES
+
+That is not possible.
+
+Once I turn back because I am afraid,
+how could I ever lead that force again?
+
+ANTIGONE
+
+Again? Why, brother, would you ever again
+[1420]
+
+get so angry? How do you benefit
+from destroying the city of your birth?
+
+POLYNEICES
+
+It is dishonourable to live in exile
+1710
+
+and to be made a laughing stock like this,
+when I’m the elder son.
+
+ANTIGONE
+
+But don’t you see
+
+you will be confirming the prophecies
+our father uttered? They are predicting
+you and Eteocles will kill each other.
+
+POLYNEICES
+
+That’s what he wants. But I cannot give up.
+
+ANTIGONE
+
+Alas, that is insufferable for me!
+But who will follow you once he has heard
+what has been prophesied?
+
+POLYNEICES
+
+I will not tell them
+
+such a grim prediction. A proper leader
+1720
+
+conveys good things and hides unwelcome news.
+[1430]
+
+Are you resolved to do this, my brother?
+
+POLYNEICES
+
+I am. Do not attempt to hold me back.
+This ill-fated, catastrophic path is now
+the one destined for me, thanks to my father
+and his avenging Furies. But for you two,
+my sisters, may Zeus provide rich favours,
+if you will carry out full burial rites
+for me when I am dead. There’s nothing more
+you can perform for me while I still live.
+1730
+
+So let me set out on my way. Farewell.
+You will not see me in this life again.
+
+ANTIGONE
+
+I am so wretched!
+
+POLYNEICES
+
+Do not feel sad for me.
+
+ANTIGONE
+
+Who would not feel sad for you, my brother,
+when you are marching off to certain death?
+[1440]
+
+POLYNEICES
+
+If it is my fate, then I shall die.
+
+ANTIGONE
+
+No!
+
+Listen to me instead!
+
+POLYNEICES
+
+Do not keep pleading
+
+for what will never happen.
+
+ANTIGONE
+
+If I lose you,
+
+my life will have no joy.
+
+POLYNEICES
+
+Fate will decide
+
+one way or the other. As for you both,
+1740
+
+may gods grant you never meet disaster,
+for all men know you two do not deserve
+a life of suffering and misery.
+
+[POLYNEICES leaves. There is a rumble of thunder in the distance.]
+
+I sense the approach of fresh misfortune,
+a new load of grief from this blind stranger,
+unless Fate is now perhaps approaching
+[1450]
+
+its predestined end, for I cannot say
+decisions of the gods stay unfulfilled.
+Time keeps watch and always sees these things—
+one day it casts some down, and on the next
+1750
+
+it raises others up once more.
+
+[There is another peal of thunder, this time much closer than before.]
+
+O Zeus,
+
+your heavenly skies reverberate!
+
+OEDIPUS
+
+My children, if there is anyone here,
+tell him to summon Theseus back,
+that finest of all men.
+
+ANTIGONE
+
+Why, father?
+
+Why do you want us to send for Theseus?
+
+OEDIPUS
+
+Zeus’s winged thunder will soon lead me
+[1460]
+
+on to Hades. Send someone now—and quickly!
+
+[Thunder peals again, sounding very close, and lightning flashes.]
+
+CHORUS
+
+Listen! The crash of an immense thunderbolt
+hurled down by Zeus—my scalp bristles,
+1760
+
+overwhelmed with fear, my heart recoils!
+
+Lightning blazes once more through the sky!
+What final purposes are being revealed?
+
+I am afraid. Such fire from Zeus
+never flashes down in vain, not without
+[1470]
+
+some great calamity.
+
+[Another peal of thunder breaks above them.]
+
+O mighty heavens! O Zeus!
+
+OEDIPUS
+
+My children, for me the destined end of life
+is drawing near. There is no turning back.
+
+ANTIGONE
+
+How do you know? What signs have you received?
+
+OEDIPUS
+
+I sense it clearly. Get someone to go
+1770
+
+and fetch the king as quickly as he can.
+
+[More peals of thunder and flashes of lightning.]
+
+CHORUS
+
+Listen! Listen to that! The piercing noise
+is all around us once again!
+
+O god,
+
+be gracious to us—show us your mercy,
+[1480]
+
+if you are bringing some catastrophe
+to Athens, our maternal home.
+
+May I find you
+
+generous to us—if I have looked upon
+a man polluted by his acts, do not,
+I beg you, somehow let me share his curse
+or favours that bring no benefit to me!
+1780
+
+O Zeus on high, I cry out to you!
+
+OEDIPUS
+
+My children, is lord Theseus nearby?
+When he gets here will I still be alive
+with my mind intact?
+
+What trustworthy pledge
+
+do you wish to plant within his heart?
+
+In return for the goodwill I received,
+I will do him a favour by fulfilling
+[1490]
+
+everything I promised earlier.
+
+CHORUS
+
+Come, my son, come here to us!
+If you by chance are at the altar
+1790
+
+in the deepest corner of the grove
+offering an ox to god Poseidon,
+lord of the sea, then come to us.
+This stranger thinks it only just
+that you, your city, and your friends
+receive a favour for those benefits
+you have so graciously conferred on him.
+My lord, make haste! Come quickly!
+
+[THESEUS enters.]
+
+THESEUS
+
+What is this noise? Why are you once again
+[1500]
+
+all making such a din—it’s clearly coming
+1800
+
+from you citizens and from the stranger, too.
+Were you frightened by a thunderbolt from Zeus
+or driving showers of hail? When a god
+unleashes a ferocious storm like this,
+it can presage all sorts of things to come.
+
+OEDIPUS
+
+My lord, I have been hoping you were here—
+some god has seen to it that you arrive
+at a propitious time.
+
+THESEUS
+
+Son of Laius,
+
+What is going on? Is it something new?
+
+For me life moves beyond its tipping point.
+1810
+
+I do not wish to die without confirming
+the promises I made to you and Athens.
+
+THESEUS
+
+What omens tell you that your death is near?
+[1510]
+
+The messengers who announced the news to me
+are the gods themselves. They have not proven false,
+for they have shown me the appointed signs.
+
+THESEUS
+
+What are these fatal signs, old man? Tell me.
+
+All those frequent rolling peals of thunder
+and many lightning flashes hurtling down
+from an invincible hand.
+
+THESEUS
+
+You have convinced me.
+1820
+
+From your many prophecies I have learned
+you do not lie. Tell me what I must do.
+
+OEDIPUS
+
+Son of Aegeus, I will set out for you
+the glories that lie in store for Athens
+and that never will diminish with old age.
+In a moment I myself will lead the way
+[1520]
+
+to the place where I must die. I will need
+no hand to guide me. You must not ever
+divulge this place to any mortal man
+by revealing its concealed location
+1830
+
+or the general area where it lies,
+so that for all time it may protect you
+more effectively than shields and spears
+or many foreign allies. You yourself
+will learn, once you enter that place alone,
+forbidden things of which no one may speak.
+I would not talk of them to any citizen
+
+or to my children, although I love them.
+You must always keep these matters secret,
+[1530]
+
+and when your life is coming to an end,
+1840
+
+reveal them to your most important heir—
+to him alone. He must always pass them on
+to his successor. If you keep doing this,
+then life in Athens will never be disrupted
+by citizens born from the dragon’s teeth.1
+
+Even if in countless cities men live well,
+they find it all too easy to commit
+outrageous crimes, for gods are slow to act,
+although they clearly intervene when men
+abandon piety and turn to madness.2
+1850
+
+Son of Aegeus, do not let that happen.
+But I am stating what you know already.
+But since what comes from god urges me on,
+[1540]
+
+let us set off for the designated place
+and hesitate no longer.
+
+[OEDIPUS turns his attention to ANTIGONE and ISMENE.]
+
+My children,
+
+follow me, for though it seems new and strange,
+I will once more show both of you the way,
+just as you two used to guide your father.
+So move on. Do not lay a hand on me.
+Let me find the sacred burial ground myself,
+1860
+
+where Fate has ordained I will lie hidden
+here in Athens. This way—follow my lead.
+Hermes the Guide and the goddess of the dead,
+Persephone, are showing me the path.
+O light, that is no light to me, though once,
+in earlier days, my eyes could see you,
+now for the last time you caress my body.
+[1550]
+
+For already I am shuffling on my way
+
+1The founder of Thebes, Cadmus, killed a dragon living at the site of the future city. When he sowed the
+monster’s teeth across the earth, armed men sprang up and began fighting and killing each other, until
+only a few were left. These men were the first Thebans.
+
+2The point here is that even well-governed cities will suffer from the hubristic ambitions of some citizens
+because, although the gods will eventually punish evil citizens, such divine retribution is slow and
+therefore the troublemakers will have time to disrupt civic life.
+
+to hide the final portion of my life
+in Hades.
+
+[OEDIPUS stops to address THESEUS.]
+
+But you, most cherished stranger,
+1870
+
+may you, your followers, and your land
+fare well, and may you, in your prosperity,
+remember me, as I move to my death,
+and may you have good fortune evermore.
+
+[OEDIPUS, ANTIGONE, ISMENE, and THESEUS move off together.]
+
+CHORUS
+
+If by our traditions it is right
+for me to worship with my prayers
+the unseen goddess, as well as you,
+lord of the dead, then Aidoneus,
+O Aidoneus, I entreat you—
+[1560]
+
+may the stranger move on free of pain
+1880
+
+or heavy grieving for his fate
+to the all-concealing fields of dead
+and the chamber of the Styx below.1
+
+Through no fault of his own he met
+great torments, but may a righteous god
+restore his splendour once again.
+
+O goddesses of the lower world
+and you, the unconquerable beast,
+whose body lies, so people say,
+beside the gate of countless guests,
+1890
+[1570]
+
+snarling at the entry to your cave,
+invincible guardian of Hades,
+O child of Earth and Tartarus,
+I pray the path the stranger treads
+may be left clear, as he moves on
+
+1Aidoneus is another name for Hades, god of the underworld. The “unseen goddess” is Persephone, wife of
+Hades. The name “Styx” refers to the river separating the earth and the underworld. The word also often
+designates the underworld generally.
+
+to fields of the dead below.
+I cry to you, lord of eternal sleep.1
+
+[A MESSENGER enters.]
+
+MESSENGER
+
+Citizens, the news I will report is brief—
+Oedipus is dead. But I cannot provide
+[1580]
+
+details of his death in a short report,
+1900
+
+since what went on there lasted for some time.
+
+CHORUS
+
+Has that unfortunate man died at last?
+
+MESSENGER
+
+You can rest assured—he has left this life.
+
+CHORUS
+
+How did the poor man die? Was his passing
+divinely ordered and free of pain?
+
+MESSENGER
+
+To tell the truth,
+
+his death inspired wonder. How he left here
+you already know, since you were present.
+None of his loved ones led him on his way.
+Instead, he acted as a guide for all of us.
+When he came to the steep cleft that plunges
+1910
+[1590]
+
+down the bronze stairway rooted deep in earth,
+he stopped near one of the many pathways
+which converge by a hollow in the rock
+where Theseus and Peirithous set up
+the lasting pledge of their eternal bond.
+He stood halfway between the basin there
+and the Thorician rock, with the stone tomb
+and the hollow pear tree on either side.
+There he sat down, took off his filthy clothes,
+
+1The “goddesses in the lower world” are probably the Furies, the divine agents of blood revenge, and the
+“beast” is a reference to Cerberus, a dog with several heads (the number varies from one account to another)
+who is a resident of Hades, with a lair near the entrance to the underworld. It is not clear to whom the
+phrase “child of Earth and Tartarus” refers, since it does not describe the parentage of Cerberus (perhaps it
+is a general reference to Death, the “lord of eternal sleep”).
+
+and, after calling for his daughters, asked them
+1920
+
+to bring him water from a flowing stream,
+so he could wash and offer a libation.1
+
+The two of them went up the rocky hill
+of fresh, green Demeter, which we could see,
+[1600]
+
+soon came back with what their father wanted,
+and then, following our usual customs,
+washed and dressed him.2 When they were finished
+and had done all that Oedipus requested,
+without ignoring any of his wishes,
+at that moment Zeus of the Underworld
+1930
+
+produced a peal of thunder.3 The young girls
+heard the noise and trembled. Then they collapsed,
+falling at their father’s knees and weeping.
+They kept on striking their breasts and wailing,
+voicing their pain with loud and bitter cries.
+When he heard these sudden howls of sorrow,
+[1610]
+
+Oedipus held them in his arms and said,
+“Children, today your father is no more.
+Everything I was has perished, and you two
+will no longer share the heavy burden
+1940
+
+of looking after me. Children, I know
+that task was difficult, but a single word
+makes up for all your labours, for never
+will you find anyone whose love for you
+is greater than the love you both received
+from the man who was your father. And now,
+for all the days remaining in your lives,
+you will not have him with you anymore.”
+They remained like this, holding one another,
+[1620]
+
+1For an explanation of the “bronze stairway” as the threshold of the descent to Hades, see Footnote 1 on p. 7
+above. Peirithous was king of the Lapiths and a close friend of Theseus. In a famous heroic exploit, the two
+men together went down to the underworld, were captured by Hades, and then rescued by Hercules. The
+“lasting pledge” is some sort of memorial to their friendship. Thoricus was a town in Attica. Jebb notes that
+in a legendary story Thoricus was a place where a mortal called Cephalus was taken up to the gods and that
+the “hollow pear tree” may mark the spot where Persephone was abducted by Hades and taken down to the
+underworld (i.e., they are references to places where the gods took some mortal being away).
+
+2Demeter was a goddess protecting crops. She was worshipped in various manifestations (Black Demeter,
+Green Demeter, Yellow Demeter—symbolizing the different stages of the crop cycle—black earth, the first
+appearance of a young crop, and harvest time).
+
+3Zeus is traditionally a god associated with the sky and heaven, but some Greek cities worshipped Zeus as a
+god of earth or of under the earth.
+
+all of them distraught with grief and sobbing.
+1950
+
+Then they paused and stopped their mournful wailing.
+They made no sound, and everything was still.
+Suddenly a voice called out to Oedipus.
+It made the hairs on all our heads stand up—
+we were so terrified! Again and again
+the god cried out to him from every side,
+“You there, you, Oedipus, why this delay
+in our departure? You have been lingering
+for far too long.” Once he became aware
+the god was summoning him, Oedipus
+1960
+
+asked lord Theseus to come up to him,
+[1630]
+
+and when the king did so, Oedipus said,
+“My dear friend, give me the time-honoured pledge
+of your right hand for my children, and you,
+my daughters, give him your sworn pledge, as well.
+My lord, promise you will not betray them
+of your own free will but will always do
+whatever you believe is best for them.”
+Since Theseus is an honorable king,
+he showed no sign of sorrow and agreed
+1970
+
+to fulfil that promise for the stranger.
+Once Theseus had sworn he would do this,
+Oedipus suddenly clutched his daughters
+with his blind hands and said to them, “Children,
+you must bear my death with a noble heart
+[1640]
+
+and leave this place. For you cannot believe
+it is appropriate to view those acts
+which our traditions say should not be seen
+or listen to things said you should not hear.
+You must go now—and quickly. Let Theseus,
+1980
+
+the sovereign king, stay and learn what happens.”
+All of us heard him say these words and then,
+full of sorrow, with our eyes streaming tears,
+we followed the young girls and left the place.
+Once we moved off, after a few moments
+we looked back from a distance and noticed
+Oedipus was no longer to be seen.
+Theseus was alone, holding his hands up
+[1650]
+
+right before his face to protect his eyes,
+as if he had just seen something fearful
+1990
+
+that no human being could bear to see.
+And then, after that, a short time later,
+we saw Theseus offering a single prayer,
+worshipping divine Olympus and the Earth.
+How Oedipus met his fate and perished
+no mortal knows, other than Theseus.
+It was no fiery lightning bolt from god
+that took him away, nor was he carried off
+by some momentary whirlwind rising
+[1660]
+
+out at sea. No—some escort from the gods
+2000
+
+came for him or else, in an act of kindness,
+the rock-hard world of the dead split open
+so he would feel no pain. He passed away
+without a groan or symptom of disease.
+If any mortal man has ever died
+in a miraculous way, then he did.
+If someone thinks I talk just like a fool,
+I will not try to teach him otherwise,
+since he believes my words do not make sense.
+
+CHORUS
+
+Where are the ones who went away with him—
+2010
+
+his daughters and their friends?
+
+MESSENGER
+
+Not far away. The sound of their laments
+is getting closer—they are almost here.
+
+[ANTIGONE and ISMENE enter.]
+
+ANTIGONE
+
+Alas! This is so sad! Now the two of us,
+[1670]
+
+both subject to an abject destiny,
+will spend every moment grieving
+the family curse we carry in our blood,
+inherited from our father. For him
+before today we laboured long and hard.
+Now he is dead, and we are left to speak
+2020
+
+of what we saw and went through at the end,
+events that baffle reason.
+
+What happened?
+
+ANTIGONE
+
+One can only guess, my friends.
+
+Has Oedipus truly gone?
+
+ANTIGONE
+
+He has gone
+
+exactly as one might have wished—
+not seized by Ares, god of war,
+or by the sea, but snatched away
+[1680]
+
+by unseen fate and carried off
+to the hidden fields of death.
+I feel so sad! A death-filled night
+2030
+
+now shrouds our eyes. How do we find
+daily nourishment in a harsh life
+of wandering some distant land
+or roaming waves of the sea?
+
+ISMENE
+
+I do not know.
+
+Things are desperate! How I wish
+Hades the killer would seize me too
+and let me share death with my old father!
+For the life I face is not worth living.
+[1690]
+
+CHORUS
+
+You two most excellent of daughters
+must bear whatever gods provide.
+2040
+
+Do not let your hearts burn up
+in flames of excess passion—
+for what has happened to you here
+gives you no reason to complain.
+
+ANTIGONE
+
+One laments the loss of even painful things.
+That life for which I felt no love at all
+[1700]
+
+I did love when I held him in my arms.
+O my beloved father, now wrapped
+
+in the underworld’s eternal darkness,
+even though you are no longer here,
+2050
+
+my sister and I will love you always.
+
+CHORUS
+
+He ended . . .
+
+ANTIGONE
+
+He had the end he wished for.
+
+CHORUS
+
+In what way?
+
+ANTIGONE
+
+He perished in a foreign land,
+
+as he desired, and is eternally at rest
+beneath the ground in a well-shaded place.
+He did not leave us without being mourned.
+With tear-filled eyes I still grieve for you,
+my father, and in my unhappy state
+I do not know how I should relieve
+[1710]
+
+the grief I feel with such intensity.
+2060
+
+Alas! You wished to die in a strange land,
+but when you died I was not with you!
+
+ISMENE
+
+I feel so desperate! What fate awaits us,
+my dear sister, now we have no father?1
+
+CHORUS
+
+Friends, since the ending of his life was blessed,
+[1720]
+
+you should cease this grieving. No mortal
+has a life immune from great misfortune.
+
+ANTGONE
+
+Dear sister, we must hurry back.
+
+ISMENE
+
+But why?
+
+What do we have to do?
+
+1Some lines have been apparently been lost from this speech.
+
+I need to see it!
+
+ISMENE
+
+See what?
+
+ANTIGONE
+
+That earthly resting place.
+2070
+
+ISMENE
+
+Whose resting place?
+
+ANTIGONE
+
+I cannot bear this grief—
+
+I have to see our father’s burial ground!
+
+ISMENE
+
+But how does such a wish not break our laws?
+[1730]
+
+Don’t you see that?
+
+ANTIGONE
+
+Why do you disapprove?
+
+ISMENE
+
+And then there is also this . . .
+
+ANTIGONE
+
+What other things
+
+are you objecting to?
+
+ISMENE
+
+Our father perished
+
+without a grave—and no one else was there.
+
+ANTIGONE
+
+Lead me there, and then kill me, too.1
+
+ISMENE
+
+Alas for me, in my miserable state!
+
+1Ismene’s objections to Antigone’s desire to visit Oedipus’s resting place are that it opposes Oedipus’s
+express wishes (and is therefore not lawful) and that no one knows where the burial site is.
+
+Where am I now to spend this wretched life,
+2080
+
+with no support and totally abandoned!
+
+Do not fear, my friends.
+
+ANTIGONE
+
+But where do I take refuge?1
+
+CHORUS
+
+You have already found a place for that.
+
+ANTIGONE
+
+What are you saying?
+
+CHORUS
+
+You two have reached
+
+a place where you are safe from harm.
+[1740]
+
+ANTIGONE
+
+Yes, I understand that.
+
+CHORUS
+
+What else is there?
+
+What are you thinking?
+
+ANTIGONE
+
+I have no idea
+
+how we get home to Thebes.
+
+CHORUS
+
+Don’t even think of that!
+
+ANTIGONE
+
+This present trouble has us in its grip!
+
+1Jebb questions whether in this exchange (up to the arrival of Theseus) there might be some confusion in
+the way speeches have traditionally been assigned, since Antigone’s sudden and urgent concern about
+where she is to go now does not seem to fit her obviously strong preoccupation with visiting her father’s
+burial place as soon as possible. The speeches given to Antigone here seem much more appropriate coming
+from Ismene, who is clearly wondering about where she is to find a home now that Oedipus is dead. I have
+made no changes to the traditional arrangement, but I find Jebb’s observations interesting and I would
+probably try them out if I were mounting a production of the play).
+
+The evils you faced before were harsh enough.
+2090
+
+ANTIGONE
+
+Back then we had no hope. Now things are worse.
+
+You have been destined for a sea of troubles.
+
+ANTIGONE
+
+Yes, that is true.
+
+CHORUS
+
+That’s what it seems to me.
+
+ANTIGONE
+
+Alas! Alas! O Zeus, where do we go?
+Where is our destiny now driving us—
+towards what last remaining hope?
+[1750]
+
+[Enter THESEUS.]
+
+THESEUS
+
+Stop these laments, children! When gods below
+store up public favours for the dead,
+we must feel no sorrow—for if we do
+then retribution follows.1
+
+ANTIGONE
+
+Son of Aegeus,
+2100
+
+we beg one request from you.
+
+THESEUS
+
+What is it,
+
+my children. What do you desire?
+
+ANTIGONE
+
+We wish
+
+to see our father’s grave with our own eyes.
+
+1Since with the death of Oedipus in Athens, the gods have seen to it that he gets what he most desires and
+that the Athenians obtain a guarantee of political security, there is no reason to feel sad. To do so would be
+to go against what the gods have established (and thus invite their angry punishment).
+
+To go there is forbidden by our laws.
+
+ANTIGONE
+
+O lord and ruler of Athenians,
+what do you mean?
+
+Children, your father told me
+[1760]
+
+that no living person should come near the place
+or speak any words beside the sacred ground
+where he is buried. And he promised me,
+if I made sure of that, then I would keep
+2110
+
+the land of Athens free of pain forever.
+The god there heard me swear that I would do it,
+and so did Horkos, too, Zeus’s servant,
+who witnesses all oaths and makes them strong.1
+
+ANTIGONE
+
+If this is what my father has in mind,
+then we must comply. Send us on our way
+to ancient Thebes, to see if we somehow
+[1770]
+
+can stop the coming slaughter of our brothers.
+
+THESEUS
+
+I will do that and perform whatever else
+may be a service to you and to the man
+2120
+
+who has just died and lies beneath the earth.
+On his behalf, I must spare no effort
+for Oedipus has earned my gratitude.
+
+CHORUS
+
+So let us cease with our laments,
+and chant our funeral songs no more.
+For these events have all been preordained.
+
+[Theseus leads them all away, towards the city.]
+
+1The “god there” is (one assumes) the divine spirit who took Oedipus away. Horkos (meaning Oath) is a
+god who serves Zeus by witnessing oaths and punishing perjury. I have added a line in English to clarify his
+function.
+
+A NOTE ON THE TRANSLATOR
+
+Ian Johnston is an emeritus professor at Vancouver Island University, Nanaimo, British
+Columbia, Canada. He is the author of The Ironies of War: An Introduction to Homer’s
+Iliad and has translated a number of classic works into English, including the following
+(most of them published as books and ebooks by Richer Resources Publications).
+
+Aeschylus, Oresteia
+Aeschylus, Persians
+Aeschylus, Prometheus Bound
+Aeschylus, Seven Against Thebes
+Aeschylus, Suppliant Women
+Aristophanes, Birds
+Aristophanes, Clouds
+Aristophanes, Frogs
+Aristophanes, Knights
+Aristophanes, Lysistrata
+Aristophanes, Peace
+Cuvier, Discourse on Revolutionary Upheavals on the Surface of the Earth
+Descartes, Discourse on Method
+Descartes, Meditations on First Philosophy
+Diderot, D’Alembert’s Dream and Rameau’s Nephew
+Euripides, Bacchae
+Euripides, Electra
+Euripides, Medea
+Euripides, Orestes
+Homer, Iliad
+Homer, Odyssey
+Kafka, Metamorphosis, A Hunger Artist, In the Penal Colony, and Other Stories
+Kant, On Perpetual Peace
+Kant, Universal History and Nature of the Heavens
+Lamarck, Zoological Philosophy, Volume I
+Lucretius, On the Nature of Things
+Nietzsche, Birth of Tragedy
+Nietzsche, Beyond Good and Evil
+Nietzsche, Genealogy of Morals
+Nietzsche, On the Uses and Abuses of History
+Ovid, Metamorphoses
+Rousseau, Discourse on the Sciences and the Arts
+Rousseau, Discourse on the Origins of Inequality
+Rousseau, Social Contract
+Sophocles, Ajax
+
+Sophocles, Antigone
+Sophocles, Oedipus the King
+Sophocles, Philoctetes
+
+Ian Johnston has a web site (johnstoniatexts) where he has posted these translations, as
+well as a number of lectures, workbooks, essays, and book reviews.
+
+…
+

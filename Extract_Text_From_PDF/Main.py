@@ -3,8 +3,8 @@ import os
 from PDFExtractor2 import PDFExtractor
 
 # Define input and output folders
-input_folder = r"D:\3 UNI DOC\4 Fourth Year SC\Graduation Project\Books 501-600"  # Replace with your input folder path
-output_folder = r"P:\GP\Result 501-600"
+input_folder = r"D:\Gethub\SummaryFlow\novels_pdf_500-600"  # Replace with your input folder path
+output_folder = r"D:\Gethub\SummaryFlow\NEW_novels"
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder):
