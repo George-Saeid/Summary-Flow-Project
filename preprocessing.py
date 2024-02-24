@@ -21,7 +21,7 @@ def read_book(file_path, chunk_size=10000):
     return book
 
 
-book_path = r'D:\Gethub\GP\Novels_Text\A Christmas Carol.txt'
+book_path = r'D:\Gethub\SummaryFlow\All_novels_textfiles\Wizard and Glass.txt'
 book_content = read_book(book_path)
 #print('book size: ', len(book_content))
 #print(book_content[:100000])
@@ -45,14 +45,14 @@ cleaned_book = clean_text(book_content)
 
 # Tokenize book into words
 Tokenized_book = word_tokenize(cleaned_book)
-#print('Tokenized book size: ', len(Tokenized_book))
+print('Tokenized book size: ', len(Tokenized_book))
 #print(Tokenized_book)
 
 
 # Remove stop words
 stop_words = set(stopwords.words('english'))
 filtered_book = [word for word in Tokenized_book if word.lower() not in stop_words]
-#print('filtered book size: ', len(filtered_book))
+print('filtered book size: ', len(filtered_book))
 #print(filtered_book)
 
 
@@ -61,5 +61,5 @@ filtered_book = [word for word in Tokenized_book if word.lower() not in stop_wor
 vectorizer = TfidfVectorizer()
 # Fit and transform the book into TF-IDF vectors
 numerical_book = vectorizer.fit_transform(filtered_book)
-print('numerical book size: ', len(numerical_book.toarray()))
-print(pd.DataFrame(numerical_book.toarray()))
+#print('numerical book size: ', len(numerical_book.toarray()))
+#print(pd.DataFrame(numerical_book.toarray()))

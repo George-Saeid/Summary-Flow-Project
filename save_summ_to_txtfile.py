@@ -2,14 +2,14 @@ import os
 import pandas as pd
 
 
-summaries_folder = r"D:\Gethub\GP\summary_textfiles"
-input_folder = r"D:\Gethub\GP\novels_textfiles_400-500"
+summaries_folder = r"D:\Gethub\SummaryFlow\All_summaries"
+input_folder = r"D:\Gethub\SummaryFlow\All_novels_textfiles"
 # Create the output folder if it doesn't exist
 if not os.path.exists(summaries_folder):
     os.makedirs(summaries_folder)
 
 
-df = pd.read_excel('D:\Gethub\GP\BookSummariesDataset.xlsx')
+df = pd.read_excel('D:\Gethub\SummaryFlow\BookSummariesDataset.xlsx')
 
 
 # Delete columns from excel sheet
@@ -37,8 +37,8 @@ df = pd.read_excel('D:\Gethub\GP\BookSummariesDataset.xlsx')
     #os.rename(original_path, new_path)
 
 
-# Loop through the first 600 rows
-for index, row in df.head(700).iterrows():
+# Loop through the first 700 rows
+for index, row in df.head(1000).iterrows():
     #print(row['Book title'])
     # Iterate through the PDFs in the input folder
     for txt_filename in os.listdir(input_folder):
