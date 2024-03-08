@@ -1,0 +1,6952 @@
+Get even more from the Folger
+
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+
+ Buy a copy
+
+Folger Shakespeare Library
+
+https://shakespeare.folger.edu/
+
+Front Matter
+
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+
+INDUCTION
+Scene 1
+Scene 2
+
+ACT 1
+Scene 1
+Scene 2
+
+ACT 2
+Scene 1
+
+ACT 3
+Scene 1
+Scene 2
+
+ACT 4
+
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+
+ACT 5
+Scene 1
+Scene 2
+
+Contents
+
+Michael Witmore
+
+Director, Folger Shakespeare Library
+
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+
+From the Director of the Folger Shakespeare
+
+Library
+
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+
+Textual Introduction
+
+By Barbara Mowat and Paul Werstine
+
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+The Taming of the Shrew begins with an “induction” in which a
+nobleman plays a trick on a beggar, Christopher Sly, treating Sly as
+if he is a nobleman who has lost his memory. A play is staged for
+Sly—the play that we know as The Taming of the Shrew.
+
+In the play, set in Padua, Lucentio and other suitors pursue Bianca,
+but are told by her father, Baptista, that her bad-tempered older
+sister, Katherine, must marry first. They encourage Petruchio, who
+has come to Padua to find a wealthy wife, to court Katherine and
+free Bianca to marry.
+
+Petruchio negotiates marriage terms with Baptista, then has a stormy
+meeting with Katherine, after which he assures Baptista that the two
+have agreed to marry. Petruchio arrives late to their wedding dressed
+in strange clothes; he behaves rudely and carries Katherine away
+before the wedding dinner. At his home, he embarks on a plan to
+“tame” Katherine as one would tame a wild hawk. Starved and kept
+without sleep, Katherine eventually agrees with everything Petruchio
+says, however absurd. He takes her back to Padua, where they attend
+Bianca’s wedding. There Katherine proves more obedient to her
+husband than the other wives, whom she chastises before she and
+Petruchio go off to consummate their marriage.
+
+Synopsis
+
+BAPTISTA MINOLA, father to Katherine and Bianca
+
+KATHERINE, his elder daughter
+
+BIANCA, his younger daughter
+
+PETRUCHIO, suitor to Katherine
+
+VINCENTIO, Lucentio’s father
+
+A Merchant (later disguised as Vincentio)
+
+Widow
+
+Tailor
+Haberdasher
+Officer
+
+Servants to Baptista and Petruchio
+
+Characters in the Play
+
+characters in the Induction
+
+CHRISTOPHER SLY, a beggar
+Hostess of an alehouse
+A Lord
+Huntsmen of the Lord
+Page (disguised as a lady)
+Players
+Servingmen
+Messenger
+
+suitors to Bianca
+
+GREMIO
+
+HORTENSIO (later disguised as the teacher Litio)
+
+LUCENTIO (later disguised as the teacher Cambio)
+
+servants to Lucentio
+TRANIO (later impersonating Lucentio)
+
+BIONDELLO
+
+servants to Petruchio
+
+GRUMIO
+
+CURTIS
+
+NATHANIEL
+
+PHILLIP
+
+JOSEPH
+
+NICHOLAS
+
+PETER
+
+SLY
+
+HOSTESS
+
+SLY
+
+HOSTESS
+
+SLY
+
+He lies down.
+
+HOSTESS
+
+She exits.
+
+SLY
+
+Falls asleep.
+
+LORD
+
+Enter Beggar (Christopher Sly) and Hostess.
+
+  I’ll feeze you, in faith.
+
+  A pair of stocks, you rogue!
+
+  You’re a baggage! The Slys are no rogues. Look
+ in the chronicles. We came in with Richard Conqueror.
+ Therefore, paucas pallabris, let the world
+ slide. Sessa!
+
+  You will not pay for the glasses you have
+
+ burst?
+  No, not a denier. Go, by Saint  Jeronimy! Go to
+ thy cold bed and warm thee. 
+
+  I know my remedy. I must go fetch the
+
+ headborough. 
+  Third, or fourth, or fifth borough, I’ll answer him
+ by law. I’ll not budge an inch, boy. Let him come,
+ and kindly. 
+
+Wind horns within.  Enter a Lord from hunting, with
+
+his train.
+
+INDUCTION
+
+Scene 1
+
+FTLN 0005
+5
+
+FTLN 0010
+10
+
+FTLN 0015
+15
+
+FTLN 0017
+
+FTLN 0018
+
+FTLN 0019
+
+FTLN 0020
+20
+
+9
+The Taming of the Shrew
+IND. SC. 1
+
+FIRST HUNTSMAN
+
+LORD
+
+FIRST HUNTSMAN
+
+First Huntsman exits.
+
+LORD
+
+SECOND HUNTSMAN
+
+LORD
+
+THIRD  HUNTSMAN
+
+SECOND HUNTSMAN
+
+LORD
+
+  I will, my lord.
+
+, noticing Sly
+ 
+
+ What’s here? One dead, or drunk? See doth he
+
+ breathe.
+
+ fingers,
+
+ A most delicious banquet by his bed,
+ And brave attendants near him when he wakes,
+ Would not the beggar then forget himself?
+
+FTLN 0025
+25
+
+FTLN 0030
+30
+
+FTLN 0035
+35
+
+FTLN 0040
+40
+
+FTLN 0045
+45
+
+THIRD  HUNTSMAN
+
+LORD
+
+Sly is carried out.
+
+Sound trumpets within.
+
+Servingman exits.
+
+ Carry him gently to my fairest chamber,
+ And hang it round with all my wanton pictures;
+ Balm his foul head in warm distillèd waters,
+ And burn sweet wood to make the lodging sweet;
+ Procure me music ready when he wakes
+ To make a dulcet and a heavenly sound.
+ And if he chance to speak, be ready straight
+ And, with a low, submissive reverence,
+ Say “What is it your Honor will command?”
+ Let one attend him with a silver basin
+ Full of rosewater and bestrewed with flowers,
+ Another bear the ewer, the third a diaper,
+ And say “Will ’t please your Lordship cool your
+
+ hands?”
+
+ Someone be ready with a costly suit,
+ And ask him what apparel he will wear.
+ Another tell him of his hounds and horse,
+ And that his lady mourns at his disease.
+ Persuade him that he hath been lunatic,
+ And when he says he is, say that he dreams,
+ For he is nothing but a mighty lord.
+ This do, and do it kindly, gentle sirs.
+ It will be pastime passing excellent
+ If it be husbanded with modesty.
+
+ Sirrah, go see what trumpet ’tis that sounds.
+
+FTLN 0060
+60
+
+FTLN 0065
+65
+
+FTLN 0070
+70
+
+FTLN 0075
+75
+
+SERVINGMAN
+
+LORD
+
+PLAYERS
+
+LORD
+
+FIRST PLAYER
+
+LORD
+
+SECOND PLAYER
+
+LORD
+
+ Belike some noble gentleman that means
+ (Traveling some journey) to repose him here.
+
+Enter Servingman.
+
+ How now? Who is it?
+
+  
+ An ’t please your Honor, players
+
+ That offer service to your Lordship.
+
+Enter Players.
+
+ Now, fellows, you are welcome.
+
+  We thank your Honor.
+
+FTLN 0080
+80
+
+FTLN 0090
+90
+
+FTLN 0094
+
+FTLN 0095
+95
+
+FTLN 0098
+
+FTLN 0100
+100
+
+FTLN 0102
+
+FTLN 0103
+
+FTLN 0104
+
+FIRST PLAYER
+
+LORD
+
+One exits with the Players.
+
+A Servingman exits.
+
+, to a Servingman
+ 
+
+ Go, sirrah, take them to the buttery
+ And give them friendly welcome every one.
+ Let them want nothing that my house affords.
+
+ Sirrah, go you to Bartholomew, my page,
+ And see him dressed in all suits like a lady.
+ That done, conduct him to the drunkard’s chamber,
+ And call him “Madam,” do him obeisance.
+ Tell him from me, as he will win my love,
+ He bear himself with honorable action,
+ Such as he hath observed in noble ladies
+ Unto their lords, by them accomplishèd.
+ Such duty to the drunkard let him do
+ With soft low tongue and lowly courtesy,
+ And say “What is ’t your Honor will command,
+ Wherein your lady and your humble wife
+ May show her duty and make known her love?”
+ And then with kind embracements, tempting kisses,
+ And with declining head into his bosom,
+ Bid him shed tears, as being overjoyed
+ To see her noble lord restored to health,
+ Who, for this seven years, hath esteemed him
+ No better than a poor and loathsome beggar.
+ And if the boy have not a woman’s gift
+ To rain a shower of commanded tears,
+ An onion will do well for such a shift,
+ Which (in a napkin being close conveyed)
+ Shall in despite enforce a watery eye.
+ See this dispatched with all the haste thou canst.
+ Anon I’ll give thee more instructions.
+
+ I know the boy will well usurp the grace,
+
+FTLN 0105
+105
+
+FTLN 0106
+
+FTLN 0107
+
+FTLN 0108
+
+FTLN 0109
+
+FTLN 0110
+110
+
+FTLN 0111
+
+FTLN 0115
+115
+
+FTLN 0120
+120
+
+FTLN 0125
+125
+
+FTLN 0130
+130
+
+FTLN 0135
+135
+
+They exit.
+
+SLY
+
+FIRST SERVINGMAN
+
+SECOND SERVINGMAN
+
+THIRD SERVINGMAN
+
+SLY
+
+LORD
+
+ Voice, gait, and action of a gentlewoman.
+ I long to hear him call the drunkard “husband”!
+ And how my men will stay themselves from
+
+ laughter
+
+ When they do homage to this simple peasant,
+ I’ll in to counsel them. Haply my presence
+ May well abate the over-merry spleen
+ Which otherwise would grow into extremes.
+
+Enter aloft Christopher Sly,  the drunkard, with
+
+Attendants, some with apparel, basin and ewer, and
+
+other appurtenances, and Lord dressed as an Attendant.
+
+  For God’s sake, a pot of small ale.
+
+  I am Christophero Sly! Call not me “Honor” nor
+ “Lordship.” I ne’er drank sack in my life. An if you
+ give me any conserves, give me conserves of beef.
+ Ne’er ask me what raiment I’ll wear, for I have no
+ more doublets than backs, no more stockings than
+ legs, nor no more shoes than feet, nay sometime
+ more feet than shoes, or such shoes as my toes look
+ through the over-leather.
+, as Attendant
+ 
+
+ Heaven cease this idle humor in your Honor!
+ O, that a mighty man of such descent,
+ Of such possessions, and so high esteem
+ Should be infusèd with so foul a spirit!
+
+Scene 2
+
+FTLN 0145
+
+FTLN 0149
+5
+
+FTLN 0154
+10
+
+FTLN 0159
+15
+
+SLY
+
+THIRD SERVINGMAN
+
+SECOND SERVINGMAN
+
+LORD
+
+Music.
+
+FIRST SERVINGMAN
+
+  What, would you make me mad? Am not I Christopher
+ Sly, old Sly’s son of Burton Heath, by birth a
+ peddler, by education a cardmaker, by transmutation
+ a bearherd, and now by present profession a
+ tinker? Ask Marian Hacket, the fat alewife of Wincot,
+ if she know me not! If she say I am not fourteen
+ pence on the score for sheer ale, score me up for the
+ lying’st knave in Christendom. What, I am not
+ bestraught! Here’s—
+
+, as Attendant
+ 
+
+ Hence comes it that your kindred shuns your house,
+ As beaten hence by your strange lunacy.
+ O noble lord, bethink thee of thy birth,
+ Call home thy ancient thoughts from banishment,
+ And banish hence these abject lowly dreams.
+ Look how thy servants do attend on thee,
+ Each in his office ready at thy beck.
+ Wilt thou have music? Hark, Apollo plays, 
+ And twenty cagèd nightingales do sing.
+ Or wilt thou sleep? We’ll have thee to a couch
+ Softer and sweeter than the lustful bed
+ On purpose trimmed up for Semiramis.
+ Say thou wilt walk, we will bestrew the ground.
+ Or wilt thou ride? Thy horses shall be trapped,
+ Their harness studded all with gold and pearl.
+ Dost thou love hawking? Thou hast hawks will soar
+ Above the morning lark. Or wilt thou hunt?
+ Thy hounds shall make the welkin answer them
+ And fetch shrill echoes from the hollow earth.
+
+FTLN 0169
+25
+
+FTLN 0174
+30
+
+FTLN 0179
+35
+
+FTLN 0184
+40
+
+FTLN 0189
+45
+
+SECOND SERVINGMAN
+
+LORD
+
+THIRD SERVINGMAN
+
+LORD
+
+FIRST SERVINGMAN
+
+SLY
+
+SECOND SERVINGMAN
+
+, as Attendant
+ 
+
+ We’ll show thee Io as she was a maid
+ And how she was beguilèd and surprised,
+ As lively painted as the deed was done.
+
+, as Attendant
+ 
+
+ Thou art a lord, and nothing but a lord;
+ Thou hast a lady far more beautiful
+ Than any woman in this waning age.
+
+FTLN 0199
+55
+
+FTLN 0204
+60
+
+FTLN 0209
+65
+
+FTLN 0214
+70
+
+FTLN 0219
+75
+
+SLY
+
+FIRST SERVINGMAN
+
+SLY
+
+THIRD SERVINGMAN
+
+SLY
+
+ALL
+
+SLY
+
+PAGE
+
+SLY
+
+PAGE
+
+SLY
+
+ O, that once more you knew but what you are!
+ These fifteen years you have been in a dream,
+ Or, when you waked, so waked as if you slept.
+
+ quarts.
+
+ Sometimes you would call out for Cicely Hacket.
+
+  Ay, the woman’s maid of the house.
+
+  Now, Lord be thanked for my good amends!
+  Amen.
+  I thank thee. Thou shalt not lose by it.
+
+Enter Page as  Lady, with Attendants.
+
+, as  Lady   How fares my noble lord?
+  Marry, I fare well, for here is cheer enough.
+ Where is my wife?
+
+, as  Lady  
+
+ Here, noble lord. What is thy will with her?
+
+FTLN 0229
+85
+
+FTLN 0239
+95
+
+FTLN 0244
+100
+
+FTLN 0248
+
+FTLN 0249
+105
+
+FTLN 0250
+
+PAGE
+
+SLY
+
+LORD
+
+SLY
+
+LORD
+
+SLY
+
+PAGE
+
+SLY
+
+PAGE
+
+SLY
+
+MESSENGER
+
+, as  Lady  
+
+ My husband and my lord, my lord and husband,
+ I am your wife in all obedience.
+
+, as Attendant
+  
+ “Madam.”
+
+  “Alice Madam,” or “Joan Madam”?
+
+, as  Lady  
+
+ Ay, and the time seems thirty unto me,
+ Being all this time abandoned from your bed.
+
+, as  Lady  
+
+ Thrice noble lord, let me entreat of you
+ To pardon me yet for a night or two;
+ Or if not so, until the sun be set.
+ For your physicians have expressly charged,
+ In peril to incur your former malady,
+ That I should yet absent me from your bed.
+ I hope this reason stands for my excuse.
+
+  Ay, it stands so that I may hardly tarry so long; but
+ I would be loath to fall into my dreams again. I will
+ therefore tarry in despite of the flesh and the
+ blood.
+
+Enter a Messenger.
+
+FTLN 0251
+
+FTLN 0252
+
+FTLN 0254
+110
+
+FTLN 0255
+
+FTLN 0259
+115
+
+FTLN 0260
+
+FTLN 0261
+
+FTLN 0262
+
+FTLN 0263
+
+FTLN 0264
+120
+
+FTLN 0265
+
+FTLN 0266
+
+FTLN 0267
+
+FTLN 0268
+
+FTLN 0269
+125
+
+FTLN 0270
+
+FTLN 0271
+
+FTLN 0272
+
+FTLN 0273
+
+FTLN 0274
+130
+
+FTLN 0275
+
+FTLN 0276
+
+SLY
+Messenger exits.
+
+PAGE
+
+SLY
+
+PAGE
+
+SLY
+
+They sit.
+
+ Seeing too much sadness hath congealed your
+
+ blood,
+
+ And melancholy is the nurse of frenzy.
+ Therefore they thought it good you hear a play
+ And frame your mind to mirth and merriment,
+ Which bars a thousand harms and lengthens life.
+
+  Marry, I will. Let them play it. 
+ Is not a comonty a Christmas gambold or a tumbling
+ trick?
+
+, as  Lady  
+
+ No, my good lord, it is more pleasing stuff.
+
+  What, household stuff?
+, as  Lady   It is a kind of history.
+  Well, we’ll see ’t. Come, madam wife, sit by my
+ side, and let the world slip. We shall ne’er be
+ younger.
+
+FTLN 0279
+135
+
+FTLN 0284
+140
+
+FTLN 0289
+145
+
+FTLN 0290
+
+FTLN 0291
+
+LUCENTIO
+
+Flourish. Enter Lucentio and his man Tranio.
+
+FTLN 0296
+5
+
+FTLN 0301
+10
+
+FTLN 0306
+15
+
+FTLN 0311
+20
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+Lucentio and  Tranio stand by.
+
+BAPTISTA
+
+ A shallow plash to plunge him in the deep
+ And with satiety seeks to quench his thirst.
+
+Enter Baptista with his two daughters, Katherine and
+
+Bianca; Gremio, a pantaloon, and  Hortensio, suitors
+
+to Bianca.
+
+ But stay awhile! What company is this?
+
+, to Gremio and Hortensio
+ 
+
+ Gentlemen, importune me no farther,
+ For how I firmly am resolved you know:
+
+FTLN 0321
+30
+
+FTLN 0326
+35
+
+FTLN 0331
+40
+
+FTLN 0336
+45
+
+FTLN 0340
+
+GREMIO
+
+HORTENSIO
+
+HORTENSIO
+
+GREMIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+BAPTISTA
+
+ That is, not to bestow my youngest daughter
+ Before I have a husband for the elder.
+ If either of you both love Katherine,
+ Because I know you well and love you well,
+ Leave shall you have to court her at your pleasure.
+
+, to Baptista
+ 
+
+ I pray you, sir, is it your will
+ To make a stale of me amongst these mates?
+
+ you,
+
+ Unless you were of gentler, milder mold.
+
+  And me too, good Lord.
+
+, aside to Lucentio
+ 
+
+ Husht, master, here’s some good pastime toward;
+ That wench is stark mad or wonderful froward.
+
+, aside to Tranio
+ 
+
+ But in the other’s silence do I see
+ Maid’s mild behavior and sobriety.
+ Peace, Tranio.
+
+, aside to Lucentio
+ 
+
+ Well said, master. Mum, and gaze your fill.
+
+, to Gremio and Hortensio
+ 
+
+ Gentlemen, that I may soon make good
+ What I have said—Bianca, get you in,
+
+FTLN 0351
+60
+
+FTLN 0356
+65
+
+FTLN 0361
+70
+
+FTLN 0365
+
+FTLN 0366
+75
+
+BIANCA
+
+LUCENTIO
+
+HORTENSIO
+
+GREMIO
+
+BAPTISTA
+
+Bianca exits.
+
+He exits.
+
+KATHERINE
+
+She exits.
+
+ And let it not displease thee, good Bianca,
+ For I will love thee ne’er the less, my girl.
+
+, aside to Tranio
+ 
+
+ Hark, Tranio, thou mayst hear Minerva speak!
+
+  
+ Why will you mew her up,
+
+ Signior Baptista, for this fiend of hell,
+ And make her bear the penance of her tongue?
+
+FTLN 0371
+80
+
+FTLN 0376
+85
+
+FTLN 0381
+90
+
+FTLN 0386
+95
+
+FTLN 0391
+100
+
+FTLN 0396
+105
+
+GREMIO
+
+HORTENSIO
+
+GREMIO
+
+GREMIO
+
+HORTENSIO
+
+GREMIO
+
+HORTENSIO
+
+  You may go to the Devil’s dam! Your gifts are
+
+ so good here’s none will hold you.—Their love is
+ not so great, Hortensio, but we may blow our nails
+ together and fast it fairly out. Our cake’s dough on
+ both sides. Farewell. Yet for the love I bear my
+ sweet Bianca, if I can by any means light on a fit
+ man to teach her that wherein she delights, I will
+ wish him to her father.
+
+  So will I, Signior Gremio. But a word, I
+
+ pray. Though the nature of our quarrel yet never
+ brooked parle, know now upon advice, it toucheth
+ us both (that we may yet again have access to our
+ fair mistress and be happy rivals in Bianca’s love) to
+ labor and effect one thing specially.
+
+  What’s that, I pray?
+
+  Marry, sir, to get a husband for her sister.
+
+  A husband? A devil!
+
+  I say “a husband.”
+
+  I say “a devil.” Think’st thou, Hortensio,
+
+ though her father be very rich, any man is so very a
+ fool to be married to hell?
+
+  Tush, Gremio. Though it pass your patience
+
+ and mine to endure her loud alarums, why,
+ man, there be good fellows in the world, an a man
+ could light on them, would take her with all faults,
+ and money enough.
+
+  I cannot tell. But I had as lief take her dowry
+
+ with this condition: to be whipped at the high cross
+ every morning.
+
+  Faith, as you say, there’s small choice in
+
+ rotten apples. But come, since this bar in law
+ makes us friends, it shall be so far forth friendly
+ maintained till by helping Baptista’s eldest daughter
+ to a husband we set his youngest free for a
+ husband, and then have to ’t afresh. Sweet Bianca!
+ Happy man be his dole! He that runs fastest gets the
+ ring. How say you, Signior Gremio?
+
+FTLN 0416
+125
+
+FTLN 0421
+130
+
+FTLN 0426
+135
+
+FTLN 0427
+
+FTLN 0429
+
+FTLN 0431
+140
+
+FTLN 0432
+
+FTLN 0433
+
+FTLN 0434
+
+Gremio and Hortensio  exit.
+
+Tranio and Lucentio remain onstage.
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+  I am agreed, and would I had given him the
+
+ best horse in Padua to begin his wooing that would
+ thoroughly woo her, wed her, and bed her, and rid
+ the house of her. Come on.
+
+FTLN 0441
+150
+
+FTLN 0451
+160
+
+FTLN 0456
+165
+
+FTLN 0461
+170
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+, aside
+ 
+
+ Nay, then ’tis time to stir him from his trance.—
+ I pray, awake, sir! If you love the maid,
+ Bend thoughts and wits to achieve her. Thus it
+
+ stands:
+
+ Her elder sister is so curst and shrewd
+ That till the father rid his hands of her,
+ Master, your love must live a maid at home,
+ And therefore has he closely mewed her up,
+ Because she will not be annoyed with suitors.
+
+  
+ Master, for my hand,
+
+ Both our inventions meet and jump in one.
+
+  
+ You will be schoolmaster
+
+ And undertake the teaching of the maid:
+ That’s your device.
+
+  
+ It is. May it be done?
+
+FTLN 0471
+180
+
+FTLN 0481
+190
+
+FTLN 0486
+195
+
+FTLN 0491
+200
+
+LUCENTIO
+
+They exchange clothes.
+
+TRANIO
+
+LUCENTIO
+
+BIONDELLO
+
+ And be in Padua here Vincentio’s son,
+ Keep house, and ply his book, welcome his friends,
+ Visit his countrymen and banquet them?
+
+ When Biondello comes, he waits on thee,
+ But I will charm him first to keep his tongue.
+
+  So had you need.
+
+ In brief, sir, sith it your pleasure is,
+ And I am tied to be obedient
+ (For so your father charged me at our parting:
+ “Be serviceable to my son,” quoth he,
+ Although I think ’twas in another sense),
+ I am content to be Lucentio,
+ Because so well I love Lucentio.
+
+Enter Biondello.
+
+ Here comes the rogue.—Sirrah, where have you
+
+ been?
+
+FTLN 0501
+210
+
+FTLN 0506
+215
+
+FTLN 0511
+220
+
+FTLN 0516
+225
+
+LUCENTIO
+
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+TRANIO
+
+LUCENTIO
+
+They exit.
+
+The Presenters above speak.
+
+FIRST SERVINGMAN
+
+ Master, has my fellow Tranio stolen your clothes?
+ Or you stolen his? Or both? Pray, what’s the news?
+
+  
+ Ay, sir.  Aside.  Ne’er a whit.
+
+ daughter.
+
+ But, sirrah, not for my sake, but your master’s, I
+
+ advise
+
+ You use your manners discreetly in all kind of
+
+ companies.
+
+ When I am alone, why then I am Tranio;
+ But in all places else, your  master Lucentio.
+
+  Tranio, let’s go. One thing more rests, that
+
+ thyself execute, to make one among these wooers. If
+ thou ask me why, sufficeth my reasons are both
+ good and weighty. 
+
+FTLN 0521
+230
+
+FTLN 0536
+245
+
+FTLN 0541
+250
+
+FTLN 0546
+255
+
+SLY
+
+PAGE
+
+SLY
+
+They sit and mark.
+
+PETRUCHIO
+
+GRUMIO
+
+PETRUCHIO
+
+GRUMIO
+
+PETRUCHIO
+
+GRUMIO
+
+PETRUCHIO
+
+He wrings him by the ears. Grumio falls.
+
+GRUMIO
+
+PETRUCHIO
+
+  Yes, by Saint Anne, do I. A good matter, surely.
+ Comes there any more of it?
+
+, as  Lady   My lord, ’tis but begun.
+  ’Tis a very excellent piece of work, madam lady.
+ Would ’twere done.
+
+Enter Petruchio and his man Grumio.
+
+  Knock, sir? Whom should I knock? Is there
+
+ any man has rebused your Worship?
+
+  Villain, I say, knock me here soundly.
+
+  Knock you here, sir? Why, sir, what am I, sir,
+
+ that I should knock you here, sir?
+
+ you first,
+
+ And then I know after who comes by the worst.
+
+  Will it not be?
+
+ Faith, sirrah, an you’ll not knock, I’ll ring it.
+ I’ll try how you can sol, fa, and sing it.
+
+  Help, mistress, help! My master is mad.
+
+  Now knock when I bid you, sirrah
+
+ villain.
+
+FTLN 0551
+260
+
+Scene 2
+
+FTLN 0560
+5
+
+FTLN 0562
+
+FTLN 0565
+10
+
+FTLN 0570
+15
+
+FTLN 0575
+20
+
+HORTENSIO
+
+Grumio rises.
+
+GRUMIO
+
+PETRUCHIO
+
+GRUMIO
+
+PETRUCHIO
+
+HORTENSIO
+
+PETRUCHIO
+
+Enter Hortensio.
+
+  How now, what’s the matter? My old
+
+ friend Grumio and my good friend Petruchio? How
+ do you all at Verona?
+
+  Alia nostra casa ben  venuto, molto
+
+ honorato  signor mio Petruchio.—Rise, Grumio,
+ rise. We will compound this quarrel. 
+
+  Nay, ’tis no matter, sir, what he ’leges in
+
+ Latin. If this be not a lawful cause for me to leave
+ his service—look you, sir: he bid me knock him
+ and rap him soundly, sir. Well, was it fit for a
+ servant to use his master so, being perhaps, for
+ aught I see, two-and-thirty, a pip out?
+
+ Whom, would to God, I had well knocked at first,
+ Then had not Grumio come by the worst.
+
+  Knock at the gate? O, heavens, spake you not
+
+ these words plain: “Sirrah, knock me here, rap me
+ here, knock me well, and knock me soundly”? And
+ come you now with “knocking at the gate”?
+
+FTLN 0585
+30
+
+FTLN 0586
+
+FTLN 0587
+
+FTLN 0590
+35
+
+FTLN 0591
+
+FTLN 0595
+40
+
+FTLN 0600
+45
+
+FTLN 0603
+
+FTLN 0605
+50
+
+FTLN 0606
+
+PETRUCHIO
+
+GRUMIO
+
+HORTENSIO
+
+ To seek their fortunes farther than at home,
+ Where small experience grows. But in a few,
+ Signior Hortensio, thus it stands with me:
+ Antonio, my father, is deceased,
+ And I have thrust myself into this maze,
+ Happily to wive and thrive, as best I may.
+ Crowns in my purse I have and goods at home,
+ And so am come abroad to see the world.
+
+, to Hortensio
+  Nay, look you, sir, he tells you
+
+ flatly what his mind is. Why, give him gold enough
+ and marry him to a puppet or an aglet-baby, or an
+ old trot with ne’er a tooth in her head, though she
+ have as many diseases as two-and-fifty horses. Why,
+ nothing comes amiss, so money comes withal.
+
+FTLN 0615
+60
+
+FTLN 0625
+70
+
+FTLN 0630
+75
+
+FTLN 0635
+80
+
+HORTENSIO
+
+PETRUCHIO
+
+GRUMIO
+
+ I will continue that I broached in jest.
+ I can, Petruchio, help thee to a wife
+ With wealth enough, and young and beauteous,
+ Brought up as best becomes a gentlewoman.
+ Her only fault, and that is faults enough,
+ Is that she is intolerable curst,
+ And shrewd, and froward, so beyond all measure
+ That, were my state far worser than it is,
+ I would not wed her for a mine of gold.
+
+, to Hortensio
+  I pray you, sir, let him go while
+
+ the humor lasts. O’ my word, an she knew him as
+ well as I do, she would think scolding would do little
+ good upon him. She may perhaps call him half a
+ score knaves or so. Why, that’s nothing; an he begin
+ once, he’ll rail in his rope tricks. I’ll tell you what,
+ sir, an she stand him but a little, he will throw a
+ figure in her face and so disfigure her with it that
+ she shall have no more eyes to see withal than a cat.
+ You know him not, sir.
+
+FTLN 0645
+90
+
+FTLN 0650
+95
+
+FTLN 0655
+100
+
+FTLN 0660
+105
+
+FTLN 0665
+110
+
+FTLN 0670
+115
+
+GRUMIO
+
+GRUMIO
+
+HORTENSIO
+
+Petruchio, Hortensio, and Grumio stand aside.
+
+GRUMIO
+
+  “Katherine the curst,”
+
+ A title for a maid, of all titles the worst.
+
+  Here’s no knavery! See, to beguile the old
+
+ folks, how the young folks lay their heads together!
+
+Enter Gremio and Lucentio, disguised as Cambio, a
+
+schoolmaster.
+
+ Master, master, look about you. Who goes there, ha?
+
+, aside
+ 
+
+ A proper stripling, and an amorous.
+
+FTLN 0680
+125
+
+FTLN 0685
+130
+
+FTLN 0690
+135
+
+FTLN 0695
+140
+
+LUCENTIO
+
+GREMIO
+
+GRUMIO
+
+PETRUCHIO
+
+HORTENSIO
+
+Coming forward.
+
+GREMIO
+
+HORTENSIO
+
+, to Lucentio
+ 
+
+ O, very well, I have perused the note.
+ Hark you, sir, I’ll have them very fairly bound,
+ All books of love. See that at any hand,
+ And see you read no other lectures to her.
+ You understand me. Over and beside
+ Signior Baptista’s liberality,
+ I’ll mend it with a largess. Take your paper too.
+ And let me have them very well perfumed,
+ For she is sweeter than perfume itself
+ To whom they go to. What will you read to her?
+
+, as Cambio
+ 
+
+ Whate’er I read to her, I’ll plead for you
+ As for my patron, stand you so assured,
+ As firmly as yourself were still in place,
+ Yea, and perhaps with more successful words
+ Than you—unless you were a scholar, sir.
+
+, aside
+ 
+
+ O this woodcock, what an ass it is!
+
+, aside
+  Peace, sirrah.
+
+, aside
+ 
+
+ Grumio, mum. 
+
+ God save you, Signior Gremio.
+
+FTLN 0700
+145
+
+FTLN 0705
+150
+
+FTLN 0710
+155
+
+FTLN 0715
+160
+
+FTLN 0718
+
+FTLN 0719
+
+FTLN 0720
+165
+
+FTLN 0721
+
+FTLN 0722
+
+FTLN 0724
+
+FTLN 0725
+170
+
+FTLN 0726
+
+FTLN 0727
+
+FTLN 0728
+
+GREMIO
+
+GRUMIO
+
+HORTENSIO
+
+Presenting Petruchio.
+
+GREMIO
+
+PETRUCHIO
+
+GREMIO
+
+PETRUCHIO
+
+GREMIO
+
+PETRUCHIO
+
+GRUMIO
+
+ Hath promised me to help me  to another,
+ A fine musician to instruct our mistress.
+ So shall I no whit be behind in duty
+ To fair Bianca, so beloved of me.
+
+, aside
+  And that his bags shall prove.
+
+ Here is a gentleman whom by chance I met,
+ Upon agreement from us to his liking,
+ Will undertake to woo curst Katherine,
+ Yea, and to marry her, if her dowry please.
+
+  So said, so done, is well.
+
+ Hortensio, have you told him all her faults?
+
+  
+ Will I live?
+
+FTLN 0730
+175
+
+FTLN 0735
+180
+
+FTLN 0740
+185
+
+FTLN 0745
+190
+
+FTLN 0750
+195
+
+FTLN 0755
+200
+
+GRUMIO
+
+GREMIO
+
+HORTENSIO
+
+GREMIO
+
+GRUMIO
+
+TRANIO
+
+BIONDELLO
+
+TRANIO
+
+GREMIO
+
+  
+ For he fears none.
+
+  Hortensio, hark.
+
+ This gentleman is happily arrived,
+ My mind presumes, for his own good and yours.
+
+Enter Tranio, disguised as Lucentio,  and Biondello.
+
+, as Lucentio
+ 
+
+ Gentlemen, God save you. If I may be bold,
+ Tell me, I beseech you, which is the readiest way
+ To the house of Signior Baptista Minola?
+
+  He that has the two fair daughters—is ’t
+
+ he you mean?
+
+, as Lucentio
+  Even he, Biondello.
+
+FTLN 0765
+210
+
+FTLN 0770
+215
+
+FTLN 0775
+220
+
+FTLN 0780
+225
+
+FTLN 0783
+
+PETRUCHIO
+
+TRANIO
+
+LUCENTIO
+
+HORTENSIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+HORTENSIO
+
+TRANIO
+
+ Perhaps him and her, sir. What have you to do?
+
+, as Lucentio
+ 
+
+ I love no chiders, sir. Biondello, let’s away.
+
+, aside
+ 
+
+ Well begun, Tranio.
+
+  
+ Sir, a word ere you go.
+
+ Are you a suitor to the maid you talk of, yea or no?
+
+, as Lucentio
+ 
+
+ An if I be, sir, is it any offense?
+
+, as Lucentio
+ 
+
+ Why sir, I pray, are not the streets as free
+ For me, as for you?
+
+  
+ But so is not she.
+
+, as Lucentio
+ 
+
+ For what reason, I beseech you?
+
+, as Lucentio
+ 
+
+ Softly, my masters. If you be gentlemen,
+ Do me this right: hear me with patience.
+ Baptista is a noble gentleman
+ To whom my father is not all unknown,
+ And were his daughter fairer than she is,
+ She may more suitors have, and me for one.
+ Fair Leda’s daughter had a thousand wooers.
+ Then well one more may fair Bianca have.
+ And so she shall. Lucentio shall make one,
+ Though Paris came in hope to speed alone.
+
+FTLN 0785
+230
+
+FTLN 0786
+
+FTLN 0790
+235
+
+FTLN 0791
+
+FTLN 0792
+
+FTLN 0793
+
+FTLN 0794
+
+FTLN 0795
+240
+
+FTLN 0796
+
+FTLN 0797
+
+FTLN 0798
+
+FTLN 0799
+
+FTLN 0800
+245
+
+FTLN 0801
+
+FTLN 0802
+
+FTLN 0803
+
+FTLN 0804
+
+FTLN 0805
+250
+
+FTLN 0806
+
+FTLN 0807
+
+FTLN 0808
+
+LUCENTIO
+
+PETRUCHIO
+
+HORTENSIO
+
+TRANIO
+
+PETRUCHIO
+
+GREMIO
+
+PETRUCHIO
+
+TRANIO
+
+HORTENSIO
+
+, as Cambio
+ 
+
+ Sir, give him head; I know he’ll prove a jade.
+
+, to Tranio
+ 
+
+ Sir, let me be so bold as ask you,
+ Did you yet ever see Baptista’s daughter?
+
+, as Lucentio
+ 
+
+ No, sir, but hear I do that he hath two,
+ The one as famous for a scolding tongue
+ As is the other for beauteous modesty.
+
+, to Tranio
+ 
+
+ Sir, understand you this of me, in sooth:
+ The youngest daughter, whom you hearken for,
+ Her father keeps from all access of suitors
+ And will not promise her to any man
+ Until the elder sister first be wed.
+ The younger then is free, and not before.
+
+, as Lucentio
+ 
+
+ If it be so, sir, that you are the man
+ Must stead us all, and me amongst the rest,
+ And if you break the ice and do this feat,
+ Achieve the elder, set the younger free
+ For our access, whose hap shall be to have her
+ Will not so graceless be to be ingrate.
+
+FTLN 0810
+255
+
+FTLN 0815
+260
+
+FTLN 0820
+265
+
+FTLN 0827
+
+FTLN 0830
+275
+
+FTLN 0831
+
+FTLN 0832
+
+FTLN 0833
+
+FTLN 0834
+
+FTLN 0835
+280
+
+GRUMIO 
+AND  BIONDELLO
+
+HORTENSIO
+
+They exit.
+
+ Sir, I shall not be slack; in sign whereof,
+ Please you we may contrive this afternoon
+ And quaff carouses to our mistress’ health,
+ And do as adversaries do in law,
+ Strive mightily, but eat and drink as friends.
+
+FTLN 0840
+285
+
+BIANCA
+
+KATHERINE
+
+BIANCA
+
+KATHERINE
+
+BIANCA
+
+KATHERINE
+
+Enter Katherine and Bianca with her hands tied.
+
+FTLN 0848
+5
+
+FTLN 0853
+10
+
+FTLN 0858
+15
+
+BIANCA
+
+Katherine  strikes her.
+
+KATHERINE
+
+BAPTISTA
+
+He unties her hands.
+
+KATHERINE
+
+She  flies after Bianca.
+
+BAPTISTA
+
+Bianca  exits.
+
+KATHERINE
+
+She exits.
+
+BAPTISTA
+
+Enter Baptista.
+
+ insolence?—
+
+ Bianca, stand aside.—Poor girl, she weeps!
+
+  To Bianca.  Go ply thy needle; meddle not with her.
+  To Katherine.  For shame, thou hilding of a devilish
+
+ spirit!
+
+ Why dost thou wrong her that did ne’er wrong
+
+ thee?
+
+ When did she cross thee with a bitter word?
+
+FTLN 0868
+25
+
+FTLN 0872
+
+FTLN 0873
+30
+
+FTLN 0878
+35
+
+FTLN 0879
+
+FTLN 0880
+
+FTLN 0881
+
+FTLN 0882
+
+FTLN 0883
+40
+
+FTLN 0884
+
+GREMIO
+
+BAPTISTA
+
+PETRUCHIO
+
+BAPTISTA
+
+GREMIO
+
+PETRUCHIO
+
+Presenting Hortensio, disguised as Litio
+
+BAPTISTA
+
+Enter Gremio; Lucentio disguised as Cambio
+
+in the habit of a mean man; Petruchio with
+
+Hortensio disguised as Litio; and  Tranio disguised
+as Lucentio,  with his boy, Biondello  bearing a lute
+
+and books.
+
+  Good morrow, neighbor Baptista.
+
+  Good morrow, neighbor Gremio.—God
+
+ save you, gentlemen.
+
+, to Petruchio
+ 
+
+ You are too blunt. Go to it orderly.
+
+ Cunning in music and the mathematics,
+ To instruct her fully in those sciences,
+ Whereof I know she is not ignorant.
+ Accept of him, or else you do me wrong.
+ His name is Litio, born in Mantua.
+
+FTLN 0885
+
+FTLN 0888
+45
+
+FTLN 0892
+
+FTLN 0893
+50
+
+FTLN 0894
+
+FTLN 0898
+55
+
+FTLN 0903
+60
+
+FTLN 0904
+
+BAPTISTA
+
+BAPTISTA
+
+GREMIO
+
+GREMIO
+
+BAPTISTA
+
+ But for my daughter Katherine, this I know,
+ She is not for your turn, the more my grief.
+
+ doing.
+
+  To Baptista. Neighbor,  this is a gift very grateful,
+ I am sure of it. To express the like kindness, myself,
+ that have been more kindly beholding to you than
+ any, freely give unto you  this young scholar  presenting
+ Lucentio, disguised as Cambio   that hath
+ been long studying at Rheims, as cunning in Greek,
+ Latin, and other languages as the other in music and
+ mathematics. His name is Cambio. Pray accept his
+ service.
+
+  A thousand thanks, Signior Gremio.—Welcome,
+
+ good Cambio.  To Tranio as Lucentio.  But,
+ gentle sir, methinks you walk like a stranger. May I
+ be so bold to know the cause of your coming?
+
+FTLN 0918
+75
+
+FTLN 0923
+80
+
+FTLN 0928
+85
+
+FTLN 0933
+90
+
+Biondello comes forward with the gifts.
+
+BAPTISTA
+
+TRANIO
+
+BAPTISTA
+
+Servant exits with Hortensio and Lucentio.
+
+ Pardon me, sir, the boldness is mine own,
+ That being a stranger in this city here
+ Do make myself a suitor to your daughter,
+ Unto Bianca, fair and virtuous.
+ Nor is your firm resolve unknown to me,
+ In the preferment of the eldest sister.
+ This liberty is all that I request,
+ That, upon knowledge of my parentage,
+ I may have welcome ’mongst the rest that woo
+ And free access and favor as the rest.
+ And toward the education of your daughters
+ I here bestow a simple instrument
+ And this small packet of Greek and Latin books.
+
+ If you accept them, then their worth is great.
+
+, as Lucentio
+ 
+
+ Of Pisa, sir, son to Vincentio.
+
+  To Lucentio as Cambio.  and you the set of books.
+
+ You shall go see your pupils presently.
+ Holla, within!
+
+Enter a Servant.
+
+ Sirrah, lead these gentlemen
+
+ To my daughters, and tell them both
+ These are their tutors. Bid them use them well.
+
+ We will go walk a little in the orchard,
+ And then to dinner. You are passing welcome,
+ And so I pray you all to think yourselves.
+
+FTLN 0938
+95
+
+FTLN 0943
+100
+
+FTLN 0948
+105
+
+FTLN 0953
+110
+
+FTLN 0956
+
+FTLN 0958
+115
+
+FTLN 0961
+
+FTLN 0962
+
+FTLN 0963
+120
+
+BAPTISTA
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+FTLN 0973
+130
+
+FTLN 0978
+135
+
+FTLN 0983
+140
+
+FTLN 0988
+145
+
+FTLN 0989
+
+FTLN 0991
+
+BAPTISTA
+
+HORTENSIO
+
+BAPTISTA
+
+HORTENSIO
+
+BAPTISTA
+
+HORTENSIO
+
+PETRUCHIO
+
+BAPTISTA
+
+Enter Hortensio as Litio  with his head broke.
+
+, as Litio
+ 
+
+ For fear, I promise you, if I look pale.
+
+, as Litio
+ 
+
+ I think she’ll sooner prove a soldier!
+ Iron may hold with her, but never lutes.
+
+, as Litio
+ 
+
+ Why, no, for she hath broke the lute to me.
+ I did but tell her she mistook her frets,
+ And bowed her hand to teach her fingering,
+ When, with a most impatient devilish spirit,
+ “‘Frets’ call you these?” quoth she. “I’ll fume with
+
+ them!”
+
+ And with that word she struck me on the head,
+ And through the instrument my pate made way,
+ And there I stood amazèd for a while,
+ As on a pillory, looking through the lute,
+ While she did call me “rascal fiddler,”
+ And “twangling Jack,” with twenty such vile terms,
+ As had she studied to misuse me so.
+
+, to Hortensio as Litio
+ 
+
+ Well, go with me, and be not so discomfited.
+ Proceed in practice with my younger daughter.
+ She’s apt to learn, and thankful for good turns.—
+ Signior Petruchio, will you go with us,
+ Or shall I send my daughter Kate to you?
+
+FTLN 0993
+150
+
+FTLN 0998
+155
+
+FTLN 1000
+
+FTLN 1001
+
+FTLN 1003
+160
+
+FTLN 1011
+
+FTLN 1013
+170
+
+FTLN 1018
+175
+
+All but Petruchio exit.
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+ And woo her with some spirit when she comes!
+ Say that she rail, why then I’ll tell her plain
+ She sings as sweetly as a nightingale.
+ Say that she frown, I’ll say she looks as clear
+ As morning roses newly washed with dew.
+ Say she be mute and will not speak a word,
+ Then I’ll commend her volubility
+ And say she uttereth piercing eloquence.
+ If she do bid me pack, I’ll give her thanks
+ As though she bid me stay by her a week.
+ If she deny to wed, I’ll crave the day
+ When I shall ask the banns, and when be marrièd.
+ But here she comes—and now, Petruchio, speak.
+
+Enter Katherine.
+
+ Good morrow, Kate, for that’s your name, I hear.
+
+ hither
+
+FTLN 1033
+190
+
+FTLN 1038
+195
+
+FTLN 1041
+
+FTLN 1043
+200
+
+FTLN 1046
+
+FTLN 1047
+
+KATHERINE
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+ Remove you hence. I knew you at the first
+ You were a movable.
+
+  
+ A joint stool.
+
+  
+ Well ta’en, and like a
+
+ buzzard.
+
+FTLN 1048
+205
+
+FTLN 1058
+215
+
+FTLN 1063
+220
+
+FTLN 1068
+225
+
+PETRUCHIO
+
+KATHERINE
+She strikes him.
+
+KATHERINE
+
+PETRUCHIO
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+  In his tongue.
+  Whose tongue?
+ 
+
+ Yours, if you talk of tales, and so farewell.
+
+  What, with my tongue in your tail?
+
+ Nay, come again, good Kate. I am a gentleman—
+
+  That I’ll try. 
+ 
+
+ I swear I’ll cuff you if you strike again.
+
+  So may you lose your arms.
+
+ If you strike me, you are no gentleman,
+ And if no gentleman, why then no arms.
+
+  What is your crest? A coxcomb?
+ 
+
+ A combless cock, so Kate will be my hen.
+
+  There is, there is.
+ 
+
+ Then show it me.
+
+  
+ Had I a glass, I would.
+
+  What, you mean my face?
+  Well aimed of such a young one.
+ 
+
+ Now, by Saint George, I am too young for you.
+
+FTLN 1078
+235
+
+FTLN 1083
+240
+
+FTLN 1088
+245
+
+FTLN 1090
+
+FTLN 1093
+250
+
+KATHERINE
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+  
+ ’Tis with cares.
+
+  
+ I care not.
+
+ courteous,
+
+ But slow in speech, yet sweet as springtime flowers.
+ Thou canst not frown, thou canst not look askance,
+ Nor bite the lip as angry wenches will,
+ Nor hast thou pleasure to be cross in talk.
+ But thou with mildness entertain’st thy wooers,
+ With gentle conference, soft, and affable.
+ Why does the world report that Kate doth limp?
+ O sland’rous world! Kate like the hazel twig
+ Is straight, and slender, and as brown in hue
+ As hazelnuts, and sweeter than the kernels.
+ O, let me see thee walk! Thou dost not halt.
+
+FTLN 1098
+255
+
+FTLN 1108
+265
+
+FTLN 1111
+
+FTLN 1112
+
+FTLN 1113
+270
+
+FTLN 1114
+
+FTLN 1115
+
+FTLN 1116
+
+FTLN 1117
+
+FTLN 1118
+275
+
+FTLN 1119
+
+FTLN 1121
+
+BAPTISTA
+
+PETRUCHIO
+
+BAPTISTA
+
+KATHERINE
+
+  Am I not wise?
+  Yes, keep you warm.
+ 
+
+ Marry, so I mean, sweet Katherine, in thy bed.
+ And therefore, setting all this chat aside,
+ Thus in plain terms: your father hath consented
+ That you shall be my wife, your dowry ’greed on,
+ And, will you, nill you, I will marry you.
+ Now, Kate, I am a husband for your turn,
+ For by this light, whereby I see thy beauty,
+ Thy beauty that doth make me like thee well,
+ Thou must be married to no man but me.
+ For I am he am born to tame you, Kate,
+ And bring you from a wild Kate to a Kate
+ Conformable as other household Kates.
+
+Enter Baptista, Gremio, and  Tranio as Lucentio.
+
+ Here comes your father. Never make denial.
+ I must and will have Katherine to my wife.
+
+ daughter?
+
+  How but well, sir? How but well?
+
+ It were impossible I should speed amiss.
+
+ dumps?
+
+FTLN 1123
+280
+
+FTLN 1138
+295
+
+FTLN 1143
+300
+
+FTLN 1148
+305
+
+GREMIO
+
+TRANIO
+
+PETRUCHIO
+
+BAPTISTA
+
+  Hark, Petruchio, she says she’ll see thee
+
+ hanged first.
+
+, as Lucentio
+  Is this your speeding? Nay,
+
+ then, goodnight our part.
+
+FTLN 1153
+310
+
+FTLN 1158
+315
+
+FTLN 1168
+325
+
+FTLN 1173
+330
+
+FTLN 1178
+335
+
+GREMIO AND TRANIO
+
+PETRUCHIO
+
+Petruchio and Katherine exit
+
+through different doors.
+
+GREMIO
+
+BAPTISTA
+
+TRANIO
+
+BAPTISTA
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+, as Lucentio
+ 
+
+ Amen, say we. We will be witnesses.
+
+, as Lucentio
+ 
+
+ ’Twas a commodity lay fretting by you.
+ ’Twill bring you gain, or perish on the seas.
+
+, as Lucentio
+ 
+
+ And I am one that love Bianca more
+ Than words can witness or your thoughts can guess.
+
+, as Lucentio
+ 
+
+ Graybeard, thy love doth freeze.
+
+  
+ But thine doth fry!
+
+ Skipper, stand back. ’Tis age that nourisheth.
+
+, as Lucentio
+ 
+
+ But youth in ladies’ eyes that flourisheth.
+
+FTLN 1183
+340
+
+FTLN 1188
+345
+
+FTLN 1192
+
+FTLN 1193
+350
+
+FTLN 1197
+
+FTLN 1198
+355
+
+FTLN 1200
+
+FTLN 1201
+
+FTLN 1202
+
+FTLN 1203
+360
+
+BAPTISTA
+
+GREMIO
+
+TRANIO
+
+, as Lucentio
+ 
+
+ That “only” came well in.  To Baptista.  Sir, list to
+
+ me:
+
+ I am my father’s heir and only son.
+ If I may have your daughter to my wife,
+ I’ll leave her houses three or four as good,
+ Within rich Pisa walls, as any one
+ Old Signior Gremio has in Padua,
+ Besides two thousand ducats by the year
+ Of fruitful land, all which shall be her jointure.—
+ What, have I pinched you, Signior Gremio?
+
+FTLN 1218
+375
+
+FTLN 1223
+380
+
+FTLN 1228
+385
+
+FTLN 1233
+390
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+BAPTISTA
+
+TRANIO
+
+GREMIO
+
+BAPTISTA
+
+, as Lucentio
+ 
+
+ Gremio, ’tis known my father hath no less
+ Than three great argosies, besides two galliasses
+ And twelve tight galleys. These I will assure her,
+ And twice as much whate’er thou off’rest next.
+
+ mine.
+
+, as Lucentio
+ 
+
+ Why, then, the maid is mine from all the world,
+ By your firm promise. Gremio is outvied.
+
+, as Lucentio
+ 
+
+ That’s but a cavil. He is old, I young.
+
+ following, shall Bianca
+
+ Be bride to you, if you make this assurance.
+ If not, to Signior Gremio.
+ And so I take my leave, and thank you both.
+
+FTLN 1238
+395
+
+FTLN 1243
+400
+
+FTLN 1248
+405
+
+FTLN 1249
+
+FTLN 1250
+
+FTLN 1251
+
+FTLN 1252
+
+FTLN 1253
+410
+
+FTLN 1254
+
+FTLN 1255
+
+FTLN 1256
+
+FTLN 1258
+415
+
+FTLN 1259
+
+FTLN 1260
+
+FTLN 1261
+
+FTLN 1262
+
+FTLN 1263
+420
+
+FTLN 1264
+
+Baptista  exits.
+
+Gremio  exits.
+
+TRANIO
+
+He exits.
+
+ Now I fear thee not.
+
+ Sirrah young gamester, your father were a fool
+ To give thee all and in his waning age
+ Set foot under thy table. Tut, a toy!
+ An old Italian fox is not so kind, my boy.
+
+FTLN 1268
+425
+
+FTLN 1273
+430
+
+FTLN 1278
+435
+
+LUCENTIO
+
+HORTENSIO
+
+LUCENTIO
+
+HORTENSIO
+
+BIANCA
+
+Enter Lucentio as Cambio,  Hortensio as Litio,  and
+
+Bianca.
+
+, as Cambio
+ 
+
+ Fiddler, forbear. You grow too forward, sir.
+ Have you so soon forgot the entertainment
+ Her sister Katherine welcomed you withal?
+
+, as Litio
+  But, wrangling pedant, this is
+
+ The patroness of heavenly harmony.
+ Then give me leave to have prerogative,
+ And when in music we have spent an hour,
+ Your lecture shall have leisure for as much.
+
+, as Cambio
+ 
+
+ Preposterous ass, that never read so far
+ To know the cause why music was ordained.
+ Was it not to refresh the mind of man
+ After his studies or his usual pain?
+ Then give me leave to read philosophy,
+ And, while I pause, serve in your harmony.
+
+, as Litio
+ 
+
+ Sirrah, I will not bear these braves of thine.
+
+FTLN 1283
+5
+
+FTLN 1286
+
+FTLN 1287
+
+FTLN 1288
+10
+
+FTLN 1289
+
+FTLN 1290
+
+FTLN 1291
+
+FTLN 1292
+
+FTLN 1293
+15
+
+FTLN 1294
+
+FTLN 1295
+
+FTLN 1297
+
+HORTENSIO
+
+LUCENTIO
+
+Hortensio steps aside to tune his lute.
+
+BIANCA
+
+LUCENTIO
+
+Showing her a book.
+
+BIANCA
+
+LUCENTIO
+
+HORTENSIO
+
+BIANCA
+
+LUCENTIO
+
+Hortensio tunes his lute again.
+
+BIANCA
+
+HORTENSIO
+
+He plays again.
+
+LUCENTIO
+
+HORTENSIO
+
+ But learn my lessons as I please myself.
+ And, to cut off all strife, here sit we down.
+  To Hortensio.  Take you your instrument, play you
+
+ the whiles;
+
+ His lecture will be done ere you have tuned.
+
+, as Litio
+ 
+
+ You’ll leave his lecture when I am in tune?
+
+, aside
+ 
+
+ That will be never.  To Hortensio.  Tune your
+
+ instrument. 
+
+  Where left we last?
+, as Cambio
+  Here, madam:
+
+ Hic ibat Simois, hic est Sigeia  tellus,
+ Hic steterat Priami regia celsa senis.
+
+  Conster them.
+
+  Hic ibat, as I told you before, Simois, I am
+
+ Lucentio, hic est, son unto Vincentio of Pisa,
+ Sigeia  tellus, disguised thus to get your love, Hic
+ steterat, and that “Lucentio” that comes a-wooing,
+ Priami, is my man Tranio, regia, bearing my port,
+ celsa senis, that we might beguile the old pantaloon.
+
+, as Litio
+  Madam, my instrument’s in
+
+ tune.
+
+  Let’s hear.  He plays.  Oh fie, the treble jars!
+, as Cambio
+  Spit in the hole, man, and tune
+
+ again. 
+
+  Now let me see if I can conster it. Hic ibat
+
+ Simois, I know you not; hic est Sigeia  tellus, I trust
+ you not; Hic steterat  Priami, take heed he hear us
+ not; regia, presume not; celsa senis, despair not.
+
+, as Litio
+ 
+
+ Madam, ’tis now in tune. 
+
+, as Cambio
+  
+ All but the bass.
+
+, as Litio
+ 
+
+ The bass is right. ’Tis the base knave that jars.
+
+FTLN 1303
+25
+
+FTLN 1305
+
+FTLN 1306
+
+FTLN 1307
+
+FTLN 1308
+30
+
+FTLN 1309
+
+FTLN 1310
+
+FTLN 1311
+
+FTLN 1312
+
+FTLN 1313
+35
+
+FTLN 1314
+
+FTLN 1315
+
+FTLN 1316
+
+FTLN 1317
+
+FTLN 1318
+40
+
+FTLN 1319
+
+FTLN 1320
+
+FTLN 1321
+
+FTLN 1322
+
+FTLN 1323
+45
+
+FTLN 1324
+
+FTLN 1325
+
+FTLN 1326
+
+FTLN 1327
+
+FTLN 1328
+50
+
+BIANCA
+
+LUCENTIO
+
+BIANCA
+
+HORTENSIO
+
+LUCENTIO
+
+He steps aside.
+
+HORTENSIO
+
+BIANCA
+
+HORTENSIO
+
+Giving her a paper.
+
+  Aside.  How fiery and forward our pedant is.
+ Now for my life the knave doth court my love!
+ Pedascule, I’ll watch you better yet.
+
+, to Lucentio
+ 
+
+ In time I may believe, yet I mistrust.
+
+, as Litio, to Lucentio
+ 
+
+ You may go walk, and give me leave awhile.
+ My lessons make no music in three parts.
+
+, as Cambio
+ 
+
+ Are you so formal, sir? Well, I must wait
+  Aside.  And watch withal, for, but I be deceived,
+ Our fine musician groweth amorous.
+
+, as Litio
+ 
+
+ Madam, before you touch the instrument,
+ To learn the order of my fingering
+ I must begin with rudiments of art,
+ To teach you gamut in a briefer sort,
+ More pleasant, pithy, and effectual
+ Than hath been taught by any of my trade.
+ And there it is in writing fairly drawn.
+
+FTLN 1332
+
+FTLN 1333
+55
+
+FTLN 1334
+
+FTLN 1335
+
+FTLN 1336
+
+FTLN 1337
+
+FTLN 1338
+60
+
+FTLN 1339
+
+FTLN 1340
+
+FTLN 1341
+
+FTLN 1342
+
+FTLN 1343
+65
+
+FTLN 1344
+
+FTLN 1345
+
+FTLN 1346
+
+FTLN 1347
+
+FTLN 1348
+70
+
+FTLN 1349
+
+FTLN 1350
+
+FTLN 1351
+
+FTLN 1352
+
+FTLN 1353
+75
+
+BIANCA
+
+SERVANT
+
+BIANCA
+
+LUCENTIO
+
+Bianca, the Servant, and Lucentio exit.
+
+HORTENSIO
+
+He exits.
+
+BAPTISTA
+
+ reads
+ 
+
+ “Gamut I am, the ground of all accord:
+ A re,  to plead Hortensio’s passion;
+ B mi,  Bianca, take him for thy lord,
+ C fa ut,  that loves with all affection;
+ D sol re, one clef, two notes have I;
+ E la mi, show pity or I die.”
+ Call you this “gamut”? Tut, I like it not.
+ Old fashions please me best. I am not so nice
+ To change  true rules for odd  inventions.
+
+Enter a Servant.
+
+Enter Baptista, Gremio, Tranio as Lucentio,  Katherine,
+Bianca, Lucentio as Cambio,  and others, Attendants.
+
+, to Tranio
+ 
+
+ Signior Lucentio, this is the ’pointed day
+
+FTLN 1357
+
+FTLN 1358
+80
+
+FTLN 1359
+
+FTLN 1360
+
+FTLN 1361
+
+FTLN 1362
+
+FTLN 1363
+85
+
+FTLN 1364
+
+FTLN 1365
+
+FTLN 1366
+
+FTLN 1367
+
+FTLN 1368
+90
+
+FTLN 1369
+
+FTLN 1370
+
+FTLN 1371
+
+FTLN 1372
+
+FTLN 1373
+95
+
+Scene 2
+
+FTLN 1374
+
+KATHERINE
+
+TRANIO
+
+KATHERINE
+
+She exits weeping.
+
+BAPTISTA
+
+BIONDELLO
+
+ That Katherine and Petruchio should be married,
+ And yet we hear not of our son-in-law.
+ What will be said? What mockery will it be,
+ To want the bridegroom when the priest attends
+ To speak the ceremonial rites of marriage?
+ What says Lucentio to this shame of ours?
+
+, as Lucentio
+ 
+
+ Patience, good Katherine, and Baptista too.
+ Upon my life, Petruchio means but well,
+ Whatever fortune stays him from his word.
+ Though he be blunt, I know him passing wise;
+ Though he be merry, yet withal he’s honest.
+
+Enter Biondello.
+
+  Master, master, news! And such old
+
+ news as you never heard of!
+
+FTLN 1378
+5
+
+FTLN 1383
+10
+
+FTLN 1393
+20
+
+FTLN 1398
+25
+
+FTLN 1403
+30
+
+FTLN 1404
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+TRANIO
+
+BIONDELLO
+
+BAPTISTA
+
+  Why, is it not news to hear  of Petruchio’s
+
+ coming?
+
+  Is he come?
+
+  Why, no, sir.
+
+   He is coming.
+
+  
+ When will he be here?
+
+, as Lucentio
+  But say, what to thine old news?
+
+  Why, Petruchio is coming in a new hat and
+
+ an old jerkin, a pair of old breeches thrice turned,
+ a pair of boots that have been candle-cases, one
+ buckled, another laced; an old rusty sword ta’en
+ out of the town armory, with a broken hilt, and
+ chapeless; with two broken points; his horse
+ hipped, with an old mothy saddle and stirrups of no
+ kindred, besides possessed with the glanders and
+ like to mose in the chine, troubled with the lampass,
+ infected with the fashions, full of windgalls,
+ sped with spavins, rayed with the yellows, past cure
+ of the fives, stark spoiled with the staggers, begnawn
+ with the bots, swayed  in the back and shoulder-shotten,
+ near-legged before, and with a half-checked
+ bit and a headstall of sheep’s leather,
+ which, being restrained to keep him from stumbling,
+ hath been often burst, and now repaired with
+ knots; one girth six times pieced, and a woman’s
+ crupper of velour, which hath two letters for her
+ name fairly set down in studs, and here and there
+ pieced with packthread.
+
+  Who comes with him?
+
+FTLN 1408
+35
+
+FTLN 1413
+40
+
+FTLN 1418
+45
+
+FTLN 1423
+50
+
+FTLN 1428
+55
+
+FTLN 1433
+60
+
+BIONDELLO
+
+TRANIO
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+BAPTISTA
+
+BIONDELLO
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+BAPTISTA
+
+TRANIO
+
+PETRUCHIO
+
+  Oh, sir, his lackey, for all the world caparisoned
+
+ like the horse: with a linen stock on one leg
+ and a kersey boot-hose on the other, gartered with
+ a red and blue list; an old hat, and the humor of
+ forty fancies pricked in ’t for a feather. A monster,
+ a very monster in apparel, and not like a Christian
+ footboy or a gentleman’s lackey.
+
+, as Lucentio
+ 
+
+ ’Tis some odd humor pricks him to this fashion,
+ Yet oftentimes he goes but mean-appareled.
+
+  Why, sir, he comes not.
+
+  Didst thou not say he comes?
+
+  Who? That Petruchio came?
+
+  Ay, that Petruchio came!
+
+  No, sir, I say his horse comes with him on
+
+ his back.
+
+  Why, that’s all one.
+
+Enter Petruchio and Grumio.
+
+  You are welcome, sir.
+
+  And yet I come not well.
+
+  And yet you halt not.
+
+, as Lucentio
+  Not so well appareled as I wish
+
+ you were.
+
+FTLN 1438
+65
+
+FTLN 1448
+75
+
+FTLN 1453
+80
+
+FTLN 1458
+85
+
+FTLN 1463
+90
+
+BAPTISTA
+
+TRANIO
+
+TRANIO
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+ But where is Kate? Where is my lovely bride?
+ How does my father? Gentles, methinks you frown.
+ And wherefore gaze this goodly company
+ As if they saw some wondrous monument,
+ Some comet or unusual prodigy?
+
+, as Lucentio
+ 
+
+ And tell us what occasion of import
+ Hath all so long detained you from your wife
+ And sent you hither so unlike yourself.
+
+, as Lucentio
+ 
+
+ See not your bride in these unreverent robes.
+ Go to my chamber, put on clothes of mine.
+
+ words.
+
+ To me she’s married, not unto my clothes.
+ Could I repair what she will wear in me,
+ As I can change these poor accoutrements,
+
+FTLN 1478
+105
+
+FTLN 1483
+110
+
+FTLN 1488
+115
+
+FTLN 1493
+120
+
+Petruchio exits, with Grumio.
+
+TRANIO
+
+BAPTISTA
+
+All except Tranio and Lucentio  exit.
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+ ’Twere well for Kate and better for myself.
+ But what a fool am I to chat with you
+ When I should bid good morrow to my bride
+ And seal the title with a lovely kiss!
+
+, as Lucentio
+ 
+
+ He hath some meaning in his mad attire.
+ We will persuade him, be it possible,
+ To put on better ere he go to church.
+
+FTLN 1503
+130
+
+FTLN 1506
+
+FTLN 1507
+
+FTLN 1508
+135
+
+FTLN 1509
+
+FTLN 1510
+
+FTLN 1511
+
+FTLN 1512
+
+FTLN 1513
+140
+
+FTLN 1514
+
+FTLN 1516
+
+FTLN 1518
+145
+
+FTLN 1523
+150
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+TRANIO
+
+GREMIO
+
+Enter Gremio.
+
+, as Lucentio
+ 
+
+ Signior Gremio, came you from the church?
+
+, as Lucentio
+ 
+
+ And is the bride and bridegroom coming home?
+
+, as Lucentio
+ 
+
+ Curster than she? Why, ’tis impossible.
+
+, as Lucentio
+ 
+
+ Why, she’s a devil, a devil, the devil’s dam.
+
+, as Lucentio
+ 
+
+ What said the wench when he rose again?
+
+FTLN 1528
+155
+
+FTLN 1531
+
+FTLN 1533
+160
+
+FTLN 1542
+
+FTLN 1543
+170
+
+Music plays.
+
+BAPTISTA
+
+PETRUCHIO
+
+TRANIO
+
+PETRUCHIO
+
+GREMIO
+
+PETRUCHIO
+
+ And threw the sops all in the sexton’s face,
+ Having no other reason
+ But that his beard grew thin and hungerly,
+ And seemed to ask him sops as he was drinking.
+ This done, he took the bride about the neck
+ And kissed her lips with such a clamorous smack
+ That at the parting all the church did echo.
+ And I, seeing this, came thence for very shame,
+ And after me I know the rout is coming.
+ Such a mad marriage never was before! 
+ Hark, hark, I hear the minstrels play.
+
+Enter Petruchio, Katherine, Bianca, Hortensio, Baptista,
+
+Grumio, and Attendants.
+
+, as Lucentio
+ 
+
+ Let us entreat you stay till after dinner.
+
+  It may not be.
+
+  Let me entreat you.
+
+  It cannot be.
+
+FTLN 1548
+175
+
+FTLN 1558
+185
+
+FTLN 1563
+190
+
+FTLN 1568
+195
+
+FTLN 1573
+200
+
+PETRUCHIO
+
+KATHERINE
+
+GRUMIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+GREMIO
+
+KATHERINE
+
+PETRUCHIO
+
+  Let me entreat you.
+ 
+
+ I am content.
+
+  
+ Are you content to stay?
+
+  
+ Grumio, my horse.
+
+  Ay, sir, they be ready; the oats have eaten the
+
+ horses.
+
+  Nay, then,
+
+ Do what thou canst, I will not go today,
+ No, nor tomorrow, not till I please myself.
+ The door is open, sir. There lies your way.
+ You may be jogging whiles your boots are green.
+ For me, I’ll not be gone till I please myself.
+ ’Tis like you’ll prove a jolly surly groom,
+ That take it on you at the first so roundly.
+
+FTLN 1578
+205
+
+FTLN 1583
+210
+
+FTLN 1588
+215
+
+FTLN 1593
+220
+
+FTLN 1598
+225
+
+FTLN 1599
+
+FTLN 1603
+230
+
+FTLN 1604
+
+Petruchio and Katherine exit, with Grumio.
+
+BAPTISTA
+
+GREMIO
+
+TRANIO
+
+LUCENTIO
+
+BIANCA
+
+GREMIO
+
+BAPTISTA
+
+ Be mad and merry, or go hang yourselves.
+ But for my bonny Kate, she must with me.
+ Nay, look not big, nor stamp, nor stare, nor fret;
+ I will be master of what is mine own.
+ She is my goods, my chattels; she is my house,
+ My household stuff, my field, my barn,
+ My horse, my ox, my ass, my anything.
+ And here she stands, touch her whoever dare.
+ I’ll bring mine action on the proudest he
+ That stops my way in Padua.—Grumio,
+ Draw forth thy weapon. We are beset with thieves.
+ Rescue thy mistress if thou be a man!—
+ Fear not, sweet wench, they shall not touch thee,
+
+ Kate.
+
+ I’ll buckler thee against a million.
+
+, as Lucentio
+ 
+
+ Of all mad matches never was the like.
+
+, as Cambio
+ 
+
+ Mistress, what’s your opinion of your sister?
+
+ bridegroom wants
+
+ For to supply the places at the table,
+ You know there wants no junkets at the feast.
+  To Tranio.  Lucentio, you shall supply the
+
+ bridegroom’s place,
+
+ And let Bianca take her sister’s room.
+
+FTLN 1623
+250
+
+FTLN 1628
+255
+
+BAPTISTA
+
+They exit.
+
+ Shall sweet Bianca practice how to bride it?
+
+, to Tranio
+ 
+
+ She shall, Lucentio. Come, gentlemen, let’s go.
+
+FTLN 1633
+260
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+Enter Grumio.
+
+  Fie, fie on all tired jades, on all mad masters,
+
+ and all foul ways! Was ever man so beaten? Was
+ ever man so ’rayed? Was ever man so weary? I am
+ sent before to make a fire, and they are coming
+ after to warm them. Now were not I a little pot and
+ soon hot, my very lips might freeze to my teeth, my
+ tongue to the roof of my mouth, my heart in my
+ belly, ere I should come by a fire to thaw me. But I
+ with blowing the fire shall warm myself. For, considering
+ the weather, a taller man than I will take
+ cold.—Holla, ho, Curtis!
+
+Enter Curtis.
+
+  Who is that calls so coldly?
+  A piece of ice. If thou doubt it, thou mayst
+
+ slide from my shoulder to my heel with no greater
+ a run but my head and my neck. A fire, good Curtis!
+
+  Is my master and his wife coming, Grumio?
+  Oh, ay, Curtis, ay, and therefore fire, fire! Cast
+
+ on no water.
+
+  Is she so hot a shrew as she’s reported?
+  She was, good Curtis, before this frost. But
+
+ thou know’st winter tames man, woman, and
+
+FTLN 1639
+5
+
+FTLN 1644
+10
+
+FTLN 1649
+15
+
+FTLN 1654
+20
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+ beast, for it hath tamed my old master and my new
+ mistress and myself, fellow Curtis.
+
+  Away, you three-inch fool, I am no beast!
+  Am I but three inches? Why, thy horn is a
+
+ foot, and so long am I, at the least. But wilt thou
+ make a fire? Or shall I complain on thee to our
+ mistress, whose hand (she being now at hand) thou
+ shalt soon feel, to thy cold comfort, for being slow in
+ thy hot office?
+
+  I prithee, good Grumio, tell me, how goes the
+
+ world?
+
+  A cold world, Curtis, in every office but thine,
+
+ and therefore fire! Do thy duty, and have thy duty,
+ for my master and mistress are almost frozen to
+ death.
+
+  There’s fire ready. And therefore, good Grumio,
+
+ the news!
+
+  Why, “Jack boy, ho boy!” and as much news
+
+ as wilt thou.
+
+  Come, you are so full of cony-catching.
+  Why, therefore fire, for I have caught extreme
+
+ cold. Where’s the cook? Is supper ready, the house
+ trimmed, rushes strewed, cobwebs swept, the servingmen
+ in their new fustian, their  white stockings,
+ and every officer his wedding garment on? Be
+ the Jacks fair within, the Jills fair without, the
+ carpets laid, and everything in order?
+
+  All ready. And therefore, I pray thee, news.
+  First, know my horse is tired, my master and
+
+ mistress fallen out.
+
+  How?
+  Out of their saddles into the dirt, and thereby
+
+ hangs a tale.
+
+  Let’s ha’ t, good Grumio.
+  Lend thine ear.
+  Here.
+
+FTLN 1659
+25
+
+FTLN 1661
+
+FTLN 1664
+30
+
+FTLN 1669
+35
+
+FTLN 1674
+40
+
+FTLN 1679
+45
+
+FTLN 1684
+50
+
+FTLN 1689
+55
+
+GRUMIO
+He slaps Curtis on the ear.
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+  There! 
+  This ’tis to feel a tale, not to hear a tale.
+  And therefore ’tis called a sensible tale. And
+
+ this cuff was but to knock at your ear and beseech
+ list’ning. Now I begin: Imprimis, we came down a
+ foul hill, my master riding behind my mistress—
+
+  Both of one horse?
+  What’s that to thee?
+  Why, a horse.
+  Tell thou the tale! But hadst thou not crossed
+
+ me, thou shouldst have heard how her horse fell,
+ and she under her horse; thou shouldst have heard
+ in how miry a place, how she was bemoiled, how he
+ left her with the horse upon her, how he beat me
+ because her horse stumbled, how she waded
+ through the dirt to pluck him off me, how he swore,
+ how she prayed that never prayed before, how I
+ cried, how the horses ran away, how her bridle was
+ burst, how I lost my crupper, with many things of
+ worthy memory which now shall die in oblivion,
+ and thou return unexperienced to thy grave.
+
+  By this reck’ning, he is more shrew than she.
+  Ay, and that thou and the proudest of you all
+
+ shall find when he comes home. But what talk I of
+ this? Call forth Nathaniel, Joseph, Nicholas, Phillip,
+ Walter, Sugarsop, and the rest. Let their heads
+ be slickly combed, their blue coats brushed, and
+ their garters of an indifferent knit. Let them curtsy
+ with their left legs, and not presume to touch a hair
+ of my master’s horse-tail till they kiss their hands.
+ Are they all ready?
+
+  They are.
+  Call them forth.
+
+, calling out
+  Do you hear, ho? You must meet
+
+ my master to countenance my mistress.
+
+  Why, she hath a face of her own.
+
+FTLN 1694
+60
+
+FTLN 1699
+65
+
+FTLN 1704
+70
+
+FTLN 1709
+75
+
+FTLN 1714
+80
+
+FTLN 1719
+85
+
+FTLN 1724
+90
+
+CURTIS
+
+GRUMIO
+
+CURTIS
+
+GRUMIO
+
+NATHANIEL
+
+PHILLIP
+
+JOSEPH
+
+NICHOLAS
+
+NATHANIEL
+
+GRUMIO
+
+NATHANIEL
+
+GRUMIO
+
+PETRUCHIO
+
+ALL THE SERVANTS
+
+PETRUCHIO
+
+GRUMIO
+
+PETRUCHIO
+
+  Who knows not that?
+  Thou, it seems, that calls for company to
+
+ countenance her.
+
+  I call them forth to credit her.
+  Why, she comes to borrow nothing of them.
+
+Enter four or five Servingmen.
+
+  Welcome home, Grumio.
+
+  How now, Grumio?
+  What, Grumio!
+
+  Fellow Grumio!
+  How now, old lad?
+
+  Welcome, you!—How now, you?—What,
+
+ you!—Fellow, you!—And thus much for greeting.
+ Now, my spruce companions, is all ready and all
+ things neat?
+
+  All things is ready. How near is our
+
+ master?
+
+  E’en at hand, alighted by this. And therefore
+
+ be not—Cock’s passion, silence! I hear my master.
+
+Enter Petruchio and Katherine.
+
+  Here! Here, sir, here, sir!
+
+ drudge!
+
+FTLN 1729
+95
+
+FTLN 1734
+100
+
+FTLN 1739
+105
+
+FTLN 1744
+110
+
+FTLN 1749
+115
+
+FTLN 1754
+120
+
+FTLN 1755
+
+FTLN 1756
+
+GRUMIO
+
+The Servants exit.
+
+They sit at a table.
+
+Servant begins to remove Petruchio’s boots.
+
+He hits the Servant.
+
+A Servant exits.
+
+ Did I not bid thee meet me in the park
+ And bring along these rascal knaves with thee?
+
+Sings.   Where is the life that late I led?
+
+ Where are those—
+
+ Sit down, Kate, and welcome.
+
+ Soud, soud, soud, soud!
+
+Enter Servants with supper.
+
+ Why, when, I say?—Nay, good sweet Kate, be
+
+ merry.—
+
+ Off with my boots, you rogues, you villains! When?
+Sings.   It was the friar of orders gray,
+
+ As he forth walkèd on his way—
+
+ Out, you rogue! You pluck my foot awry.
+ Take that! 
+
+ And mend the plucking of the other.—
+
+ Be merry, Kate.—Some water here! What ho!
+
+Enter one with water.
+
+ Where’s my spaniel Troilus? Sirrah, get you hence
+ And bid my cousin Ferdinand come hither.
+
+FTLN 1774
+140
+
+FTLN 1779
+145
+
+FTLN 1780
+
+FTLN 1781
+
+He hits the Servant.
+
+KATHERINE
+
+PETRUCHIO
+
+FIRST SERVANT
+
+PETRUCHIO
+
+PETER
+
+PETRUCHIO
+
+He throws the food and dishes at them.
+
+The Servants exit.
+
+KATHERINE
+
+PETRUCHIO
+
+ One, Kate, that you must kiss and be acquainted
+
+ with.—
+
+ Where are my slippers? Shall I have some water?—
+ Come, Kate, and wash, and welcome heartily.—
+ You whoreson villain, will you let it fall?
+
+  
+ Ay.
+
+  
+ Who brought it?
+
+  
+ I.
+
+  ’Tis burnt, and so is all the meat.
+
+ What dogs are these? Where is the rascal cook?
+ How durst you, villains, bring it from the dresser
+ And serve it thus to me that love it not?
+ There, take it to you, trenchers, cups, and all!
+
+ You heedless joltheads and unmannered slaves!
+ What, do you grumble? I’ll be with you straight.
+
+FTLN 1784
+150
+
+FTLN 1789
+155
+
+FTLN 1799
+165
+
+FTLN 1804
+170
+
+FTLN 1809
+175
+
+They exit.
+
+NATHANIEL
+
+PETER
+
+GRUMIO
+
+CURTIS
+
+The Servants exit.
+
+PETRUCHIO
+
+ And for this night we’ll fast for company.
+ Come, I will bring thee to thy bridal chamber.
+
+Enter Servants severally.
+
+  Peter, didst ever see the like?
+
+  He kills her in her own humor.
+
+Enter Curtis.
+
+  Where is he?
+  In her chamber,
+
+ Making a sermon of continency to her,
+ And rails and swears and rates, that she (poor soul)
+ Knows not which way to stand, to look, to speak,
+ And sits as one new-risen from a dream.
+ Away, away, for he is coming hither!
+
+Enter Petruchio.
+
+FTLN 1814
+180
+
+FTLN 1819
+185
+
+FTLN 1824
+190
+
+FTLN 1829
+195
+
+FTLN 1834
+200
+
+FTLN 1835
+
+FTLN 1836
+
+FTLN 1837
+
+He exits.
+
+TRANIO
+
+HORTENSIO
+
+They stand aside.
+
+LUCENTIO
+
+BIANCA
+
+LUCENTIO
+
+BIANCA
+
+LUCENTIO
+
+They move aside and kiss and talk.
+
+HORTENSIO
+
+ That all is done in reverend care of her.
+ And, in conclusion, she shall watch all night,
+ And, if she chance to nod, I’ll rail and brawl,
+ And with the clamor keep her still awake.
+ This is a way to kill a wife with kindness.
+ And thus I’ll curb her mad and headstrong humor.
+ He that knows better how to tame a shrew,
+ Now let him speak; ’tis charity to shew.
+
+Enter Tranio as Lucentio  and Hortensio as Litio.
+
+, as Lucentio
+ 
+
+ Is ’t possible, friend Litio, that mistress Bianca
+ Doth fancy any other but Lucentio?
+ I tell you, sir, she bears me fair in hand.
+
+, as Litio
+ 
+
+ Sir, to satisfy you in what I have said,
+ Stand by, and mark the manner of his teaching.
+
+Enter Bianca and Lucentio as Cambio.
+
+, as Cambio
+ 
+
+ Now mistress, profit you in what you read?
+
+, as Cambio
+ 
+
+ I read that I profess, The Art to Love.
+
+, as Cambio
+ 
+
+ While you, sweet dear, prove mistress of my heart.
+
+, as Litio
+ 
+
+ Quick proceeders, marry! Now tell me, I pray,
+
+Scene 2
+
+FTLN 1849
+
+FTLN 1850
+5
+
+FTLN 1851
+
+FTLN 1852
+
+FTLN 1853
+
+FTLN 1854
+
+FTLN 1855
+10
+
+FTLN 1856
+
+TRANIO
+
+HORTENSIO
+
+TRANIO
+
+HORTENSIO
+
+TRANIO
+
+HORTENSIO
+
+ You that durst swear that your mistress Bianca
+ Loved none  in the world so well as Lucentio.
+
+, as Lucentio
+ 
+
+ O despiteful love, unconstant womankind!
+ I tell thee, Litio, this is wonderful!
+
+, as Lucentio
+ 
+
+ Signior Hortensio, I have often heard
+ Of your entire affection to Bianca,
+ And since mine eyes are witness of her lightness,
+ I will with you, if you be so contented,
+ Forswear Bianca and her love forever.
+
+, as Lucentio
+ 
+
+ And here I take the like unfeignèd oath,
+ Never to marry with her, though she would entreat.
+ Fie on her, see how beastly she doth court him!
+
+FTLN 1860
+15
+
+FTLN 1865
+20
+
+FTLN 1870
+25
+
+FTLN 1875
+30
+
+FTLN 1877
+
+FTLN 1879
+
+FTLN 1880
+35
+
+FTLN 1881
+
+FTLN 1885
+40
+
+Hortensio exits;
+
+Bianca and Lucentio come forward.
+
+TRANIO
+
+BIANCA
+
+TRANIO
+
+LUCENTIO
+
+TRANIO
+
+BIANCA
+
+TRANIO
+
+BIANCA
+
+TRANIO
+
+BIANCA
+
+TRANIO
+
+BIONDELLO
+
+ Shall win my love, and so I take my leave,
+ In resolution as I swore before.
+
+  
+ Then we are rid of Litio.
+
+  God give him joy.
+ 
+
+ Ay, and he’ll tame her.
+
+  
+ He says so, Tranio?
+
+Enter Biondello.
+
+FTLN 1889
+
+FTLN 1890
+45
+
+FTLN 1895
+50
+
+FTLN 1900
+55
+
+FTLN 1905
+60
+
+BIONDELLO
+
+LUCENTIO
+
+TRANIO
+
+Lucentio and Bianca exit.
+
+MERCHANT
+
+TRANIO
+
+MERCHANT
+
+TRANIO
+
+MERCHANT
+
+TRANIO
+
+MERCHANT
+
+TRANIO
+
+  
+ What is he, Biondello?
+
+  And what of him, Tranio?
+
+Enter a Merchant.
+
+, as Lucentio
+   And you, sir. You are welcome.
+
+ Travel you far on, or are you at the farthest?
+
+, as Lucentio
+ 
+
+ What countryman, I pray?
+
+  
+ Of Mantua.
+
+, as Lucentio
+ 
+
+ Of Mantua, sir? Marry, God forbid!
+ And come to Padua, careless of your life?
+
+, as Lucentio
+ 
+
+ ’Tis death for anyone in Mantua
+ To come to Padua. Know you not the cause?
+ Your ships are stayed at Venice, and the Duke,
+ For private quarrel ’twixt your duke and him,
+
+FTLN 1920
+75
+
+FTLN 1921
+
+FTLN 1922
+
+FTLN 1923
+
+FTLN 1924
+
+FTLN 1925
+80
+
+FTLN 1926
+
+FTLN 1927
+
+FTLN 1928
+
+FTLN 1929
+
+FTLN 1930
+85
+
+FTLN 1931
+
+FTLN 1932
+
+FTLN 1933
+
+FTLN 1934
+
+MERCHANT
+
+TRANIO
+
+MERCHANT
+
+TRANIO
+
+MERCHANT
+
+TRANIO
+
+BIONDELLO
+
+TRANIO
+
+ Hath published and proclaimed it openly.
+ ’Tis marvel, but that you are but newly come,
+ You might have heard it else proclaimed about.
+
+, as Lucentio
+ 
+
+ Well, sir, to do you courtesy,
+ This will I do, and this I will advise you.
+ First tell me, have you ever been at Pisa?
+
+, as Lucentio
+ 
+
+ Among them know you one Vincentio?
+
+, as Lucentio
+ 
+
+ He is my father, sir, and sooth to say,
+ In count’nance somewhat doth resemble you.
+
+, aside
+  As much as an apple doth an
+
+ oyster, and all one.
+
+, as Lucentio
+ 
+
+ To save your life in this extremity,
+ This favor will I do you for his sake
+ (And think it not the worst of all your fortunes
+ That you are like to Sir Vincentio):
+ His name and credit shall you undertake,
+ And in my house you shall be friendly lodged.
+ Look that you take upon you as you should.
+ You understand me, sir. So shall you stay
+ Till you have done your business in the city.
+ If this be court’sy, sir, accept of it.
+
+FTLN 1939
+
+FTLN 1940
+95
+
+FTLN 1944
+
+FTLN 1945
+100
+
+FTLN 1946
+
+FTLN 1947
+
+FTLN 1948
+
+FTLN 1949
+
+FTLN 1950
+105
+
+FTLN 1951
+
+FTLN 1952
+
+FTLN 1953
+
+FTLN 1954
+
+FTLN 1955
+110
+
+FTLN 1956
+
+FTLN 1957
+
+FTLN 1958
+
+FTLN 1959
+
+FTLN 1960
+115
+
+FTLN 1961
+
+FTLN 1962
+
+MERCHANT
+
+TRANIO
+
+They exit.
+
+GRUMIO
+
+KATHERINE
+
+GRUMIO
+
+, as Lucentio
+ 
+
+ Then go with me, to make the matter good.
+ This, by the way, I let you understand:
+ My father is here looked for every day
+ To pass assurance of a dower in marriage
+ ’Twixt me and one Baptista’s daughter here.
+ In all these circumstances I’ll instruct you.
+ Go with me to clothe you as becomes you.
+
+Enter Katherine and Grumio.
+
+  What say you to a neat’s foot?
+
+FTLN 1963
+
+FTLN 1964
+
+FTLN 1965
+120
+
+FTLN 1966
+
+FTLN 1967
+
+FTLN 1970
+125
+
+Scene 3
+
+FTLN 1976
+5
+
+FTLN 1981
+10
+
+FTLN 1985
+
+FTLN 1986
+15
+
+GRUMIO
+
+GRUMIO
+
+GRUMIO
+
+KATHERINE
+
+GRUMIO
+
+KATHERINE
+
+GRUMIO
+
+KATHERINE
+
+She  beats him.
+
+PETRUCHIO
+
+HORTENSIO
+
+KATHERINE
+
+ That feed’st me with the very name of meat.
+ Sorrow on thee, and all the pack of you
+ That triumph thus upon my misery.
+ Go, get thee gone, I say.
+
+Enter Petruchio and Hortensio with meat.
+
+  
+ Faith, as cold as can be.
+
+FTLN 1991
+20
+
+FTLN 1996
+25
+
+FTLN 2001
+30
+
+FTLN 2006
+35
+
+FTLN 2008
+
+FTLN 2009
+
+KATHERINE
+
+HORTENSIO
+
+PETRUCHIO
+
+Katherine and Hortensio prepare to eat.
+
+  I pray you, let it stand.
+ 
+
+ The poorest service is repaid with thanks,
+ And so shall mine before you touch the meat.
+
+  I thank you, sir.
+ 
+
+ Signior Petruchio, fie, you are to blame.
+ Come, Mistress Kate, I’ll bear you company.
+
+, aside to Hortensio
+ 
+
+ Eat it up all, Hortensio, if thou lovest me.—
+ Much good do it unto thy gentle heart.
+ Kate, eat apace.
+
+ And now, my honey love,
+
+ Will we return unto thy father’s house
+ And revel it as bravely as the best,
+ With silken coats and caps and golden rings,
+ With ruffs and cuffs and farthingales and things,
+ With scarves and fans and double change of brav’ry,
+ With amber bracelets, beads, and all this knav’ry.
+ What, hast thou dined? The tailor stays thy leisure
+ To deck thy body with his ruffling treasure.
+
+Enter Tailor.
+
+ Come, tailor, let us see these ornaments.
+ Lay forth the gown.
+
+Enter Haberdasher.
+
+ What news with you, sir?
+
+FTLN 2026
+55
+
+FTLN 2031
+60
+
+FTLN 2036
+65
+
+FTLN 2037
+
+HABERDASHER
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+HORTENSIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+Exit Haberdasher.
+
+PETRUCHIO
+
+, aside
+   That will not be in haste.
+
+FTLN 2038
+
+FTLN 2041
+70
+
+FTLN 2046
+75
+
+FTLN 2051
+80
+
+FTLN 2056
+85
+
+FTLN 2061
+90
+
+HORTENSIO
+
+TAILOR
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+TAILOR
+
+PETRUCHIO
+
+ What’s this? A sleeve? ’Tis like a  demi-cannon.
+ What, up and down carved like an apple tart?
+ Here’s snip and nip and cut and slish and slash,
+ Like to a censer in a barber’s shop.
+ Why, what a devil’s name, tailor, call’st thou this?
+
+, aside
+ 
+
+ I see she’s like to have neither cap nor gown.
+
+ commendable.
+
+ Belike you mean to make a puppet of me.
+
+ her.
+
+ thou thimble,
+
+ Thou yard, three-quarters, half-yard, quarter, nail!
+ Thou flea, thou nit, thou winter cricket, thou!
+ Braved in mine own house with a skein of thread?
+ Away, thou rag, thou quantity, thou remnant,
+ Or I shall so be-mete thee with thy yard
+ As thou shalt think on prating whilst thou liv’st.
+ I tell thee, I, that thou hast marred her gown.
+
+FTLN 2066
+95
+
+FTLN 2071
+100
+
+FTLN 2076
+105
+
+FTLN 2081
+110
+
+FTLN 2086
+115
+
+FTLN 2091
+120
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+He shows a paper.
+
+PETRUCHIO
+
+GRUMIO
+
+TAILOR
+
+GRUMIO
+
+PETRUCHIO
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+GRUMIO
+
+TAILOR
+
+PETRUCHIO
+
+GRUMIO
+
+  I gave him no order. I gave him the stuff.
+ 
+
+ But how did you desire it should be made?
+
+  Marry, sir, with needle and thread.
+ 
+
+ But did you not request to have it cut?
+
+  Thou hast faced many things.
+  I have.
+  Face not me. Thou hast braved many men;
+
+ brave not me. I will neither be faced nor braved. I
+ say unto thee, I bid thy master cut out the gown,
+ but I did not bid him cut it to pieces. Ergo, thou
+ liest.
+
+  Why, here is the note of the fashion to testify.
+
+  Read it.
+
+  The note lies in ’s throat, if he say I said so.
+
+ reads
+  “Imprimis, a loose-bodied gown—”
+
+  Master, if ever I said “loose-bodied gown,”
+
+ sew me in the skirts of it and beat me to death with
+ a bottom of brown thread. I said “a gown.”
+
+  Proceed.
+
+ reads
+  “With a small-compassed cape—”
+
+  I confess the cape.
+
+ reads
+  “With a trunk sleeve—”
+
+  I confess two sleeves.
+
+ reads
+  “The sleeves curiously cut.”
+
+  Ay, there’s the villainy.
+
+  Error i’ th’ bill, sir, error i’ th’ bill! I commanded
+
+ the sleeves should be cut out and sewed
+ up again, and that I’ll prove upon thee, though thy
+ little finger be armed in a thimble.
+
+FTLN 2096
+125
+
+FTLN 2106
+135
+
+FTLN 2111
+140
+
+FTLN 2116
+145
+
+FTLN 2121
+150
+
+TAILOR
+
+GRUMIO
+
+PETRUCHIO
+
+GRUMIO
+
+GRUMIO
+
+PETRUCHIO
+
+GRUMIO
+
+HORTENSIO
+
+Tailor exits.
+
+PETRUCHIO
+
+  This is true that I say. An I had thee in place
+
+ where, thou shouldst know it.
+
+  I am for thee straight. Take thou the bill, give
+
+ me thy mete-yard, and spare not me.
+
+  God-a-mercy, Grumio, then he shall have
+
+ no odds.
+
+  You are i’ th’ right, sir, ’tis for my mistress.
+
+  Villain, not for thy life! Take up my mistress’
+
+ gown for thy master’s use!
+
+  Why, sir, what’s your conceit in that?
+
+  O, sir, the conceit is deeper than you think
+
+ for. Take up my mistress’ gown to his master’s use!
+ O, fie, fie, fie!
+
+, aside to Hortensio
+ 
+
+ Hortensio, say thou wilt see the tailor paid.
+  To Tailor.  Go, take it hence. Begone, and say no
+
+ more.
+
+, aside to Tailor
+ 
+
+ Tailor, I’ll pay thee for thy gown tomorrow.
+ Take no unkindness of his hasty words.
+ Away, I say. Commend me to thy master.
+
+FTLN 2131
+160
+
+FTLN 2141
+170
+
+FTLN 2146
+175
+
+FTLN 2151
+180
+
+KATHERINE
+
+PETRUCHIO
+
+HORTENSIO
+
+They exit.
+
+TRANIO
+
+MERCHANT
+
+ Because his painted skin contents the eye?
+ O no, good Kate. Neither art thou the worse
+ For this poor furniture and mean array.
+ If thou account’st  it shame, lay it on me,
+ And therefore frolic! We will hence forthwith
+ To feast and sport us at thy father’s house.
+  To Grumio.  Go, call my men, and let us straight to
+
+ him,
+
+ And bring our horses unto Long-lane end.
+ There will we mount, and thither walk on foot.
+ Let’s see, I think ’tis now some seven o’clock,
+ And well we may come there by dinner time.
+
+, aside
+ 
+
+ Why, so, this gallant will command the sun!
+
+Enter Tranio as Lucentio,  and the Merchant,  booted,
+
+and dressed like Vincentio.
+
+, as Lucentio
+ 
+
+ Sir,  this is the house. Please it you that I call?
+
+FTLN 2161
+190
+
+FTLN 2166
+195
+
+FTLN 2171
+200
+
+Scene 4
+
+FTLN 2175
+
+FTLN 2176
+
+FTLN 2177
+
+FTLN 2178
+
+FTLN 2179
+5
+
+MERCHANT
+
+TRANIO
+
+BIONDELLO
+
+TRANIO
+
+BIONDELLO
+
+TRANIO
+
+He gives him money.
+
+Merchant stands  bareheaded.
+
+TRANIO
+
+MERCHANT
+
+ ’Tis well. And hold your own in any case
+ With such austerity as ’longeth to a father.
+
+Enter Biondello.
+
+ But, sir, here comes your boy.
+
+ ’Twere good he were schooled.
+
+, as Lucentio
+ 
+
+ Fear you not him.—Sirrah Biondello,
+ Now do your duty throughly, I advise you.
+ Imagine ’twere the right Vincentio.
+
+  Tut, fear not me.
+
+, as Lucentio
+ 
+
+ But hast thou done thy errand to Baptista?
+
+, as Lucentio
+ 
+
+ Thou ’rt a tall fellow. Hold thee that to drink.
+
+Enter Baptista and Lucentio as Cambio.
+
+ Here comes Baptista. Set your countenance, sir.
+
+, as Lucentio
+ 
+
+ Signior Baptista, you are happily met.—
+ Sir, this is the gentleman I told you of.
+ I pray you stand good father to me now.
+ Give me Bianca for my patrimony.
+
+, as Vincentio
+  Soft, son.—
+
+ Sir, by your leave, having come to Padua
+ To gather in some debts, my son Lucentio
+ Made me acquainted with a weighty cause
+ Of love between your daughter and himself.
+
+FTLN 2182
+
+FTLN 2184
+10
+
+FTLN 2185
+
+FTLN 2186
+
+FTLN 2187
+
+FTLN 2189
+15
+
+FTLN 2190
+
+FTLN 2191
+
+FTLN 2192
+
+FTLN 2193
+
+FTLN 2194
+20
+
+FTLN 2195
+
+FTLN 2196
+
+FTLN 2197
+
+FTLN 2198
+
+FTLN 2199
+25
+
+FTLN 2200
+
+FTLN 2201
+
+FTLN 2202
+
+BAPTISTA
+
+TRANIO
+
+BAPTISTA
+
+TRANIO
+
+He indicates Lucentio, and winks at him.
+
+ And, for the good report I hear of you,
+ And for the love he beareth to your daughter
+ And she to him, to stay him not too long,
+ I am content, in a good father’s care,
+ To have him matched. And if you please to like
+ No worse than I, upon some agreement
+ Me shall you find ready and willing
+ With one consent to have her so bestowed,
+ For curious I cannot be with you,
+ Signior Baptista, of whom I hear so well.
+
+, as Lucentio
+ 
+
+ I thank you, sir. Where then do you know best
+ We be affied and such assurance ta’en
+ As shall with either part’s agreement stand?
+
+, as Lucentio
+ 
+
+ Then at my lodging, an it like you.
+ There doth my father lie, and there this night
+ We’ll pass the business privately and well.
+ Send for your daughter by your servant here.
+
+FTLN 2204
+30
+
+FTLN 2214
+40
+
+FTLN 2219
+45
+
+FTLN 2224
+50
+
+FTLN 2229
+55
+
+BAPTISTA
+
+Lucentio exits.
+
+BIONDELLO
+
+TRANIO
+
+BAPTISTA
+
+All but Biondello  exit.
+
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+ My boy shall fetch the scrivener presently.
+ The worst is this: that at so slender warning
+ You are like to have a thin and slender pittance.
+
+, as Lucentio
+ 
+
+ Dally not with the gods, but get thee gone.—
+ Signior Baptista, shall I lead the way?
+ Welcome! One mess is like to be your cheer.
+ Come, sir, we will better it in Pisa.
+
+  I follow you.
+
+Enter Lucentio.
+
+  Cambio.
+
+  What sayst thou, Biondello?
+
+  You saw my master wink and laugh upon
+
+ you?
+
+  Biondello, what of that?
+
+  Faith, nothing; but ’has left me here behind
+
+ to expound the meaning or moral of his signs
+ and tokens.
+
+  I pray thee, moralize them.
+
+  Then thus: Baptista is safe, talking with
+
+ the deceiving father of a deceitful son.
+
+  And what of him?
+
+  His daughter is to be brought by you to the
+
+ supper.
+
+FTLN 2244
+70
+
+FTLN 2249
+75
+
+FTLN 2254
+80
+
+FTLN 2259
+85
+
+LUCENTIO
+BIONDELLO
+
+LUCENTIO
+BIONDELLO
+
+LUCENTIO
+
+BIONDELLO
+
+He exits.
+
+LUCENTIO
+
+He exits.
+
+PETRUCHIO
+
+KATHERINE
+
+  And then?
+
+  The old priest at Saint Luke’s Church is at
+
+ your command at all hours.
+
+  And what of all this?
+
+  I cannot tell, except  they are busied
+
+ about a counterfeit assurance. Take you assurance
+ of her cum privilegio ad imprimendum solum. To th’
+ church take the priest, clerk, and some sufficient
+ honest witnesses.
+
+ If this be not that you look for, I have no more to
+
+ say,
+
+ But bid Bianca farewell forever and a day.
+
+  Hear’st thou, Biondello?
+
+  I cannot tarry. I knew a wench married in
+
+ an afternoon as she went to the garden for parsley
+ to stuff a rabbit, and so may you, sir. And so adieu,
+ sir. My master hath appointed me to go to Saint
+ Luke’s to bid the priest be ready to come against
+ you come with your appendix. 
+
+ doubt?
+
+ Hap what hap may, I’ll roundly go about her.
+ It shall go hard if “Cambio” go without her.
+
+Enter Petruchio, Katherine, Hortensio, and Servants.
+
+ father’s.
+
+ Good Lord, how bright and goodly shines the moon!
+
+FTLN 2269
+95
+
+FTLN 2274
+100
+
+FTLN 2279
+105
+
+FTLN 2284
+110
+
+Scene 5
+
+FTLN 2289
+
+HORTENSIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+HORTENSIO
+
+PETRUCHIO
+
+ again.—
+
+ Evermore crossed and crossed, nothing but crossed!
+
+, to Katherine
+ 
+
+ Say as he says, or we shall never go.
+
+  I say it is the moon.
+  I know it is the moon.
+ 
+
+ Nay, then you lie. It is the blessèd sun.
+
+Enter Vincentio.
+
+FTLN 2290
+5
+
+FTLN 2295
+10
+
+FTLN 2300
+15
+
+FTLN 2305
+20
+
+FTLN 2310
+25
+
+HORTENSIO
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+VINCENTIO
+
+  To Vincentio.  Good morrow, gentle mistress, where
+
+ away?—
+
+ Tell me, sweet Kate, and tell me truly, too,
+ Hast thou beheld a fresher gentlewoman?
+ Such war of white and red within her cheeks!
+ What stars do spangle heaven with such beauty
+ As those two eyes become that heavenly face?—
+ Fair lovely maid, once more good day to thee.—
+ Sweet Kate, embrace her for her beauty’s sake.
+
+, aside
+ 
+
+ He will make the man mad, to make the woman of
+
+ him.
+
+FTLN 2320
+35
+
+FTLN 2325
+40
+
+FTLN 2330
+45
+
+FTLN 2331
+
+FTLN 2335
+50
+
+FTLN 2340
+55
+
+VINCENTIO
+
+VINCENTIO
+
+HORTENSIO
+
+PETRUCHIO
+
+All but Hortensio  exit.
+
+HORTENSIO
+
+He exits.
+
+ And bound I am to Padua, there to visit
+ A son of mine which long I have not seen.
+
+  
+ Lucentio, gentle sir.
+
+FTLN 2355
+70
+
+FTLN 2360
+75
+
+FTLN 2365
+80
+
+BIONDELLO
+
+LUCENTIO
+
+Lucentio exits with Bianca.
+
+BIONDELLO
+
+He exits.
+
+GREMIO
+
+PETRUCHIO
+
+VINCENTIO
+
+He  knocks.
+
+Enter Biondello, Lucentio as himself,  and Bianca.
+
+Gremio is out before and stands to the side.
+
+  Softly and swiftly, sir, for the priest is
+
+ ready.
+
+  I fly, Biondello. But they may chance to
+
+ need thee at home. Therefore leave us.
+
+  Nay, faith, I’ll see the church a’ your back,
+
+ and then come back to my master’s  as soon as I
+ can. 
+
+  I marvel Cambio comes not all this while.
+
+Enter Petruchio, Katherine, Vincentio, Grumio, with
+
+Attendants.
+
+FTLN 2374
+5
+
+FTLN 2376
+
+FTLN 2377
+
+FTLN 2378
+
+FTLN 2379
+10
+
+FTLN 2380
+
+FTLN 2381
+
+FTLN 2382
+
+FTLN 2383
+
+Merchant  looks out of the window.
+
+MERCHANT
+
+VINCENTIO
+
+MERCHANT
+
+VINCENTIO
+
+MERCHANT
+
+PETRUCHIO
+
+MERCHANT
+
+VINCENTIO
+
+MERCHANT
+
+PETRUCHIO
+
+MERCHANT
+
+BIONDELLO
+
+, coming forward
+ 
+
+ They’re busy within. You were best knock louder.
+
+, as Vincentio
+  What’s he that knocks as
+
+ he would beat down the gate?
+
+  Is Signior Lucentio within, sir?
+, as Vincentio
+  He’s within, sir, but not to
+
+ be spoken withal.
+
+  What if a man bring him a hundred pound
+
+ or two to make merry withal?
+
+, as Vincentio
+  Keep your hundred
+
+ pounds to yourself. He shall need none so long as I
+ live.
+
+, to Vincentio
+  Nay, I told you your son was
+
+ well beloved in Padua.—Do you hear, sir? To leave
+ frivolous circumstances, I pray you tell Signior
+ Lucentio that his father is come from Pisa and is
+ here at the door to speak with him.
+
+, as Vincentio
+  Thou liest. His father is
+
+ come from Padua and here looking out at the
+ window.
+
+  Art thou his father?
+, as Vincentio
+  Ay, sir, so his mother says,
+
+ if I may believe her.
+
+, to Vincentio
+  Why, how now, gentleman!
+
+ Why, this is flat knavery, to take upon you another
+ man’s name.
+
+, as Vincentio
+  Lay hands on the villain. I
+
+ believe he means to cosen somebody in this city
+ under my countenance.
+
+Enter Biondello.
+
+, aside
+  I have seen them in the church
+
+ together. God send ’em good shipping! But who is
+ here? Mine old master Vincentio! Now we are
+ undone and brought to nothing.
+
+FTLN 2384
+15
+
+FTLN 2386
+
+FTLN 2387
+
+FTLN 2388
+
+FTLN 2389
+20
+
+FTLN 2390
+
+FTLN 2391
+
+FTLN 2392
+
+FTLN 2393
+
+FTLN 2394
+25
+
+FTLN 2395
+
+FTLN 2396
+
+FTLN 2397
+
+FTLN 2398
+
+FTLN 2399
+30
+
+FTLN 2400
+
+FTLN 2401
+
+FTLN 2402
+
+FTLN 2403
+
+FTLN 2404
+35
+
+FTLN 2405
+
+FTLN 2406
+
+FTLN 2407
+
+FTLN 2408
+
+FTLN 2409
+40
+
+FTLN 2410
+
+FTLN 2411
+
+FTLN 2412
+
+FTLN 2413
+
+FTLN 2414
+45
+
+FTLN 2415
+
+VINCENTIO
+
+BIONDELLO
+
+VINCENTIO
+
+BIONDELLO
+
+VINCENTIO
+
+BIONDELLO
+
+VINCENTIO
+He beats Biondello.
+
+BIONDELLO
+
+Biondello exits.
+
+MERCHANT
+
+He exits from window.
+
+PETRUCHIO
+
+They move aside.
+
+TRANIO
+
+VINCENTIO
+
+TRANIO
+
+BAPTISTA
+
+TRANIO
+
+, to Biondello
+  Come hither, crack-hemp.
+
+  I hope I may choose, sir.
+  Come hither, you rogue! What, have you
+
+ forgot me?
+
+  Forgot you? No, sir. I could not forget you,
+
+ for I never saw you before in all my life.
+
+  What, you notorious villain, didst thou
+
+ never see thy master’s  father, Vincentio?
+
+  What, my old worshipful old master? Yes,
+
+ marry, sir. See where he looks out of the window.
+
+  Is ’t so indeed? 
+  Help, help, help! Here’s a madman will
+
+ murder me. 
+
+, as Vincentio
+  Help, son! Help, Signior
+
+ Baptista! 
+
+  Prithee, Kate, let’s stand aside and see the
+
+ end of this controversy. 
+
+Enter Merchant  with Servants, and  Baptista and
+
+Tranio disguised as Lucentio.
+
+, as Lucentio
+  Sir, what are you that offer to
+
+ beat my servant?
+
+  What am I, sir? Nay, what are you, sir! O
+
+ immortal gods! O fine villain! A silken doublet, a
+ velvet hose, a scarlet cloak, and a copatain hat! O, I
+ am undone, I am undone! While I play the good
+ husband at home, my son and my servant spend all
+ at the university.
+
+, as Lucentio
+  How now, what’s the matter?
+
+  What, is the man lunatic?
+
+, as Lucentio
+  Sir, you seem a sober ancient
+
+ gentleman by your habit, but your words show you
+ a madman. Why, sir, what ’cerns it you if I wear
+ pearl and gold? I thank my good father, I am able
+ to maintain it.
+
+FTLN 2419
+50
+
+FTLN 2424
+55
+
+FTLN 2429
+60
+
+FTLN 2430
+
+FTLN 2431
+
+FTLN 2432
+
+FTLN 2433
+
+FTLN 2434
+65
+
+FTLN 2435
+
+FTLN 2436
+
+FTLN 2437
+
+FTLN 2438
+
+FTLN 2439
+70
+
+FTLN 2440
+
+FTLN 2441
+
+FTLN 2442
+
+FTLN 2443
+
+FTLN 2444
+75
+
+FTLN 2445
+
+FTLN 2446
+
+FTLN 2447
+
+VINCENTIO
+
+BAPTISTA
+
+VINCENTIO
+
+MERCHANT
+
+VINCENTIO
+
+TRANIO
+
+VINCENTIO
+GREMIO
+
+BAPTISTA
+
+GREMIO
+
+MERCHANT
+
+GREMIO
+TRANIO
+
+GREMIO
+
+BAPTISTA
+VINCENTIO
+
+  Thy father! O villain, he is a sailmaker in
+
+ Bergamo.
+
+  You mistake, sir, you mistake, sir! Pray, what
+
+ do you think is his name?
+
+  His name? As if I knew not his name! I have
+
+ brought him up ever since he was three years old,
+ and his name is Tranio.
+
+, as Vincentio
+  Away, away, mad ass! His
+
+ name is Lucentio and he is mine only son, and heir
+ to the lands of me, Signior Vincentio.
+
+  Lucentio? O, he hath murdered his master!
+
+ Lay hold on him, I charge you in the Duke’s name.
+ O, my son, my son! Tell me, thou villain, where is
+ my son Lucentio?
+
+, as Lucentio
+  Call forth an officer.
+
+Enter an Officer.
+
+ Carry this mad knave to the jail.—Father Baptista, I
+ charge you see that he be forthcoming.
+
+  Carry me to the jail?
+
+  Stay, officer. He shall not go to prison.
+
+  Talk not, Signior Gremio. I say he shall go to
+
+ prison.
+
+  Take heed, Signior Baptista, lest you be cony-catched
+
+ in this business. I dare swear this is the
+ right Vincentio.
+
+, as Vincentio
+  Swear, if thou dar’st.
+
+  Nay, I dare not swear it.
+
+, as Lucentio
+  Then thou wert best say that I
+
+ am not Lucentio.
+
+  Yes, I know thee to be Signior Lucentio.
+
+  Away with the dotard, to the jail with him.
+
+  Thus strangers may be haled and abused.—
+
+ O monstrous villain!
+
+Enter Biondello, Lucentio and Bianca.
+
+FTLN 2449
+80
+
+FTLN 2459
+90
+
+FTLN 2464
+95
+
+FTLN 2473
+
+FTLN 2474
+105
+
+FTLN 2475
+
+FTLN 2476
+
+FTLN 2477
+
+FTLN 2478
+
+FTLN 2479
+110
+
+BIONDELLO
+
+Biondello, Tranio, and Merchant
+
+exit as fast as may be.
+
+LUCENTIO
+
+Lucentio and Bianca  kneel.
+
+VINCENTIO
+
+BIANCA
+
+BAPTISTA
+
+LUCENTIO
+
+GREMIO
+
+VINCENTIO
+
+BAPTISTA
+
+BIANCA
+
+LUCENTIO
+
+VINCENTIO
+
+BAPTISTA
+
+  O, we are spoiled, and yonder he is! Deny
+
+ him, forswear him, or else we are all undone.
+
+  
+ Lives my sweet son?
+
+  
+ How hast thou offended?
+
+ Where is Lucentio?
+
+  
+ Here’s Lucentio,
+
+ Right son to the right Vincentio,
+ That have by marriage made thy daughter mine
+ While counterfeit supposes bleared thine eyne.
+
+  I’ll slit the villain’s nose that would have
+
+ sent me to the jail!
+
+  But do you hear, sir, have you married my
+
+ daughter without asking my goodwill?
+
+FTLN 2484
+115
+
+FTLN 2489
+120
+
+FTLN 2494
+125
+
+FTLN 2499
+130
+
+FTLN 2504
+135
+
+VINCENTIO
+
+He exits.
+
+BAPTISTA
+
+He exits.
+
+LUCENTIO
+
+They exit.
+
+GREMIO
+
+He exits.
+
+KATHERINE
+
+PETRUCHIO
+KATHERINE
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+She kisses him.
+
+PETRUCHIO
+
+They exit.
+
+LUCENTIO
+
+  Fear not, Baptista, we will content you. Go
+
+ to! But I will in to be revenged for this villainy.
+
+  And I to sound the depth of this knavery.
+
+  Look not pale, Bianca. Thy father will not
+
+ frown. 
+
+  Husband, let’s follow to see the end of
+
+ this ado.
+
+  First kiss me, Kate, and we will.
+  What, in the midst of the street?
+  What, art thou ashamed of me?
+  No,  sir, God forbid, but ashamed to kiss.
+ 
+
+ Why, then, let’s home again.  To Grumio.  Come,
+
+ sirrah, let’s away.
+
+ Now pray thee, love, stay.
+
+Enter Baptista, Vincentio, Gremio, the Merchant,
+Lucentio, and Bianca; Hortensio  and the  Widow,
+Petruchio and Katherine;  Tranio, Biondello, and
+Grumio, with  Servingmen bringing in a banquet.
+
+FTLN 2514
+145
+
+FTLN 2519
+150
+
+Scene 2
+
+FTLN 2526
+
+They sit.
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+HORTENSIO
+
+PETRUCHIO
+
+WIDOW
+
+PETRUCHIO
+
+WIDOW
+
+PETRUCHIO
+
+KATHERINE
+
+WIDOW
+PETRUCHIO
+
+HORTENSIO
+
+ And time it is when raging war is done
+ To smile at ’scapes and perils overblown.
+ My fair Bianca, bid my father welcome,
+ While I with selfsame kindness welcome thine.
+ Brother Petruchio, sister Katherina,
+ And thou, Hortensio, with thy loving widow,
+ Feast with the best, and welcome to my house.
+ My banquet is to close our stomachs up
+ After our great good cheer. Pray you, sit down,
+ For now we sit to chat as well as eat. 
+
+  
+ Mistress, how mean you that?
+
+  Thus I conceive by him.
+
+FTLN 2530
+5
+
+FTLN 2535
+10
+
+FTLN 2540
+15
+
+FTLN 2545
+20
+
+FTLN 2550
+25
+
+WIDOW
+
+WIDOW
+
+KATHERINE
+
+PETRUCHIO
+
+HORTENSIO
+
+PETRUCHIO
+
+HORTENSIO
+
+PETRUCHIO
+
+He  drinks to Hortensio.
+
+BAPTISTA
+
+GREMIO
+
+BIANCA
+
+VINCENTIO
+
+BIANCA
+
+PETRUCHIO
+
+  
+ Right, I mean you.
+
+  To her, Kate!
+  To her, widow!
+ 
+
+ A hundred marks, my Kate does put her down.
+
+  That’s my office.
+ 
+
+ Spoke like an officer! Ha’ to thee, lad.
+
+FTLN 2565
+40
+
+FTLN 2570
+45
+
+BIANCA
+
+Bianca, Katherine, and the Widow  exit.
+
+PETRUCHIO
+
+TRANIO
+
+PETRUCHIO
+
+TRANIO
+
+BAPTISTA
+
+LUCENTIO
+
+HORTENSIO
+
+PETRUCHIO
+
+BAPTISTA
+
+PETRUCHIO
+
+FTLN 2580
+55
+
+FTLN 2585
+60
+
+FTLN 2590
+65
+
+FTLN 2595
+70
+
+LUCENTIO
+
+LUCENTIO
+
+HORTENSIO
+LUCENTIO
+
+BIONDELLO
+He exits.
+
+BAPTISTA
+
+LUCENTIO
+
+BIONDELLO
+
+PETRUCHIO
+
+GREMIO
+
+PETRUCHIO
+HORTENSIO
+
+Biondello exits.
+
+PETRUCHIO
+
+  
+ Twenty crowns.
+
+  Twenty crowns?
+
+ I’ll venture so much of my hawk or hound,
+ But twenty times so much upon my wife.
+
+  
+ Content.
+
+  
+ A match! ’Tis done.
+
+  Who shall begin?
+  That will I.
+
+ Go, Biondello, bid your mistress come to me.
+
+  I go. 
+
+Enter Biondello.
+
+ How now, what news?
+
+  
+ Sir, my mistress sends you
+
+ word
+
+ That she is busy, and she cannot come.
+
+  
+ Ay, and a kind one, too.
+
+ Pray God, sir, your wife send you not a worse.
+
+  I hope better.
+ 
+
+ Sirrah Biondello, go and entreat my wife
+ To come to me forthwith. 
+
+  
+ O ho, entreat her!
+
+ Nay, then, she must needs come.
+
+FTLN 2600
+75
+
+FTLN 2605
+80
+
+FTLN 2610
+85
+
+FTLN 2615
+90
+
+FTLN 2619
+
+FTLN 2620
+95
+
+FTLN 2623
+
+BIONDELLO
+
+Grumio  exits.
+
+HORTENSIO
+
+HORTENSIO
+PETRUCHIO
+
+BAPTISTA
+
+KATHERINE
+
+PETRUCHIO
+
+KATHERINE
+
+PETRUCHIO
+
+Katherine exits.
+
+LUCENTIO
+
+HORTENSIO
+
+  
+ I am afraid, sir,
+
+ Do what you can, yours will not be entreated.
+
+Enter Biondello.
+
+ Now, where’s my wife?
+
+  Worse and worse. She will not come!
+
+ O vile, intolerable, not to be endured!—
+ Sirrah Grumio, go to your mistress,
+ Say I command her come to me. 
+
+  
+ What?
+
+  
+ She will not.
+
+Enter Katherine.
+
+FTLN 2630
+105
+
+FTLN 2635
+110
+
+FTLN 2640
+115
+
+FTLN 2645
+120
+
+BAPTISTA
+
+She obeys.
+
+WIDOW
+
+BIANCA
+
+LUCENTIO
+
+BIANCA
+
+PETRUCHIO
+
+Enter Katherine, Bianca, and Widow.
+
+ See where she comes, and brings your froward
+
+ wives
+
+ As prisoners to her womanly persuasion.—
+ Katherine, that cap of yours becomes you not.
+ Off with that bauble, throw it underfoot.
+
+ women
+
+ What duty they do owe their lords and husbands.
+
+FTLN 2655
+130
+
+FTLN 2660
+135
+
+FTLN 2665
+140
+
+FTLN 2670
+145
+
+FTLN 2671
+
+WIDOW
+
+PETRUCHIO
+
+WIDOW
+
+PETRUCHIO
+
+KATHERINE
+
+ telling.
+
+  She shall not.
+
+FTLN 2675
+150
+
+FTLN 2680
+155
+
+FTLN 2685
+160
+
+FTLN 2690
+165
+
+FTLN 2695
+170
+
+FTLN 2700
+175
+
+They kiss.
+
+LUCENTIO
+
+VINCENTIO
+
+LUCENTIO
+
+PETRUCHIO
+
+Petruchio and Katherine  exit.
+
+HORTENSIO
+
+LUCENTIO
+
+They exit.
+
+ Or seek for rule, supremacy, and sway
+ When they are bound to serve, love, and obey.
+ Why are our bodies soft and weak and smooth,
+ Unapt to toil and trouble in the world,
+ But that our soft conditions and our hearts
+ Should well agree with our external parts?
+ Come, come, you froward and unable worms!
+ My mind hath been as big as one of yours,
+ My heart as great, my reason haply more,
+ To bandy word for word and frown for frown;
+ But now I see our lances are but straws,
+ Our strength as weak, our weakness past compare,
+ That seeming to be most which we indeed least are.
+ Then vail your stomachs, for it is no boot,
+ And place your hands below your husband’s foot;
+ In token of which duty, if he please,
+ My hand is ready, may it do him ease.
+
+  Come, Kate, we’ll to bed.
+
+ We three are married, but you two are sped.
+  To Lucentio.  ’Twas I won the wager, though you
+
+ hit the white,
+
+ And being a winner, God give you good night.
+
+FTLN 2720
+195
+
+FTLN 2725
+200
+
+FTLN 2730
+205
+
